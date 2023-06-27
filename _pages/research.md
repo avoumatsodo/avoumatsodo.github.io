@@ -23,10 +23,10 @@ Abstract:
   </p> -->
   
 ## Work in Progress
-  Innovation, Trade, and Structural Change
+  Innovation, Trade, and Structural Change (December 2022)
 <!--  Abstract: 
 <p align="justify">   bla bla bla
   </p> 
   -->
-  Sectoral Inpout-Output Linkages and Structural Change :  joint with [Isambert Leunga Noukwé](https://sites.google.com/view/isambertleunga/home)
-  Technlogogy Adoption, Structural Change, and Biodiversity : joint with [Matías Piaggio](https://sites.google.com/view/matias-piaggio/home) and [Juha Siikamäki](https://scholar.google.com/citations?user=5MvX8VQAAAAJ&hl=en)
+  Sectoral Inpout-Output Linkages and Structural Change (April 2023),  joint with [Isambert Leunga Noukwé](https://sites.google.com/view/isambertleunga/home)
+  Technlogogy Adoption, Structural Change, and Biodiversity (May 2023), joint with [Matías Piaggio](https://sites.google.com/view/matias-piaggio/home) and [Juha Siikamäki](https://scholar.google.com/citations?user=5MvX8VQAAAAJ&hl=en)
