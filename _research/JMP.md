@@ -1,5 +1,5 @@
 ---
-title: "Financial Institutions, Technology Adoption, and Sectoral Productivity Convergence"
+title: "Financial Institutions, Technology Adoption, and Sectoral Productivity Convergence, JMP (2023)"
 collection: research
 permalink: /research/JMP
 excerpt: '<div style="text-align: justify">
