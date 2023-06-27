@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
  
-To access my full Curriculum Vitae, please click [here](http://avoumatsodo.github.io/files/CV_en_2.pdf)
+To access my full Curriculum Vitae, please click [here](http://avoumatsodo.github.io/files/CV_en_3.pdf)
 
 ## Education
 * Ph.D. in Economics, Université du Québec à Montréal, 2024 (expected)
