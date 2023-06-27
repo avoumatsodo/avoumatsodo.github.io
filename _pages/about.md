@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Welcome to my Homepage :-) 
+## Welcome to my Homepage 😊
  I am a Ph.D. Candidate in Economics at [Univresité du Québec à Montréal](https://economie.esg.uqam.ca/en/).
  
  I will be on the Job Market during the 2023/2024 academic year and will be available for interviews at the AEA/ASSA and the Canadian Economic Job Market.
