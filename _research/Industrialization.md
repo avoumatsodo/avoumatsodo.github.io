@@ -1,5 +1,5 @@
 ---
-title: "Financial Institutions, Technology Adoption, and Sectoral Productivity Convergence"
+title: "Financial Institutions, Technology Adoption, and Sectoral Productivity Convergence (2023)"
 collection: research
 permalink: /research/Industrialization
 excerpt: '<div style="text-align: justify">
