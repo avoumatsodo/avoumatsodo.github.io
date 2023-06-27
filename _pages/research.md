@@ -17,12 +17,16 @@ author_profile: true
 {% endfor %}
 
 <!-- [Financial Development, Globalization, and Industrialization]()
+Abstract: 
 <p align="justify"> 
   The present study develops a theoretical model to analyze the dynamics of industrialization and deindustrialization in developing countries and their integration with earlier industrialized economies. The findings suggest that financial development plays a crucial role in both accelerating industrialization and facilitating deindustrialization. Moreover, the model reveals that when developing countries integrate with economies in deindustrialization, the technological frontier in the manufacturing sector becomes relatively further ahead compared to the services sector. This discrepancy in technological proximity between sectors influences the differential productivity growth rates, driving an early shift towards the services sector. These findings contribute to a deeper understanding of premature deindustrialization in developing countries in a globalized world, while highlighting the roles of financial development and sectoral proximity to the technological frontier. 
   </p> -->
   
 ## Work in Progress
-  [Innovation, Trade, and Structural Change]()
-<p align="justify"> 
-Abstract: coming soon  </p>
-
+  Innovation, Trade, and Structural Change
+<!--  Abstract: 
+<p align="justify">   bla bla bla
+  </p> 
+  -->
+  Sectoral Inpout-Output Linkages and Structural Change :  joint with [Isambert Leunga Noukwé](https://sites.google.com/view/isambertleunga/home)
+  Technlogogy Adoption, Structural Change, and Biodiversity : joint with [Matías Piaggio](https://sites.google.com/view/matias-piaggio/home) and [Juha Siikamäki] (https://scholar.google.com/citations?user=5MvX8VQAAAAJ&hl=en)
