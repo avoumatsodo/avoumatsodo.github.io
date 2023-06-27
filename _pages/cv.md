@@ -8,52 +8,42 @@ redirect_from:
 ---
 
 {% include base_path %}
+ 
+To access my full Curriculum Vitae, please click [here](http://avoumatsodo.github.io/files/CV_en_2.pdf)
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Education
+* Ph.D. in Economics, Université du Québec à Montréal, 2024 (expected)
+* M.A.  in Statistics and Economics, Ecole Nationale Supérieure de Statitstiques et d'Economie Appliquée (ENSEA), 2016
+* B.Sc. in Mathematics and Physics, Université de Lomé, 2012
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Non-Teaching Work Experience
+* May 2023-Nov. 2023: Research Fellow, International Union of Conservation of Nature (IUCN), Washington DC (hybrid)
+  * Duties included: Collaboration with a team of researchers to conduct extensive research on the topic of structural change and its implications for biodiversity conservation.
+  * Supervisor: Juha Siikamäki
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* August 2016-June 2018: Statistician Consultant, World Bank Group, Washington DC (hybrid)
+  * Duties included: Ensuring data quality and accuracy while conducting data analysis and statistical modeling to support research and policy development.
+  * Supervisor: Aly Sanoh
+
+* August 2015-August 2016: Statistician Economist, Ivorian Center for Social and Economic Research (CIRES), Abidjan 
+  * Duties included: Analyzing data, reviewing scientific literature, and synthesizing findings to contribute to the understanding of the structural transformation differences between Korea and Côte d'Ivoire.
+  * Supervisor: José Coffie N'guessan
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+<!-- Publications -->
+<!-- ====== -->
+<!-- <ul>{% for post in site.publications %} -->
+<!-- {% include archive-single-cv.html %} -->
+ <!-- {% endfor %}</ul> -->
+    
+
+<!-- Teaching -->
+<!-- ====== -->
+<!-- <ul>{% for post in site.teaching %} -->
+<!-- {% include archive-single-cv.html %} -->
+<!-- {% endfor %}</ul> -->
+
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+    
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
