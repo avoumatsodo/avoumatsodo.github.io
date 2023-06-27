@@ -29,4 +29,4 @@ Abstract:
   </p> 
   -->
   Sectoral Inpout-Output Linkages and Structural Change :  joint with [Isambert Leunga Noukwé](https://sites.google.com/view/isambertleunga/home)
-  Technlogogy Adoption, Structural Change, and Biodiversity : joint with [Matías Piaggio](https://sites.google.com/view/matias-piaggio/home) and [Juha Siikamäki] (https://scholar.google.com/citations?user=5MvX8VQAAAAJ&hl=en)
+  Technlogogy Adoption, Structural Change, and Biodiversity : joint with [Matías Piaggio](https://sites.google.com/view/matias-piaggio/home) and [Juha Siikamäki](https://scholar.google.com/citations?user=5MvX8VQAAAAJ&hl=en)
