@@ -75,7 +75,7 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : 
 
 
 # Site Author
@@ -85,8 +85,8 @@ author:
   bio              : "I am a Ph.D. Candidate in Economics at UQAM"
   location         : "Montréal"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    :  #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -218,32 +218,33 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _research
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _CV
   - scope:
       path: ""
-      type: portfolio
+      type: CV
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _references
   - scope:
       path: ""
-      type: talks
+      type: references
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
+      comment: true
 
 # Sass/SCSS
 sass:
@@ -309,4 +310,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-googleanalytics:G-P2DQGB7FS1
+googleanalytics: G-P2DQGB7FS1
