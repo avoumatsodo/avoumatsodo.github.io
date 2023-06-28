@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Komla Avoumatsodo"
+title: " "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -22,7 +22,7 @@ redirect_from:
 * Environmental Economics
 
 ### Contact
-Email: [avoumatsodo.komla@uqam.ca](avoumatsodo.komla@uqam.ca)
+Email: <a href="mailto:avoumatsodo.komla@uqam.ca">avoumatsodo.komla@uqam.ca</a>
 
 Phone: (514)-347-1601
 
