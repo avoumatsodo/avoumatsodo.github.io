@@ -23,7 +23,7 @@ Abstract:
   </p> -->
   
 # Works in Progress
-  Innovation, Trade, and Structural Change (December 2022)  
+  Innovation, Trade, and Structural Change (December 2022, Abstract coming soon)  
 
   Sectoral Inpout-Output Linkages and Structural Change (April 2023),  joint with [Isambert Leunga Noukwé](https://sites.google.com/view/isambertleunga/home)
   
