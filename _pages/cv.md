@@ -26,9 +26,9 @@ To access my full Curriculum Vitae, please click [here](http://avoumatsodo.githu
   * Duties included: Ensuring data quality and accuracy while conducting data analysis and statistical modeling to support research and policy development.
   <!-- * Supervisor: Aly Sanoh -->
 
-<!-- * August 2015-August 2016: Statistician Economist, Ivorian Center for Social and Economic Research (CIRES), Abidjan 
+* August 2015-August 2016: Statistician Economist Researcher, Ivorian Center for Social and Economic Research (CIRES), Abidjan 
   * Duties included: Analyzing data, reviewing scientific literature, and synthesizing findings to contribute to the understanding of the structural transformation differences between Korea and Côte d'Ivoire.
-  * Supervisor: José Coffie N'guessan -->
+ <!-- * Supervisor: José Coffie N'guessan -->
   
 <!-- Publications -->
 <!-- ====== -->
