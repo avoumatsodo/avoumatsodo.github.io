@@ -9,7 +9,6 @@ venue: 'Working Paper'
 # paperurl: <!-- 'http://avoumatsodo.github.io/files/paper1.pdf' -->
 # citation: 'Komla, Avoumatsodo. (2023). &quot;Financial Development, Technology Adoption, and Sectoral Productivity Convergence.&quot; <i>Working Paper</i>.'
 ---
-The paper will be uploaded soon
 <!-- [Paper](http://avoumatsodo.github.io/files/JMP.pdf) -->
 <!-- [Slides]() -->
 
