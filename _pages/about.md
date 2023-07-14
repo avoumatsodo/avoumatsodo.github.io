@@ -22,6 +22,8 @@ redirect_from:
 * International Economics
 * Environmental Economics
 
+[Research Statement](http://avoumatsodo.github.io/files/research_statement.pdf)
+
 ### Contact
 Email: <a href="mailto:avoumatsodo.komla@uqam.ca">avoumatsodo.komla@uqam.ca</a>
 
