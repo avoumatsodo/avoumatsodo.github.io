@@ -15,7 +15,7 @@ redirect_from:
  I will be on the Job Market during the 2023/2024 academic year and will be available for interviews at the AEA/ASSA and the Canadian Economic Job Market.
  <!-- My [job market paper]() explores ... -->
 
-### Research Interests
+## Research Interests
 * Macroeconomics
 * Development Economics
 * Economic Growth
@@ -24,7 +24,7 @@ redirect_from:
 
 [Research Statement](http://avoumatsodo.github.io/files/research_statement.pdf)
 
-### Contact
+## Contact
 Email: <a href="mailto:avoumatsodo.komla@uqam.ca">avoumatsodo.komla@uqam.ca</a>
 
 Phone: (514)-347-1601
