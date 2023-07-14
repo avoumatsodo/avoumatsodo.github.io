@@ -14,7 +14,8 @@ author_profile: false
 * Quantitative Methods, Ph.D.,  Fall 2018, Fall 2019, Fall 2020
 * Econometrics of Finance, M.A., From Fall 2018 to Winter 2022
 * Microeconomics I, B.A., Summer 2020, Fall 2020, Summer 2021
-
+  
+[Teaching Statement](teaching_statement.pdf)
 
 
 
