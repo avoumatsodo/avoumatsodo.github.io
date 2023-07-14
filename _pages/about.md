@@ -26,12 +26,8 @@ redirect_from:
 
 ## Contact
 Email: <a href="mailto:avoumatsodo.komla@uqam.ca">avoumatsodo.komla@uqam.ca</a>
-
 Phone: (514)-347-1601
-
 Office: De Sève Building, DS-5525
-
 320 St Catherine St E
-
 Montreal, QC H2X 1L7, Canada.
 
