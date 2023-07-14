@@ -33,6 +33,4 @@ Abstract:
 <p align="justify">  This study examines the relationship between economic growth and biodiversity threat, aiming to provide insights for public policy decisions regarding structural economic system change for nature conservation. Using panel fixed effects estimation methods, this research aims to analyze data on the changes in aggregate extinction risk across species groups, technology adoption, and economic structural change.
 The primary focus of the statistical estimation results will be to project future changes in the risk of species extinction, specifically in the years 2050 and 2100, considering economic and population growth, as well as the potential impact of increasing protected areas coverage to mitigate these threats. The findings of this study will contribute to a deeper understanding of the intricate relationship between economic development and biodiversity conservation, ultimately facilitating enhanced comprehension of the synergies and trade-offs involved in achieving the objectives outlined in the Sustainable Development Goals (SDGs).</p>
 
-[Research Statement](http://avoumatsodo.github.io/files/research_statement.pdf)
-
   
