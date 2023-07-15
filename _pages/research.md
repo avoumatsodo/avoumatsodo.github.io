@@ -35,7 +35,6 @@ The primary focus of the statistical estimation results will be to project futur
 
 <!--
 #### The volatility of stock returns and technological innovation (Sept. 2019)
-<!-- ##### Abstract: --> 
 <p align="justify"> This paper develops an Schumpeterian endogenous general equilibrium model of stock asset pricing, linking R&D performance in diverse industries to asset returns. The model incorporates uncertainty related to innovation shocks aiming to explore the implications of R&D policies on asset price dynamics. By considering risk-averse agents and varying R&D investments, the paper demonstrates that R&D amounts and asset risk premiums differ across industries based on productivity levels.  </p> -->
 
   
