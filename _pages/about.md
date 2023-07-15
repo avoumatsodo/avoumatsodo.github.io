@@ -20,7 +20,8 @@ redirect_from:
 * Development Economics
 * Economic Growth
 * International Economics
-* Environmental Economics 
+* Environmental Economics
+  
 [Research Statement](http://avoumatsodo.github.io/files/research_statement.pdf)
 
 ## Contact
