@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
  
-To access my full Curriculum Vitae, please click [here](http://avoumatsodo.github.io/files/CV_Komla.pdf)
+To access my full Curriculum Vitae, please click [here](https://bit.ly/3pUIMKr)
 
 ## Education
 * Ph.D. in Economics, Université du Québec à Montréal, 2024 (expected)
