@@ -24,7 +24,7 @@ Abstract:
   
 # Works in Progress 
 
-### [Time-Varying Sectoral Input Output Linkages and Structural Change](/sectoral linkages-details/) (April 2023),  joint with [Isambert Leunga Noukwé](https://sites.google.com/view/isambertleunga/home)
+### [Time-Varying Sectoral Input Output Linkages and Structural Change](/sectoral-linkages-details/) (April 2023),  joint with [Isambert Leunga Noukwé](https://sites.google.com/view/isambertleunga/home)
 <!-- ##### Abstract: --> 
 <p align="justify">   We have documented a significant dynamic in input shares within all three sectors (agriculture, manufacturing, and services) for South Korea during the period from 1965 to 2014. This finding implies notable transformations in intersectoral dependencies throughout the analyzed timeframe. Such changes can be attributed to various factors, including technological advancements, shifts in production patterns, fluctuations in input prices, and evolving economic structures. By employing a three-sector, open-economy model of structural change, our objective is to elucidate how dissimilarities in input-output linkages contribute to the observed structural shifts in South Korea. </p>
   
