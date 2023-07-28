@@ -9,6 +9,6 @@ permalink: /tvsinput_outpu-details/
   <img src="/images/gamma_s.jpg" width="30%" alt="Services" />
 </p>
 <p align="center">
-  **FIGURE I:**  Intermediate input shares in South Korea over time (1965-2014).
+  <strong>FIGURE I:</strong>  Intermediate input shares in South Korea over time (1965-2014).
 </p>
 
