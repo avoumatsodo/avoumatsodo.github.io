@@ -22,7 +22,7 @@ Figure II illustrates the relationship between manufacturing employment share an
 
 </div>
 <p align="center">
-  <img src="/images/struct_input_manu.jpg" width="60% />
+  <img src="/images/struct_input_manu.jpg"  />
 </p>
 <p align="center">
   <strong>FIGURE II:</strong>  Manufacturing Labor Share and Input Shares in South Korea (1965-2014).
