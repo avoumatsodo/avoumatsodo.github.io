@@ -1,6 +1,6 @@
 ---
 title: "Time-Varying Sectoral Linkages and Structural Change"
-permalink: /tvsinput_outpu-details/
+permalink: /sectoral linkages-details/
 ---
 
 <div style="text-align: justify">
@@ -22,7 +22,6 @@ Figure II illustrates the relationship between manufacturing employment share an
 </div>
 
 
-</div>
 <p align="center">
   <img src="/images/struct_input_manu.jpg"  />
 </p>
