@@ -8,6 +8,6 @@ permalink: /tvsinput_outpu-details/
   <img src="/images/gamma_m.jpg" width="30%" alt="Manufacturing" /> 
   <img src="/images/gamma_s.jpg" width="30%" alt="Services" />
 </p>
+FIGURE I: Intermediate input shares in South Korea over time (1965-2014).
 
 
-Here is some additional information about Work 1.
