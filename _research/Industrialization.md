@@ -9,12 +9,12 @@ venue: 'Working Paper'
 # citation: 'Komla, Avoumatsodo. (2023). &quot;Financial Development, Technology Adoption, and Sectoral Productivity Convergence.&quot; <i>Working Paper</i>.'
 ---
 The paper will be uploaded soon
-<!-- [Paper](http://avoumatsodo.github.io/files/JMP.pdf) -->
+ [Paper](http://avoumatsodo.github.io/files/Structural_change_and_Financial_Development.pdf)
 <!-- [Slides]() -->
 
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
-<!-- [Download paper here](http://academicpages.github.io/files/.pdf) -->
+[Download paper here](http://academicpages.github.io/files/Structural_change_and_Financial_Development.pdf)
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
 
