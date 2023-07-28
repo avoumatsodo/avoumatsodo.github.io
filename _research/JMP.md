@@ -9,8 +9,8 @@ venue: 'Working Paper'
 # paperurl: 'http://avoumatsodo.github.io/files/paper1.pdf'
 # citation: 'Komla, Avoumatsodo. (2023). &quot;Financial Development, Technology Adoption, and Sectoral Productivity Convergence.&quot; <i>Working Paper</i>.'
 ---
-[Paper](http://avoumatsodo.github.io/files/JMP.pdf){: .btn}  
-Download the paper from this [link](http://avoumatsodo.github.io/files/JMP.pdf)
+[Paper](http://avoumatsodo.github.io/files/Financial Development_Technology Adoption_Sectoral Productivity_Convergence.pdf){: .btn}  
+Download the paper from this [link](http://avoumatsodo.github.io/files/Financial Development_Technology Adoption_Sectoral Productivity_Convergence.pdf)
 <!-- [Slides]() -->
 
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
