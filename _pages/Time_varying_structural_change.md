@@ -5,6 +5,7 @@ permalink: /tvsinput_outpu-details/
 
 <div style="text-align: justify">
   Figure I visually illustrates the variations of intermediate input shares for each sector over the period 1965-2014.  
+  
 </div>
 <p float="left">
   <img src="/images/gamma_a.jpg" width="30%" alt="Agriculture" />
