@@ -1,6 +1,6 @@
 ---
 title: "Time-Varying Sectoral Linkages and Structural Change"
-permalink: /sectoral linkages-details/
+permalink: /sectoral-linkages-details/
 ---
 
 <div style="text-align: justify">
