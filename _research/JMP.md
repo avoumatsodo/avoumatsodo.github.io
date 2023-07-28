@@ -10,6 +10,7 @@ venue: 'Working Paper'
 # citation: 'Komla, Avoumatsodo. (2023). &quot;Financial Development, Technology Adoption, and Sectoral Productivity Convergence.&quot; <i>Working Paper</i>.'
 ---
 [Paper](http://avoumatsodo.github.io/files/JMP.pdf){: .btn} 
+Download the paper from this [link](http://avoumatsodo.github.io/files/JMP.pdf)
 <!-- [Slides]() -->
 
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
