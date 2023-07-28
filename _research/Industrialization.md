@@ -8,11 +8,11 @@ venue: 'Working Paper'
 # paperurl: <!-- 'http://avoumatsodo.github.io/files/paper1.pdf' -->
 # citation: 'Komla, Avoumatsodo. (2023). &quot;Financial Development, Technology Adoption, and Sectoral Productivity Convergence.&quot; <i>Working Paper</i>.'
 ---
+Download the paper from this [link](http://academicpages.github.io/files/Structural_change_and_Financial_Development.pdf)
 <!-- [Slides]() -->
 
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
-Download the paper from this [link](http://academicpages.github.io/files/Structural_change_and_Financial_Development.pdf)
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
 
