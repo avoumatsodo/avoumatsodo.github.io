@@ -9,9 +9,9 @@ permalink: /sectoral-linkages-details/
 
  
 <p float="left">
-  <img src="/images/gamma_a.jpg" width="33%" alt="Agriculture" />
-  <img src="/images/gamma_m.jpg" width="33%" alt="Manufacturing" /> 
-  <img src="/images/gamma_s.jpg" width="33%" alt="Services" />
+  <img src="/images/gamma_a.jpg" width="32%" alt="Agriculture" />
+  <img src="/images/gamma_m.jpg" width="32%" alt="Manufacturing" /> 
+  <img src="/images/gamma_s.jpg" width="32%" alt="Services" />
 </p>
 <p align="center">
   <strong>FIGURE I:</strong>  Intermediate input shares in South Korea over time.
