@@ -12,10 +12,6 @@ venue: 'Working Paper'
 [Paper](http://avoumatsodo.github.io/files/Financial_Development_Technology_Adoption_Sectoral_Productivity_Convergence.pdf){: .btn}  
 Download the paper from this [link](http://avoumatsodo.github.io/files/Financial_Development_Technology_Adoption_Sectoral_Productivity_Convergence.pdf)
 <!-- [Slides]() -->
-
-<!-- This paper is about the number 1. The number 2 is left for future work. -->
-
 <!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
-
-<!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
+Recommended citation: Avoumatsodo, Komla (2023). "Financial Development, Technology Adoption, and Sectoral Productivity Convergence", Working Paper.
 
