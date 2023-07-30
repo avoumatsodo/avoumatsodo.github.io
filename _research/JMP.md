@@ -60,7 +60,7 @@ proximity to the frontier or financial development level.
 </div> 
 
 <center>
-  <img src="/images/intensity_use.png" width="60%" />
+  <img src="/images/intensity_use.png" width="50%" />
 </center>
  
 <p align="center">
@@ -68,11 +68,18 @@ proximity to the frontier or financial development level.
 </p> 
 
 ### • Finance and Aggregate Productivity and Sectoral Convergence
+<!--
 <div style="display: flex; justify-content: center;">
   <img src="/images/divergence.png" width="32%" alt="Trasient Divergence" />
   <img src="/images/cond_convergence.png" width="32%" alt="Conditional Convergence" /> 
   <img src="/images/convergence.png" width="32%" alt="Convergence" />
 </div>
+-->
+<center>
+  <img src="/images/transitions.png" width="50%" />
+</center>
+ 
 <p align="center">
-  <strong>FIGURE IV:</strong>  Sectoral Productivity Convergence by category
+  <strong>FIGURE IV:</strong>  Dynamic Transitions of Countries Across Financial Development and Aggregate Productivity
+Groups
 </p> 
