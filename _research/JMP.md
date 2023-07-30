@@ -19,5 +19,32 @@ Download the paper from this [link](http://avoumatsodo.github.io/files/Financial
 
 Recommended citation: Avoumatsodo, Komla (2023). "Financial Development, Technology Adoption, and Sectoral Productivity Convergence", Working Paper.
 
-# Data
+## I. Technology Adoption and Financial Development
 
+## I.1. Across countries, intensity of use of adopted technologies is positively correlated with financial developement only for low financially developed countries.
+<div style="text-align: justify">
+  Figure I  plots the average log of the total technologies per capita 
+adopted per capita acros countries from 1980 to 2003 against the average level of financial development
+</div> 
+<p float="left">
+  <img src="/images/tech_adoption.png" width="32%" alt="Agriculture" />
+  <img src="/images/gamma_m.jpg" width="32%" alt="Manufacturing" /> 
+  <img src="/images/gamma_s.jpg" width="32%" alt="Services" />
+</p>
+<p align="center">
+  <strong>FIGURE I:</strong>  Intermediate input shares in South Korea over time.
+</p>  
+
+
+### II. The share of manufacturing employment and the use of inputs in other sectors.
+
+<div style="text-align: justify">
+Figure II illustrates the relationship between manufacturing employment share and the use of manufacturing goods as intermediate inputs in other sectors from 1960 to 2010. The initial increase in both these measures until mid-1980s represents the growing prominence of manufacturing in the economy, largely driven by other sectors' increasing dependence on manufacturing products. However, post-1985, a noticeable decline in these indicators suggests a shift towards a service-oriented economy, and a reduced role of manufacturing. Structural changes, including alterations in production patterns and demand, have influenced these shifts over time.
+</div>
+
+<center>
+  <img src="/images/struct_input_manu.jpg" />
+</center>
+</p>
+<p align="center">
+  <strong>FIGURE II:</strong>  Manufacturing Labor Share and Input Shar
