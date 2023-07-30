@@ -89,7 +89,7 @@ the differences in productivity growth rates across sectors.
 ## III. The model to data
 ### • Model fit
 <center>
-  <img src="/images/model_fit.png" width="80%" />
+  <img src="/images/model_fit.png" width="70%" />
 </center>
  
 <p align="center">
@@ -98,7 +98,7 @@ the differences in productivity growth rates across sectors.
 
 ### • Effect of an increase in financial development
 <center>
-  <img src="/images/finance_structural_change_quant.png" width="80%" />
+  <img src="/images/finance_structural_change_quant.png" width="70%" />
 </center>
  
 <p align="center">
@@ -107,7 +107,7 @@ the differences in productivity growth rates across sectors.
 
 ### • Cross-country analysis
 <center>
-  <img src="/images/finance_manufacturing_cross_countries.png" width="80%" />
+  <img src="/images/finance_manufacturing_cross_countries.png" width="60%" />
 </center>
  
 <p align="center">
@@ -116,7 +116,7 @@ the differences in productivity growth rates across sectors.
 
 
 <center>
-  <img src="/images/finance_agriculture_cross_countries.png" width="80%" />
+  <img src="/images/finance_agriculture_cross_countries.png" width="60%" />
 </center>
  
 <p align="center">
