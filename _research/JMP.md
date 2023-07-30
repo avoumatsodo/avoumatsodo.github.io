@@ -29,7 +29,7 @@ adopted per capita acros countries from 1980 to 2003 against the average level o
 <center>
   <img src="/images/tech_adoption.png" />
 </center>
-</p>
+ 
 <p align="center">
   <strong>FIGURE I:</strong>  Average levels of financial development and log technology adoption per capita, 1980-2003.
 </p> 
@@ -43,7 +43,7 @@ and the sectoral proximity to the United States
 <center>
   <img src="/images/tech_adoption_2.png" />
 </center>
-</p>
+ 
 <p align="center">
   <strong>FIGURE I:</strong>  Average levels of sectoral productivity proximity to the US and log intensity of use of technologies,
 1991-2003.
