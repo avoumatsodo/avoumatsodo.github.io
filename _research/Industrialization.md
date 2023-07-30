@@ -48,7 +48,7 @@ Figure II below exemplifies the impact of financial development on country' stru
 </center>
  
 <p align="center">
-  <strong>FIGURE III:</strong>  Impact of financial development on ressource allocation across sectors.
+  <strong>FIGURE II:</strong>  Impact of financial development on ressource allocation across sectors.
 </p> 
 
 
