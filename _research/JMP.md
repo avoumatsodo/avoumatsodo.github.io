@@ -67,7 +67,7 @@ proximity to the frontier or financial development level.
   <strong>FIGURE III:</strong>  Effect of financial development on the intensity of using new technologies: $\kappa_1<\kappa_2$.
 </p> 
 
-
+### • Finance and Aggregate Productivity and Sectoral Convergence
 <div style="display: flex; justify-content: center;">
   <img src="/images/divergence.png" width="32%" alt="Trasient Divergence" />
   <img src="/images/cond_convergence.png" width="32%" alt="Conditional Convergence" /> 
