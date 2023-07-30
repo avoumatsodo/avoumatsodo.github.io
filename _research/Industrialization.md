@@ -107,7 +107,7 @@ the differences in productivity growth rates across sectors.
 
 ### • Cross-country analysis
 <center>
-  <img src="/images/finance_manufacturing_cross_countries.png" width="60%" />
+  <img src="/images/finance_manufacturing_cross_countries.png" width="70%" />
 </center>
  
 <p align="center">
@@ -116,7 +116,7 @@ the differences in productivity growth rates across sectors.
 
 
 <center>
-  <img src="/images/finance_agriculture_cross_countries.png" width="60%" />
+  <img src="/images/finance_agriculture_cross_countries.png" width="70%" />
 </center>
  
 <p align="center">
