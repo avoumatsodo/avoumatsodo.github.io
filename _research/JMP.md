@@ -6,9 +6,6 @@ excerpt: '<div style="text-align: justify">
 I document a notable differences in convergence speed across sectors and construct an endogenous growth model to elucidate the reasons behind these observed discrepancies. The model categorizes countries into three groups based on their levels of financial institutions and aggregate productivity. Initially, the first group, characterized by low aggregate productivity and weak financial institutions, experiences sectoral productivity divergence but eventually catches up with the second group. The second group demonstrates moderate levels of aggregate productivity and financial institutions, showcasing conditional convergence. On the other hand, the third group, characterized by high aggregate productivity and strong financial institutions, experiences unconditional convergence towards higher sectoral productivity. The model also suggests that convergence in sectors with faster growth rates at the technological frontier occurs at a later stage. Empirical evidence from the World Development Indicators dataset spanning 29 years and covering over 150 countries supports these and other predictions.
 </div>'
 
-<div style="text-align: justify">
-<i>Presented at the 2022 Bank of Canada Graduate Students Award.</i>
-</div>
 
 venue: 'Working Paper'
 # paperurl: 'http://avoumatsodo.github.io/files/paper1.pdf'
