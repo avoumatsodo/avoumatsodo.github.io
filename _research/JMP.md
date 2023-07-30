@@ -54,8 +54,8 @@ and the sectoral proximity to the United States
 ## II. Model predictions
 ### • Finance and intensity of use of adopted technologies
 <div style="text-align: justify">
-Figure III  below, illustrates that as financial development increases, the intensity of technology
-adoption also increases. However, this effect vanishes beyond a certain threshold level of sectoral
+Figure III  below, illustrates that as financial development increases, the intensity of of use of adopted technologies
+ also increases. However, this effect vanishes beyond a certain threshold level of sectoral
 proximity to the frontier or financial development level.
 </div> 
 
@@ -82,9 +82,9 @@ aggregate productivity, and the classification of countries into these distinct 
   <img src="/images/convergence.png" width="32%" alt="Convergence" />
 </div>
 -->
-<div style="display: flex; justify-content: center;">
-  <img src="/images/transitions.png" style="width: 50%;" />
-</div>
+<center>
+  <img src="/images/transitions.png" width="70%" />
+</center>
  
 <p align="center">
   <strong>FIGURE IV:</strong>  Transitions of countries across financial development and aggregate productivity
