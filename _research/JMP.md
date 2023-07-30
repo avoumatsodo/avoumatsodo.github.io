@@ -23,7 +23,7 @@ Recommended citation: Avoumatsodo, Komla (2023). "Financial Development, Technol
 
 ### • Across countries, intensity of use of adopted technologies is positively correlated with financial development only for low financially developed countries.
 <div style="text-align: justify">
-  Figure I  plots the average log of the total technologies per capita 
+Figure I  plots the average log of the total technologies per capita 
 adopted per capita acros countries from 1980 to 2003 against the average level of financial development
 </div> 
 <center>
@@ -37,7 +37,7 @@ adopted per capita acros countries from 1980 to 2003 against the average level o
 
 ### • Sectoral proximity (in productivity) to the frontier is positively associated with more use of adopted technologies across countries
 <div style="text-align: justify">
-  Figure II  displays scatter plots illustrating the association between the level of technology adoption
+Figure II  displays scatter plots illustrating the association between the level of technology adoption
 and the sectoral proximity to the United States
 </div> 
 
@@ -54,7 +54,7 @@ and the sectoral proximity to the United States
 ## II. Model predictions
 ### • Finance and intensity of use of adopted technologies
 <div style="text-align: justify">
-  Figure III  below, illustrates that as financial development increases, the intensity of technology
+Figure III  below, illustrates that as financial development increases, the intensity of technology
 adoption also increases. However, this effect vanishes beyond a certain threshold level of sectoral
 proximity to the frontier or financial development level.
 </div> 
@@ -68,7 +68,7 @@ proximity to the frontier or financial development level.
 </p> 
 
 ### • Finance and Aggregate Productivity and Sectoral Convergence
-div style="text-align: justify">
+<div style="text-align: justify">
 Figure IV provides a representation of the distribution of countries based on their
 levels of financial institutions and aggregate productivity. The three distinct groups of countries,
 characterized by their convergence or divergence patterns, are clearly delineated in the figure. It
