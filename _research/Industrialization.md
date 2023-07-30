@@ -48,7 +48,7 @@ Figure II below exemplifies the impact of financial development on country' stru
 </div> 
 
 <center>
-  <img src="/images/finance_structural_change.png" width="80%" />
+  <img src="/images/finance_structural_change.png" width="90%" />
 </center>
  
 <p align="center">
@@ -74,7 +74,7 @@ sector.
 </div>
 -->
 <center>
-  <img src="/images/finance_manufacturing.png" width="70%" />
+  <img src="/images/finance_manufacturing.png" width="90%" />
 </center>
  
 <p align="center">
