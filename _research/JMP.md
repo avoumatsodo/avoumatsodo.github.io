@@ -72,7 +72,7 @@ Figure III below illustrates the intensity of technology use as a function of se
 ### • Finance and Aggregate Productivity and Sectoral Convergence
 <div style="text-align: justify">
 Figure IV provides a representation of the distribution of countries based on their
-levels of financial institutions and aggregate productivity. The three distinct groups of countries,
+levels of financial institutions $\kappa$ and aggregate productivity $A_t$. The three distinct groups of countries,
 characterized by their convergence or divergence patterns, are clearly delineated in the figure. It
 serves as a visual reference to better understand the relationships between financial development,
 aggregate productivity, and the classification of countries into these distinct categories.
