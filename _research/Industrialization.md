@@ -86,21 +86,39 @@ thus depend on the levels of entry and exit in the manufacturing sector, which a
 the differences in productivity growth rates across sectors.
 </div>
 
-## III. Implications of the model
+## III. The model to data
 ### • Model fit
 <center>
   <img src="/images/model_fit.png" width="80%" />
 </center>
  
 <p align="center">
-  <strong>FIGURE IV:</strong>  Data vs Model
+  <strong>FIGURE V:</strong>  Data vs Model
 </p> 
 
-### • The model to data
+### • Effect of an increase in financial development
 <center>
   <img src="/images/finance_structural_change_quant.png" width="80%" />
 </center>
  
 <p align="center">
-  <strong>FIGURE IV:</strong>  Impact of an incrase in the financial development on employement shares
+  <strong>FIGURE VI:</strong>  Impact of an incrase in the financial development on employement shares
+</p>
+
+### • Cross-country analysis
+<center>
+  <img src="/images/finance_manufacturing_cross_countries.png" width="80%" />
+</center>
+ 
+<p align="center">
+  <strong>FIGURE VII:</strong>  Financial development and peak manufacturing employement share across countries
+</p>
+
+
+<center>
+  <img src="/images/finance_agriculture_cross_countries.png" width="80%" />
+</center>
+ 
+<p align="center">
+  <strong>FIGURE VIII:</strong>  Financial development and agriculture employment share average annual growth across countries
 </p>
