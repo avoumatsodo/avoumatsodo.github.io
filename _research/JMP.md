@@ -40,6 +40,7 @@ adopted per capita acros countries from 1980 to 2003 against the average level o
   Figure II  displays scatter plots illustrating the association between the level of technology adoption
 and the sectoral proximity to the United States
 </div> 
+
 <center>
   <img src="/images/tech_adoption_2.png" />
 </center>
@@ -47,4 +48,21 @@ and the sectoral proximity to the United States
 <p align="center">
   <strong>FIGURE I:</strong>  Average levels of sectoral productivity proximity to the US and log intensity of use of technologies,
 1991-2003.
+</p> 
+
+
+## Model predictions
+### • Finance and intensity of use of adopted technologies
+<div style="text-align: justify">
+  Figure III  below, illustrates that as financial development increases, the intensity of technology
+adoption also increases. However, this effect vanishes beyond a certain threshold level of sectoral
+proximity to the frontier or financial development level.
+</div> 
+
+<center>
+  <img src="/images/intensity_use.png" />
+</center>
+ 
+<p align="center">
+  <strong>FIGURE I:</strong>  Effect of financial development on the intensity of using new technologies ().
 </p> 
