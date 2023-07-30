@@ -52,7 +52,8 @@ and the sectoral proximity to the United States
 </p> 
 
 ### • What does this paper do?
-
+<div style="text-align: justify">
+ I construct a multisector growth model that features the above empirical facts observed in the data and show how  financial development and aggregate productivity determine convergence or divergence of countries at sector level. </div> 
 
 ## II. Model predictions
 ### • Finance and intensity of use of adopted technologies
