@@ -10,7 +10,7 @@ venue: 'Working Paper'
 # paperurl: 'http://avoumatsodo.github.io/files/paper1.pdf'
 # citation: 'Komla, Avoumatsodo. (2023). &quot;Financial Development, Technology Adoption, and Sectoral Productivity Convergence.&quot; <i>Working Paper</i>.'
 ---
-*Presented at the 2022 Bank of Canada Graduate Students Award.*
+*Presentations: Bank of Canada (Graduate Student Paper Award Workshop, 2022)*
 
 [Paper](http://avoumatsodo.github.io/files/Financial_Development_Technology_Adoption_Sectoral_Productivity_Convergence.pdf){: .btn}  
 Download the paper from this [link](http://avoumatsodo.github.io/files/Financial_Development_Technology_Adoption_Sectoral_Productivity_Convergence.pdf)
