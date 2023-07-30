@@ -40,7 +40,7 @@ Numerous studies, such as those by Sposi et al. (2021) and Huneeus & Rogerson (2
 ## II. Model predictions
 ### • Finance and Structural Transformation
 <div style="text-align: justify">
-Figure II below exemplifies the impact of financial development on country' structural transformaton. During the industrialization phase, where the growth rate in agriculture ($g_a$) is greater than that in services ($g_s$), which in turn is greater than that in manufacturing ($g_m$), resources are primarily reallocated from the agricultural and service sectors \circled{$a$} and \circled{$s$} to the manufacturing sector \circled{$m$}. This reallocation is further amplified by the level of financial development, favoring higher growth in the agricultural and service sectors.  Conversely, during the deindustrialization phase, where the growth rates satisfy $g_a>g_m>g_s$, resource reallocation is directed more towards the service sector. This shift is again amplified by the level of financial development.
+Figure II below exemplifies the impact of financial development on country' structural transformaton. During the industrialization phase, where the growth rate in agriculture ($g_a$) is greater than that in services ($g_s$), which in turn is greater than that in manufacturing ($g_m$), resources are primarily reallocated from the agricultural and service sectors ($a$) an ($s$) to the manufacturing sector ($m$). This reallocation is further amplified by the level of financial development, favoring higher growth in the agricultural and service sectors.  Conversely, during the deindustrialization phase, where the growth rates satisfy $g_a>g_m>g_s$, resource reallocation is directed more towards the service sector. This shift is again amplified by the level of financial development.
 </div> 
 
 <center>
@@ -88,3 +88,10 @@ the differences in productivity growth rates across sectors.
 
 ## Implications of the model
 ### • Model fit
+<center>
+  <img src="/images/model_fit.png" width="100%" />
+</center>
+ 
+<p align="center">
+  <strong>FIGURE IV:</strong>  Effect of an increase in financial development at time $t_0$ on manufacturing share 
+</p> 
