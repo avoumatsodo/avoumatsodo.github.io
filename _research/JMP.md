@@ -19,9 +19,9 @@ Download the paper from this [link](http://avoumatsodo.github.io/files/Financial
 
 Recommended citation: Avoumatsodo, Komla (2023). "Financial Development, Technology Adoption, and Sectoral Productivity Convergence", Working Paper.
 
-## I. Technology Adoption and Financial Development
+## I. Data
 
-## I.1. Across countries, intensity of use of adopted technologies is positively correlated with financial developement only for low financially developed countries.
+#### Across countries, intensity of use of adopted technologies is positively correlated with financial developement only for low financially developed countries.
 <div style="text-align: justify">
   Figure I  plots the average log of the total technologies per capita 
 adopted per capita acros countries from 1980 to 2003 against the average level of financial development
