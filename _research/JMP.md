@@ -46,12 +46,12 @@ and the sectoral proximity to the United States
 </center>
  
 <p align="center">
-  <strong>FIGURE I:</strong>  Average levels of sectoral productivity proximity to the US and log intensity of use of technologies,
+  <strong>FIGURE II:</strong>  Average levels of sectoral productivity proximity to the US and log intensity of use of technologies,
 1991-2003.
 </p> 
 
 
-## Model predictions
+## II. Model predictions
 ### • Finance and intensity of use of adopted technologies
 <div style="text-align: justify">
   Figure III  below, illustrates that as financial development increases, the intensity of technology
@@ -64,5 +64,5 @@ proximity to the frontier or financial development level.
 </center>
  
 <p align="center">
-  <strong>FIGURE I:</strong>  Effect of financial development on the intensity of using new technologies ().
+  <strong>FIGURE III:</strong>  Effect of financial development on the intensity of using new technologies: $\kappa_1<\kappa_2$.
 </p> 
