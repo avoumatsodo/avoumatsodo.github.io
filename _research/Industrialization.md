@@ -89,7 +89,7 @@ the differences in productivity growth rates across sectors.
 ## Implications of the model
 ### • Model fit
 <center>
-  <img src="/images/model_fit.png" width="100%" />
+  <img src="/images/model_fit.png" width="80%" />
 </center>
  
 <p align="center">
