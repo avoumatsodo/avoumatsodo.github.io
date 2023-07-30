@@ -7,9 +7,7 @@ I document a notable differences in convergence speed across sectors and constru
 </div>'
 
 <div style="text-align: justify">
-
 <i>Presented at the 2022 Bank of Canada Graduate Students Award.</i>
-
 </div>
 
 venue: 'Working Paper'
