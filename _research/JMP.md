@@ -26,14 +26,13 @@ Recommended citation: Avoumatsodo, Komla (2023). "Financial Development, Technol
   Figure I  plots the average log of the total technologies per capita 
 adopted per capita acros countries from 1980 to 2003 against the average level of financial development
 </div> 
-<p float="left">
-  <img src="/images/tech_adoption.png" width="32%" alt="Agriculture" />
-  <img src="/images/gamma_m.jpg" width="32%" alt="Manufacturing" /> 
-  <img src="/images/gamma_s.jpg" width="32%" alt="Services" />
+<center>
+  <img src="/images/tech_adoption.png" />
+</center>
 </p>
 <p align="center">
-  <strong>FIGURE I:</strong>  Intermediate input shares in South Korea over time.
-</p>  
+  <strong>FIGURE I:</strong>  Average levels of financial development and log technology adoption per capita, 1980-2003.
+</p> 
 
 
 ### II. The share of manufacturing employment and the use of inputs in other sectors.
@@ -47,4 +46,5 @@ Figure II illustrates the relationship between manufacturing employment share an
 </center>
 </p>
 <p align="center">
-  <strong>FIGURE II:</strong>  Manufacturing Labor Share and Input Shar
+  <strong>FIGURE II:</strong>  Manufacturing Labor Share and Input Shares in South Korea (1965-2014).
+</p> 
