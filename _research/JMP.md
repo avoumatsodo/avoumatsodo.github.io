@@ -20,7 +20,7 @@ Recommended citation: Avoumatsodo, Komla (2023). "Financial Development, Technol
 
 Download the paper from this [link](http://avoumatsodo.github.io/files/Financial_Development_Technology_Adoption_Sectoral_Productivity_Convergence.pdf)
 
-## I. Data
+## I. Motivation
 
 ### • Across countries, intensity of use of adopted technologies is positively correlated with financial development only for low financially developed countries.
 <div style="text-align: justify">
@@ -50,6 +50,8 @@ and the sectoral proximity to the United States
   <strong>FIGURE II:</strong>  Average levels of sectoral productivity proximity to the US and log intensity of use of technologies,
 1991-2003.
 </p> 
+
+### • What does this paper do?
 
 
 ## II. Model predictions
