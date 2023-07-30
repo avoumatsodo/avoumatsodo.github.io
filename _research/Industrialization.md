@@ -35,8 +35,9 @@ underscoring the manifestations of premature deindustrialization across regions.
 
 <div style="text-align: justify">
 Numerous studies, such as those by Sposi et al. (2021) and Huneeus & Rogerson (2023), suggest that sector-biased productivity growth explains the patterns of deindustrialization observed across various countries. However, why is sector productivity growth biased towards particular sectors? My initial 
-  [paper](https://avoumatsodo.github.io/files/Financial_Development_Technology_Adoption_Sectoral_Productivity_Convergence.pdf) has already documented how financial development can affect productivity growth distribution across sectors. Subsequently, I constructed a three-sector endogenous growth model that allows for the exploration of the impact of financial development on a country’s structural change over time. I also examined how integration with deindustrialized countries through the process of technology adoption can shift the share of manufacturing employment.
-</div> 
+  <a href="https://avoumatsodo.github.io/files/Financial_Development_Technology_Adoption_Sectoral_Productivity_Convergence.pdf">paper</a> has already documented how financial development can affect productivity growth distribution across sectors. Subsequently, I constructed a three-sector endogenous growth model that allows for the exploration of the impact of financial development on a country’s structural change over time. I also examined how integration with deindustrialized countries through the process of technology adoption can shift the share of manufacturing employment.
+</div>
+
 
 ## II. Model predictions
 ### • Finance and Structural Transformation
