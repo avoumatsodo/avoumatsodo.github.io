@@ -41,7 +41,7 @@ adopted per capita acros countries from 1980 to 2003 against the average level o
 and the sectoral proximity to the United States
 </div> 
 <center>
-  <img src="/images/tech_adoption2.png" />
+  <img src="/images/tech_adoption_2.png" />
 </center>
 </p>
 <p align="center">
