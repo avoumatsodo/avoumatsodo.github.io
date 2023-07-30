@@ -82,11 +82,11 @@ aggregate productivity, and the classification of countries into these distinct 
   <img src="/images/convergence.png" width="32%" alt="Convergence" />
 </div>
 -->
-<center>
-  <img src="/images/transitions.png" width="50%" />
-</center>
+<div style="display: flex; justify-content: center;">
+  <img src="/images/transitions.png" style="width: 50%;" />
+</div>
  
 <p align="center">
-  <strong>FIGURE IV:</strong>  Dynamic Transitions of Countries Across Financial Development and Aggregate Productivity
-Groups
+  <strong>FIGURE IV:</strong>  Transitions of countries across financial development and aggregate productivity
+groups
 </p> 
