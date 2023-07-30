@@ -21,7 +21,7 @@ Recommended citation: Avoumatsodo, Komla (2023). "Financial Development, Technol
 
 ## I. Data
 
-#### * Across countries, intensity of use of adopted technologies is positively correlated with financial developement only for low financially developed countries.
+#### *Across countries, intensity of use of adopted technologies is positively correlated with financial developement only for low financially developed countries.
 <div style="text-align: justify">
   Figure I  plots the average log of the total technologies per capita 
 adopted per capita acros countries from 1980 to 2003 against the average level of financial development
@@ -35,7 +35,7 @@ adopted per capita acros countries from 1980 to 2003 against the average level o
 </p> 
 
 
-#### * Sectoral proximity (in productivity) to the frontier is positively associated with more use of adopted technologies across countries
+#### *Sectoral proximity (in productivity) to the frontier is positively associated with more use of adopted technologies across countries
 <div style="text-align: justify">
   Figure II  displays scatter plots illustrating the association between the level of technology adoption
 and the sectoral proximity to the United States
