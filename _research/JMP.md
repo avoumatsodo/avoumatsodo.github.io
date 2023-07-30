@@ -54,9 +54,7 @@ and the sectoral proximity to the United States
 ## II. Model predictions
 ### • Finance and intensity of use of adopted technologies
 <div style="text-align: justify">
-Figure III  below, illustrates that as financial development increases, the intensity of of use of adopted technologies
- also increases. However, this effect vanishes beyond a certain threshold level of sectoral
-proximity to the frontier or financial development level.
+Figure III below illustrates the intensity of technology use as a function of sectoral proximity to the frontier. It indicates that as financial development increases, so too does the intensity of use of adopted technologies. However, this effect diminishes beyond a certain threshold of sectoral proximity to the frontier or level of financial development.
 </div> 
 
 <center>
