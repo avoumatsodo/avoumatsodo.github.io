@@ -50,17 +50,27 @@ Figure II below exemplifies the impact of financial development on country' stru
 </center>
  
 <p align="center">
-  <strong>FIGURE III:</strong>  Effect of financial development on the intensity of using new technologies: $\kappa_1<\kappa_2$.
+  <strong>FIGURE III:</strong>  Impact of financial development on ressource allocation across sectors.
 </p> 
 
 
-### • Finance and Aggregate Productivity and Sectoral Convergence
+### • Finance and Industrialization level
 <div style="text-align: justify">
-Figure IV provides a representation of the distribution of countries based on their
-levels of financial institutions and aggregate productivity. The three distinct groups of countries,
-characterized by their convergence or divergence patterns, are clearly delineated in the figure. It
-serves as a visual reference to better understand the relationships between financial development,
-aggregate productivity, and the classification of countries into these distinct categories.
+Figure III illustrates the
+impact of financial development level on the sectoral share of consumption expenditure in manufacturing.
+If an increase in financial development occurs before the peak of the manufacturing
+sector share curve, the impact is positive. This signifies that during the industrialization phase,
+enhanced financial development will support a higher inflow of resources into the manufacturing
+sector. 
+</div>
+
+<div style="text-align: justify">
+However, if this increase occurs after the peak, implying a deindustrialization phase, higher
+levels of financial development will instead spur the reallocation of resources from manufacturing
+to services. At the same time, it will also cause a more significant exit from the agricultural sector,
+thereby leading to a considerable influx into the manufacturing sector. The overall impact will
+thus depend on the levels of entry and exit in the manufacturing sector, which are determined by
+the differences in productivity growth rates across sectors.
 </div>
 <!--
 <div style="display: flex; justify-content: center;">
@@ -70,10 +80,13 @@ aggregate productivity, and the classification of countries into these distinct 
 </div>
 -->
 <center>
-  <img src="/images/transitions.png" width="70%" />
+  <img src="/images/finance_manufacturing.png" width="100%" />
 </center>
  
 <p align="center">
-  <strong>FIGURE IV:</strong>  Transitions of countries across financial development and aggregate productivity
-groups
+  <strong>FIGURE IV:</strong>  Effect of an increase in financial development at time $t_0$ on manufacturing share 
 </p> 
+
+
+## Implications of the model
+### • Model fit
