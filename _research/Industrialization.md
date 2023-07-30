@@ -76,7 +76,7 @@ sector.
 </center>
  
 <p align="center">
-  <strong>FIGURE IV:</strong>  Effect of an increase in financial development at time $t_0$ on manufacturing share 
+  <strong>FIGURE III:</strong>  Effect of an increase in financial development at time $t_0$ on manufacturing share 
 </p> 
 
 <div style="text-align: justify">
@@ -95,7 +95,7 @@ the differences in productivity growth rates across sectors.
 </center>
  
 <p align="center">
-  <strong>FIGURE V:</strong>  Data vs Model
+  <strong>FIGURE IV:</strong>  Data vs Model
 </p> 
 
 ### • Effect of an increase in financial development
@@ -104,7 +104,7 @@ the differences in productivity growth rates across sectors.
 </center>
  
 <p align="center">
-  <strong>FIGURE VI:</strong>  Impact of an incrase in the financial development on employement shares
+  <strong>FIGURE V:</strong>  Impact of an incrase in the financial development on employement shares
 </p>
 
 ### • Cross-country analysis
@@ -113,7 +113,7 @@ the differences in productivity growth rates across sectors.
 </center>
  
 <p align="center">
-  <strong>FIGURE VII:</strong>  Financial development and peak manufacturing employement share across countries
+  <strong>FIGURE VI:</strong>  Financial development and peak manufacturing employement share across countries
 </p>
 
 
@@ -122,5 +122,5 @@ the differences in productivity growth rates across sectors.
 </center>
  
 <p align="center">
-  <strong>FIGURE VIII:</strong>  Financial development and agriculture employment share average annual growth across countries
+  <strong>FIGURE VII:</strong>  Financial development and agriculture employment share average annual growth across countries
 </p>
