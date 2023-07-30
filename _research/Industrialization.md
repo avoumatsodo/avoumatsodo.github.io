@@ -101,14 +101,7 @@ the differences in productivity growth rates across sectors.
 </p> 
 
 <div style="text-align: justify">
-The model   generates a decrease in the agriculture employment share that, while less pronounced,
-mirrors the actual decline. Similarly, the model generates an increase in the services
-employment share that, though smaller, parallels the actual rise in this sector.
-Turning to the manufacturing sector, the model effectively generates the hump-shaped pattern
-characteristic of South Africa’s manufacturing employment share. However, the model’s implied decrease
-in the manufacturing employment share is somewhat subdued compared to the decline observed in the
-data. In general, the model successfully reproduces the pattern of structural change observed in South Africa
-from 1960 to 2010. 
+ Overall, the model effectively replicates the observed pattern of structural change in South Africa from 1960 to 2010, despite some deviations in the magnitude of changes in employment share across sectors
  </div>
 
 ### • Effect of an increase in financial development
@@ -121,16 +114,13 @@ from 1960 to 2010.
 </p>
 
 <div style="text-align: justify">
-Data from South Africa substantiates the theoretical model’s predictions. Indeed, increasing
-the financial development level over the period decreases the agricultural employment share to
-8.32%, while the shares in the manufacturing and services sectors increase by 1.14% and 3%, respectively.
-This evidence demonstrates that financial development positively influences the structural
-change process in South Africa.
+Data from South Africa substantiates the theoretical model’s predictions. Increasing
+the financial development level  decreases the agricultural employment share while the shares in the manufacturing and services sectors increase.
  </div>
  
 ### • Cross-country analysis
 <div style="text-align: justify">
-
+The cross-country analysis also shows that countries with a higher average level of financial development are those that have reached a higher peak.
  </div>
  
 <center>
@@ -141,11 +131,3 @@ change process in South Africa.
   <strong>FIGURE VI:</strong>  Financial development and peak manufacturing employement share across countries
 </p>
 
-
-<center>
-  <img src="/images/finance_agriculture_cross_countries.png" width="90%" />
-</center>
- 
-<p align="center">
-  <strong>FIGURE VII:</strong>  Financial development and agriculture employment share average annual growth across countries
-</p>
