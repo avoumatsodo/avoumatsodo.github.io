@@ -86,12 +86,21 @@ thus depend on the levels of entry and exit in the manufacturing sector, which a
 the differences in productivity growth rates across sectors.
 </div>
 
-## Implications of the model
+## III. Implications of the model
 ### • Model fit
 <center>
   <img src="/images/model_fit.png" width="80%" />
 </center>
  
 <p align="center">
-  <strong>FIGURE IV:</strong>  Effect of an increase in financial development at time $t_0$ on manufacturing share 
+  <strong>FIGURE IV:</strong>  Data vs Model
 </p> 
+
+### • The model to data
+<center>
+  <img src="/images/finance_structural_change_quant.png" width="80%" />
+</center>
+ 
+<p align="center">
+  <strong>FIGURE IV:</strong>  Impact of an incrase in the financial development on employement shares
+</p>
