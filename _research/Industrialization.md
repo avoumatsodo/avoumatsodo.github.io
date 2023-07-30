@@ -12,9 +12,68 @@ venue: 'Working Paper'
 Download the paper from this [link](http://avoumatsodo.github.io/files/Structural_change_and_Financial_Development.pdf)
 <!-- [Slides]() -->
 
-<!-- This paper is about the number 1. The number 2 is left for future work. -->
+Recommended citation: Avoumatsodo, Komla (2023). "Financial Development, Globalization, and Structural Transformation in Developing Countries", Working Paper.
+
+## I. Motivation
+
+### • Deindustrialization is occurring along different peaks of the hump-shaped path of manufacturing employment share across countries, and these peaks occur at varying income levels
+<div style="text-align: justify">
+Figure I  below illustrates the evolution of employment share in manufacturing across different levels
+of development and by region. It distinguishes between Asia (represented in blue), Latin America
+(in green), and Africa (in dark red). We can see that the peak manufacturing share of African countries
+is lower than that of Latin American countries, which, in turn, is lower than the peak share
+in Asian countries. Furthermore, these peaks occur at sequentially lower levels of development,
+underscoring the manifestations of premature deindustrialization across regions.
+</div> 
+<center>
+  <img src="/images/deindustrialization_by_region.png" />
+</center>
+ 
+<p align="center">
+  <strong>FIGURE I:</strong>  Deindustrialization across regions, 1950-2010
+</p> 
+
+<div style="text-align: justify">
+I construct a three-sector endogenous growth model that allows for
+the exploration of the impact of financial development on a country’s structural change over time
+through the process of technology adoption.
+</div> 
+
+## II. Model predictions
+### • Finance and Structural Transformation
+<div style="text-align: justify">
+Figure II below exemplifies the impact of financial development on country' structural transformaton. During the industrialization phase, where the growth rate in agriculture ($g_a$) is greater than that in services ($g_s$), which in turn is greater than that in manufacturing ($g_m$), resources are primarily reallocated from the agricultural and service sectors \circled{$a$} and \circled{$s$} to the manufacturing sector \circled{$m$}. This reallocation is further amplified by the level of financial development, favoring higher growth in the agricultural and service sectors.  Conversely, during the deindustrialization phase, where the growth rates satisfy $g_a>g_m>g_s$, resource reallocation is directed more towards the service sector. This shift is again amplified by the level of financial development.
+</div> 
+
+<center>
+  <img src="/images/finance_structural_change.png" width="80%" />
+</center>
+ 
+<p align="center">
+  <strong>FIGURE III:</strong>  Effect of financial development on the intensity of using new technologies: $\kappa_1<\kappa_2$.
+</p> 
 
 
-<!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
-
-
+### • Finance and Aggregate Productivity and Sectoral Convergence
+<div style="text-align: justify">
+Figure IV provides a representation of the distribution of countries based on their
+levels of financial institutions and aggregate productivity. The three distinct groups of countries,
+characterized by their convergence or divergence patterns, are clearly delineated in the figure. It
+serves as a visual reference to better understand the relationships between financial development,
+aggregate productivity, and the classification of countries into these distinct categories.
+</div>
+<!--
+<div style="display: flex; justify-content: center;">
+  <img src="/images/divergence.png" width="32%" alt="Trasient Divergence" />
+  <img src="/images/cond_convergence.png" width="32%" alt="Conditional Convergence" /> 
+  <img src="/images/convergence.png" width="32%" alt="Convergence" />
+</div>
+-->
+<center>
+  <img src="/images/transitions.png" width="70%" />
+</center>
+ 
+<p align="center">
+  <strong>FIGURE IV:</strong>  Transitions of countries across financial development and aggregate productivity
+groups
+</p> 
