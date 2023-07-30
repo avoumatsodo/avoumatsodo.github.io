@@ -19,4 +19,5 @@ Download the paper from this [link](http://avoumatsodo.github.io/files/Financial
 
 Recommended citation: Avoumatsodo, Komla (2023). "Financial Development, Technology Adoption, and Sectoral Productivity Convergence", Working Paper.
 
-#Data
+# Data
+
