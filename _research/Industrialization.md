@@ -64,14 +64,6 @@ enhanced financial development will support a higher inflow of resources into th
 sector. 
 </div>
 
-<div style="text-align: justify">
-However, if this increase occurs after the peak, implying a deindustrialization phase, higher
-levels of financial development will instead spur the reallocation of resources from manufacturing
-to services. At the same time, it will also cause a more significant exit from the agricultural sector,
-thereby leading to a considerable influx into the manufacturing sector. The overall impact will
-thus depend on the levels of entry and exit in the manufacturing sector, which are determined by
-the differences in productivity growth rates across sectors.
-</div>
 <!--
 <div style="display: flex; justify-content: center;">
   <img src="/images/divergence.png" width="32%" alt="Trasient Divergence" />
@@ -80,13 +72,21 @@ the differences in productivity growth rates across sectors.
 </div>
 -->
 <center>
-  <img src="/images/finance_manufacturing.png" width="100%" />
+  <img src="/images/finance_manufacturing.png" width="70%" />
 </center>
  
 <p align="center">
   <strong>FIGURE IV:</strong>  Effect of an increase in financial development at time $t_0$ on manufacturing share 
 </p> 
 
+<div style="text-align: justify">
+However, if this increase occurs after the peak, implying a deindustrialization phase, higher
+levels of financial development will instead spur the reallocation of resources from manufacturing
+to services. At the same time, it will also cause a more significant exit from the agricultural sector,
+thereby leading to a considerable influx into the manufacturing sector. The overall impact will
+thus depend on the levels of entry and exit in the manufacturing sector, which are determined by
+the differences in productivity growth rates across sectors.
+</div>
 
 ## Implications of the model
 ### • Model fit
