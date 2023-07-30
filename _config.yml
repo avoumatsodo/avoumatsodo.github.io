@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Komla Avoumatsodo"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Komla Avoumatsodo"
 description              : &description "personal description"
