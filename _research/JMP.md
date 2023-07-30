@@ -35,16 +35,16 @@ adopted per capita acros countries from 1980 to 2003 against the average level o
 </p> 
 
 
-### II. The share of manufacturing employment and the use of inputs in other sectors.
-
+#### Sectoral proximity (in productivity) to the frontier is positively associated with more use of adopted technologies across countries
 <div style="text-align: justify">
-Figure II illustrates the relationship between manufacturing employment share and the use of manufacturing goods as intermediate inputs in other sectors from 1960 to 2010. The initial increase in both these measures until mid-1980s represents the growing prominence of manufacturing in the economy, largely driven by other sectors' increasing dependence on manufacturing products. However, post-1985, a noticeable decline in these indicators suggests a shift towards a service-oriented economy, and a reduced role of manufacturing. Structural changes, including alterations in production patterns and demand, have influenced these shifts over time.
-</div>
-
+  Figure II  displays scatter plots illustrating the association between the level of technology adoption
+and the sectoral proximity to the United States
+</div> 
 <center>
-  <img src="/images/struct_input_manu.jpg" />
+  <img src="/images/tech_adoption2.png" />
 </center>
 </p>
 <p align="center">
-  <strong>FIGURE II:</strong>  Manufacturing Labor Share and Input Shares in South Korea (1965-2014).
+  <strong>FIGURE I:</strong>  Average levels of sectoral productivity proximity to the US and log intensity of use of technologies,
+1991-2003.
 </p> 
