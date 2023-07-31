@@ -31,3 +31,13 @@ Figure II illustrates the relationship between manufacturing employment share an
 <p align="center">
   <strong>FIGURE II:</strong>  Manufacturing Labor Share and Input Shares in South Korea (1965-2014).
 </p> 
+
+### III. What we do?
+
+<p align="justify">
+We consider a two-country, three-sector Eaton-Kortum trade model, as in Uy et al. (2013). This model integrates non-unitary income and substitution elasticities of demand, as well as sector-specific productivity growth. This unique combination enables the coexistence of both Engel’s law and the Baumol effect within the economy. In each sector, there is a continuum of varieties, and production relies on both labor and intermediate inputs. Trade costs vary across sectors, country-pairs, and over time. These dynamic and time-varying trade costs play a significant role in driving structural changes within the economy. The objective is to quantify how variations in input use intensities across different sectors contribute to changes in the labor share within the manufacturing sector.
+</p>
+
+<p align="justify">
+The objective is to quantify how variations in input use intensities across different sectors contribute to changes in the labor share within the manufacturing sector.
+</p>
