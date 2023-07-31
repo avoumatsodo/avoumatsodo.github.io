@@ -40,4 +40,4 @@ We consider a two-country, three-sector Eaton-Kortum trade model, as in Uy et al
 
 <p align="justify">
 The objective is to quantify how variations in input use intensities across different sectors contribute to changes in the labor share within the manufacturing sector.
-</p>
+</p> 
