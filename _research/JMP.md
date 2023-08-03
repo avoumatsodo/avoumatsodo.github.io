@@ -1,5 +1,5 @@
 ---
-title: "Financial Development, Technology Adoption, and Sectoral Productivity Convergence, JMP (2023)"
+title: "Financial Development, Technology Adoption, and Sectoral Productivity Convergence, 2022,  Job Market Paper"
 collection: research
 permalink: /research/JMP
 excerpt: '<div style="text-align: justify">
@@ -16,7 +16,7 @@ venue: 'Working Paper'
 <!-- [Slides]() -->
 <!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) --> 
 
-Recommended citation: Avoumatsodo, Komla (2023). "Financial Development, Technology Adoption, and Sectoral Productivity Convergence", Working Paper.
+Recommended citation: Avoumatsodo, Komla (2022). "Financial Development, Technology Adoption, and Sectoral Productivity Convergence", Working Paper.
 
 Download the paper from this [link](http://avoumatsodo.github.io/files/Financial_Development_Technology_Adoption_Sectoral_Productivity_Convergence.pdf)
 
