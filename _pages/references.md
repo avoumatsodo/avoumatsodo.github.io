@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<hr style="border-top: 5px solid #8c8b8b; width:100%;">
 References
 ======
 <style>
