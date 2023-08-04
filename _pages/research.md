@@ -4,6 +4,9 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
+
+# Research
+
 <hr style="border-top: 5px solid #000;">
 # Working Papers
 {% if author.googlescholar %}
