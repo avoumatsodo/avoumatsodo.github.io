@@ -2,7 +2,6 @@
 title: "Financial Development, Technology Adoption, and Sectoral Productivity Convergence (2022)"
 collection: research
 permalink: /research/JMP
----
 excerpt: '<div style="text-align: justify">
 <b>[Job Market Paper](https://avoumatsodo.github.io/files/Financial_Development_Technology_Adoption_Sectoral_Productivity_Convergence.pdf)</b> 
 <hr style="border-top: 1px solid #8c8b8b; width:100%;">
