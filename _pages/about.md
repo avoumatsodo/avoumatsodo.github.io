@@ -10,7 +10,7 @@ redirect_from:
 <hr style="border-top: 5px solid #000;">
 ## Welcome to my homepage 😊
 <div style="text-align: justify">
- I am a Ph.D. Candidate in Economics at the [University of Quebec at Montreal](https://uqam.ca/en/information/about/). 
+ I am a Ph.D. Candidate in Economics at the <a href="https://uqam.ca/en/information/about/">University of Quebec at Montreal</a>. 
 </div>
 
  <div style="text-align: justify">
