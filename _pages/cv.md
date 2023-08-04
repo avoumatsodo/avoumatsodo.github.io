@@ -17,7 +17,7 @@ To access my full Curriculum Vitae, please click [here](http://avoumatsodo.githu
 * M.A.  in Statistics and Economics, Ecole Nationale Supérieure de Statitstiques et d'Economie Appliquée (ENSEA), 2016
 * B.Sc. in Mathematics and Physics, Université de Lomé, 2012
 
-
+<hr style="border-top: 2px solid #8c8b8b; width:100%;">
 ## Non-Teaching Work Experience
 * May 2023-Nov. 2023: Research Fellow, International Union of Conservation of Nature (IUCN), Washington DC (online)
   * Duties included: Collaboration with a team of researchers to conduct extensive research on the topic of structural change and its implications for biodiversity conservation.
