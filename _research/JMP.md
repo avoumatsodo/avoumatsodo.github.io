@@ -1,5 +1,5 @@
 ---
-title: "Financial Development, Technology Adoption, and Sectoral Productivity Convergence, 2022,  Job Market Paper"
+title: "Financial Development, Technology Adoption, and Sectoral Productivity Convergence (2022),  Job Market Paper"
 collection: research
 permalink: /research/JMP
 excerpt: '<div style="text-align: justify">
