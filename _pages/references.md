@@ -13,7 +13,7 @@ redirect_from:
 
 <hr style="border-top: 5px solid #8c8b8b; width:100%;">
 You can find information about my references in the table below.
-======
+
 <style>
 td, th {
    border: none!important;
