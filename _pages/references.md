@@ -5,7 +5,7 @@ permalink: /references/
 author_profile: true
 ---
 {% include base_path %}
-## References
+# References
 <hr style="border-top: 5px solid #8c8b8b; width:100%;">
 You can find information about my references in the table below.
 
