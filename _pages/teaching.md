@@ -18,6 +18,7 @@ author_profile: true
 * Microeconomics I, B.A., Summer 2020, Fall 2020, Summer 2021
 
 <hr style="border-top: 2px dotted #8c8b8b; width:100%;">
+
 [Teaching Statement](http://avoumatsodo.github.io/files/teaching_statement.pdf)
 
 [Teaching Evaluations](http://avoumatsodo.github.io/files/teaching_evaluation.pdf)
