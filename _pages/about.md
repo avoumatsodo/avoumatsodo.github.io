@@ -30,6 +30,7 @@ redirect_from:
   
 [Research Statement](http://avoumatsodo.github.io/files/research_statement.pdf)
 
+<hr style="border-top: 1px dotted #000;">
 ## Contact
 Email: <a href="mailto:avoumatsodo.komla@uqam.ca">avoumatsodo.komla@uqam.ca</a>  
 Phone: (514)-347-1601  
