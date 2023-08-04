@@ -9,6 +9,7 @@ redirect_from:
 ---
 <hr style="border-top: 5px solid #000;">
 ## Welcome to my homepage 😊
+
  I am a Ph.D. Candidate in Economics at [Université du Québec à Montréal](https://uqam.ca/en/information/about/). 
  
  I am primarily interested in the field of Macroeconomics, with a specific focus on Development Economics, Innovation, and Structural Change.
