@@ -4,7 +4,7 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
-<hr style="border-top: 3px solid #000;">
+<hr style="border-top: 4px solid #000;">
 # Working Papers
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
