@@ -1,15 +1,14 @@
 --- 
 layout: archive
-title: "References"
+title: ""
 permalink: /references/
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
-
 {% include base_path %}
-
+## References
 <hr style="border-top: 5px solid #8c8b8b; width:100%;">
 You can find information about my references in the table below.
 
