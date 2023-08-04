@@ -13,9 +13,6 @@ I document notable differences in convergence speed across sectors and construct
 <hr style="border-top: 1px solid #8c8b8b; width:100%;">
 <i>Presentations: Bank of Canada (Graduate Student Paper Award Workshop, 2022)</i>  
 </div>'
----
-
-
 venue: 'Working Paper'
 # paperurl: 'http://avoumatsodo.github.io/files/paper1.pdf'
 # citation: 'Komla, Avoumatsodo. (2023). &quot;Financial Development, Technology Adoption, and Sectoral Productivity Convergence.&quot; <i>Working Paper</i>.'
