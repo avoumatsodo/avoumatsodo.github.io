@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 {% include base_path %}
+# Teaching Experience
+
 <hr style="border-top: 5px solid #8c8b8b; width:100%;">
 ## Lecturer, Université du Québec à Montréal
 * Macroeconomics Analysis, B.A., Winter 2019, Winter 2020, Winter 2021, Winter 2022, Winter 2023
