@@ -12,7 +12,6 @@ redirect_from:
 <div style="text-align: justify">
  I am a Ph.D. Candidate in Economics at the <a href="https://uqam.ca/en/information/about/">University of Quebec at Montreal</a>. 
 </div>
-
 <br>
  
  <div style="text-align: justify">
