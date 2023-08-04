@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<hr style="border-top: 4px solid #8c8b8b; width:100%;">
+<hr style="border-top: 5px solid #8c8b8b; width:100%;">
 To access my full Curriculum Vitae, please click [here](http://avoumatsodo.github.io/files/CV_Komla.pdf)
 
 <hr style="border-top: 2px solid #8c8b8b; width:100%;">
