@@ -9,13 +9,17 @@ redirect_from:
 ---
 <hr style="border-top: 5px solid #000;">
 ## Welcome to my homepage 😊
-
+<div style="text-align: justify">
  I am a Ph.D. Candidate in Economics at [Université du Québec à Montréal](https://uqam.ca/en/information/about/). 
- 
- I am primarily interested in the field of Macroeconomics, with a specific focus on Development Economics, Innovation, and Structural Change.
+</div>
 
+ <div style="text-align: justify">
+ I am primarily interested in the field of Macroeconomics, with a specific focus on Development Economics, Technology Adoption, and Structural Change.
+</div>
+
+<div style="text-align: justify">
  I will be on the Job Market during the 2023/2024 academic year and will be available for interviews at the AEA/ASSA and the Canadian Economic Job Market.
- <!-- My [job market paper]() explores ... -->
+</div>
 
 ## Research Interests
 * Macroeconomics
