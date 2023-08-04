@@ -8,7 +8,8 @@ author_profile: true
 # Research
 
 <hr style="border-top: 5px solid #000;">
-# Working Papers
+## <i style="color:blue;">Working Papers</i>
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -26,7 +27,7 @@ Abstract:
   </p> -->
   
 <hr style="border-top: 4px solid #000;">
-# Works in Progress 
+## <i style="color:blue;">Works in Progress</i>
 
 ### [Time-Varying Sectoral Input Output Linkages and Structural Change](/sectoral-linkages-details/) (April 2023),  joint with [Isambert Leunga Noukwé](https://sites.google.com/view/isambertleunga/home)
 <!-- ##### Abstract: --> 
