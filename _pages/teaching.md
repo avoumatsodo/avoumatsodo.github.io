@@ -19,7 +19,7 @@ author_profile: true
 * Econometrics of Finance, M.A., From Fall 2018 to Winter 2022
 * Microeconomics I, B.A., Summer 2020, Fall 2020, Summer 2021
 
-<hr style="border-top: 2px dotted #8c8b8b; width:100%;">
+<hr style="border-top: 2px solid #8c8b8b; width:100%;">
 
 [Teaching Statement](http://avoumatsodo.github.io/files/teaching_statement.pdf)
 
