@@ -9,13 +9,16 @@ excerpt: '<div style="text-align: justify">
 <br> <a href="https://www.researchsquare.com/article/rs-3235751/v1" target="_blank">Submitted</a> (August 4, 2023)
 </div><hr style="border-top: 2px solid #8c8b8b; width:100%;">'
 ---
-[Paper](http://avoumatsodo.github.io/files/Financial_Development_Technology_Adoption_Sectoral_Productivity_Convergence.pdf){: .btn}  
+<a href="http://avoumatsodo.github.io/files/Financial_Development_Technology_Adoption_Sectoral_Productivity_Convergence.pdf" target="_blank" class="btn">Paper</a>
+
+<!-- [Paper](http://avoumatsodo.github.io/files/Financial_Development_Technology_Adoption_Sectoral_Productivity_Convergence.pdf){: .btn} --> 
 <!-- [Slides]() -->
 <!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) --> 
 
 Recommended citation: Avoumatsodo, Komla (2022). "Financial Development, Technology Adoption, and Sectoral Productivity Convergence", Working Paper.
 
-Download the paper from this [link](http://avoumatsodo.github.io/files/Financial_Development_Technology_Adoption_Sectoral_Productivity_Convergence.pdf)
+Download the paper from this <a href="http://avoumatsodo.github.io/files/Financial_Development_Technology_Adoption_Sectoral_Productivity_Convergence.pdf" target="_blank">link</a>
+
 
 ## I. Motivation
 
