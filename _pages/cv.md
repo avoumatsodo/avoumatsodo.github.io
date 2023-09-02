@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 # CV
 <hr style="border-top: 5px solid #8c8b8b; width:100%;">
-To access my full Curriculum Vitae, please click <a href="http://avoumatsodo.github.io/files/CV_Komla.pdf" target="_blank">here</a> 
+To access my full Curriculum Vitae, please click <a href="http://avoumatsodo.github.io/files/CV_Komla.pdf" target="_blank">here</a>
 
 <hr style="border-top: 2px solid #8c8b8b; width:100%;">
 ## Education
