@@ -23,7 +23,7 @@ I am a Ph.D. Candidate in Economics at the <a href="https://uqam.ca/en/informati
 * International Economics
 * Environmental Economics
   
-[Research Statement](http://avoumatsodo.github.io/files/research_statement.pdf)
+<a href="http://avoumatsodo.github.io/files/research_statement.pdf" target="_blank">Research Statement</a>
 
 ## Contact
 <hr style="border-top: 2px solid #000;">
