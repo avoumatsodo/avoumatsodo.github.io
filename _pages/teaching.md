@@ -21,9 +21,9 @@ author_profile: true
 
 <hr style="border-top: 2px solid #8c8b8b; width:100%;">
 
-[Teaching Statement](http://avoumatsodo.github.io/files/teaching_statement.pdf)
+<a href="http://avoumatsodo.github.io/files/teaching_statement.pdf" target="_blank">Teaching Statement</a>
 
-[Teaching Evaluations](http://avoumatsodo.github.io/files/teaching_evaluation.pdf)
+<a href="http://avoumatsodo.github.io/files/teaching_evaluation.pdf" target="_blank">Teaching Evaluations</a>
 
 
 
