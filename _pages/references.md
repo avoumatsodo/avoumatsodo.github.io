@@ -23,5 +23,9 @@ td, th {
 | Department of Economics    | Department of Economics    | Department of Economics   |  Department of Economics   |
 | UQAM   | UQAM   | UQAM   | UQAM   |
 |  [sevcik.pavel@uqam.ca](sevcik.pavel@uqam.ca)   | [paquet.alain@uqam.ca](paquet.alain@uqam.ca)   | [osotimehin.sophie@uqam.ca](osotimehin.sophie@uqam.ca)   | [martin.julien@uqam.ca](martin.julien@uqam.ca)   |
-| [Website](http://www.sevcik.uqam.ca/)    | [Website](https://www.researchgate.net/profile/Alain-Paquet-3)   | [Website](https://sites.google.com/site/sosotimehin/)    | [Website](https://www.julienmartin.eu/)    |
+| <a href="http://www.sevcik.uqam.ca/" target="_blank">Website</a>
+    | <a href="https://www.researchgate.net/profile/Alain-Paquet-3" target="_blank">Website</a>
+   |  <a href="https://sites.google.com/site/sosotimehin/" target="_blank">Website</a>
+   |  <a href="https://www.julienmartin.eu/" target="_blank">Website</a>
+  |
 
