@@ -1,5 +1,5 @@
 ---
-title: "Financial Development, Globalization, and Structural Transformation in Developing Countries (2023)"
+title: "Financial Development, Globalization, and Structural Transformation in Developing Countries"
 collection: research
 permalink: /research/Industrialization
 excerpt: '<div style="text-align: justify">
