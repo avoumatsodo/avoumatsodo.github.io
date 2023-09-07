@@ -1,5 +1,5 @@
 ---
-title: "Financial Development, Technology Adoption, and Sectoral Productivity Convergence (2022)"
+title: "Financial Development, Technology Adoption, and Sectoral Productivity Convergence"
 collection: research
 permalink: /research/JMP
 excerpt: '<div style="text-align: justify">
