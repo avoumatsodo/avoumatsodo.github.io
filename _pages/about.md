@@ -13,7 +13,7 @@ I am a Ph.D. Candidate in Economics at the <a href="https://uqam.ca/en/informati
 
  I am primarily interested in the field of Macroeconomics, with a specific focus on Development Economics, Technology Adoption, and Structural Change.
 
- I will be on the Job Market during the 2023/2024 academic year and will be available for interviews at the AEA/ASSA and the Canadian Economic Job Market.
+I am actively participating in the 2023/2024 academic job market and am available for interviews during both the AEA/ASSA meetings and the Canadian Economic Job Market sessions.
 
 ## Research Interests
 <hr style="border-top: 2px solid #000;">
