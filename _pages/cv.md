@@ -24,7 +24,7 @@ To access my full Curriculum Vitae, please click <a href="http://avoumatsodo.git
   * Duties included: Collaboration with a team of researchers to conduct extensive research on the topic of structural change and its implications for biodiversity conservation.
   <!-- * Supervisor: Juha Siikamäki -->
 
-* August 2016-June 2018: Statistician Consultant, World Bank Group, Washington DC (hybrid)
+* August 2016-June 2018: Statistician Consultant, World Bank Group, Washington DC (Hybrid)
   * Duties included: Ensuring data quality and accuracy while conducting data analysis and statistical modeling to support research and policy development.
   <!-- * Supervisor: Aly Sanoh -->
 
