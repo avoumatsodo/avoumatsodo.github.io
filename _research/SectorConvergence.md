@@ -69,7 +69,7 @@ Figure III below illustrates the intensity of technology use $\theta_{jt+1}$ of 
   <strong>FIGURE III:</strong>  Effect of financial development on the intensity of using new technologies: $\kappa_1<\kappa_2$.
 </p> 
 
-### • Finance and Aggregate Productivity and Sectoral Convergence
+### • Finance, Aggregate Productivity and Sectoral Convergence
 <div style="text-align: justify">
 Figure IV provides a representation of the distribution of countries based on their
 levels of financial institutions $\kappa$ and aggregate productivity $A_t$. The three distinct groups of countries,
