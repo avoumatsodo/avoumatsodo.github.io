@@ -18,7 +18,7 @@ td, th {
 }
 </style>
 
-| Pavel Ševčík (chair)  | Alain Paquet (co-chair)  | Sophie Osotimehin  | Julien Martin  |
+| Pavel Ševčík (advisor)  | Alain Paquet (co-advisor)  | Sophie Osotimehin  | Julien Martin  |
 |:--------|:-------|:--------|:--------|
 | Department of Economics    | Department of Economics    | Department of Economics   |  Department of Economics   |
 | UQAM   | UQAM   | UQAM   | UQAM   |
