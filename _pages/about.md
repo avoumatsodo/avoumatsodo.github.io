@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Welcome To My Homepage 😊
+## Welcome to My Homepage 😊
 <hr style="border-top: 5px solid #000;">
 I am a Ph.D. Candidate in Economics at the <a href="https://uqam.ca/en/information/about/" target="_blank">University of Quebec at Montreal</a>.
 
