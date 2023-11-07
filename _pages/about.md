@@ -11,7 +11,7 @@ redirect_from:
 <hr style="border-top: 5px solid #000;">
 I am a Ph.D. Candidate in Economics at the <a href="https://uqam.ca/en/information/about/" target="_blank">University of Quebec at Montreal</a>.
 
- I am primarily interested in the field of Macroeconomics, with a specific focus on Development Economics, Technology Adoption, and Structural Change.
+ I am primarily interested in the field of Macroeconomics, with a specific focus on Development Economics and Growth, Technology Adoption, and Structural Transformation.
 
 I am actively participating in the 2023/2024 academic job market and am available for interviews during both the AEA/ASSA meetings and the Canadian Economic Job Market sessions.
 
