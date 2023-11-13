@@ -6,7 +6,7 @@ excerpt: '<div style="text-align: justify">
 <b><i>Job Market Paper</i></b> 
 <br> <a href="https://www.researchsquare.com/article/rs-3235751/v1" target="_blank">Under review</a> (August 4, 2023)<br><br>
 <b>Abstract:</b> I document notable differences in convergence speed across sectors and construct an endogenous growth model to elucidate the reasons behind these observed discrepancies. The model categorizes countries into three groups based on their levels of financial institutions and aggregate productivity. Initially, the first group, characterized by low aggregate productivity and weak financial institutions, experiences sectoral productivity divergence but eventually catches up with the second group. The second group demonstrates moderate levels of aggregate productivity and financial institutions, showcasing conditional convergence. On the other hand, the third group, characterized by high aggregate productivity and strong financial institutions, experiences unconditional convergence towards higher sectoral productivity. The model also suggests that convergence in sectors with faster growth rates at the technological frontier occurs at a later stage. Empirical evidence from the World Development Indicators dataset spanning 29 years and covering over 150 countries supports these and other predictions.
-<br><br><i>Presentations: Bank of Canada (Graduate Student Paper Award Workshop, 2022)</i>
+<br><br><i>Presentated at The Bank of Canada Graduate Student Paper Award Workshop, September 2022</i>
 </div><hr style="border-top: 2px solid #8c8b8b; width:100%;">'
 ---
 <a href="http://avoumatsodo.github.io/files/Financial_Development_Technology_Adoption_Sectoral_Productivity_Convergence.pdf" target="_blank" class="btn">Paper</a>
