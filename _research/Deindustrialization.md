@@ -123,7 +123,7 @@ the financial development level  decreases the agricultural employment share whi
  
 ### • Cross-country analysis
 <div style="text-align: justify">
-The cross-country analysis also shows that countries with a higher average level of financial development are those that have reached a higher peak.
+The cross-country analysis also shows that countries with a higher average level of financial development are those that have reached a higher peak in the manufacturing employment.
  </div>
  
 <center>
