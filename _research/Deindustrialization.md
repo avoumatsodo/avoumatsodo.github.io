@@ -55,7 +55,7 @@ Download the paper from this <a href="http://avoumatsodo.github.io/files/Structu
 
 
 ## I. Motivation
-
+aa
 ### • Deindustrialization is occurring along different peaks of the hump-shaped path of manufacturing employment share across countries, and these peaks occur at varying income levels
 <div style="text-align: justify">
 Figure I  below illustrates the evolution of employment share in manufacturing across different levels
