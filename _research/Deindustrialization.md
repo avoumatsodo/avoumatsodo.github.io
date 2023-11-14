@@ -2,44 +2,9 @@
 title: "Financial Development, Globalization, and Structural Transformation in Developing Countries"
 collection: research
 permalink: /research/Industrialization
----
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .abstract {
-            display: none;
-        }
-
-        .show-btn {
-            cursor: pointer;
-            color: black;
-        }
-    </style>
-</head>
-<body>
-    <div style="text-align: justify">
-        <b>Abstract:</b> Rodrik (2016) pointed out that late industrializing countries are experiencing a lower peak at lower income levels in the manufacturing employment share hump-shaped path. The present study develops a theoretical model to analyze the dynamics of industrialization and deindustrialization in developing countries and their integration with earlier industrialized economies. The findings suggest that financial development plays a crucial role in both accelerating industrialization and facilitating deindustrialization. Moreover, the model reveals that when developing countries integrate with economies in deindustrialization, the technological frontier in the manufacturing sector becomes relatively further ahead compared to the services sector. This discrepancy in technological proximity between sectors influences the differential productivity growth rates in manufacturing and services, driving an early shift towards the services sector. The model is calibrated to South African data from 1960 to 2010 and provides empirical support for these findings.
-    </div>
-
-    <div class="abstract" id="abstract">
-        <!-- Hidden abstract content -->
-    </div>
-
-    <div class="show-btn" onclick="toggleAbstract()">▶ Show Abstract</div>
-
-    <script>
-        function toggleAbstract() {
-            var abstract = document.getElementById("abstract");
-            abstract.style.display = (abstract.style.display === "none") ? "block" : "none";
-        }
-    </script>
-</body>
-</html>
-
+excerpt: '<div style="text-align: justify">
+<b>Abstract:</b> Rodrik (2016) pointed out that late industrializing countries are experiencing a lower peak at lower income levels in the manufacturing employment share hump-shaped path. The present study develops a theoretical model to analyze the dynamics of industrialization and deindustrialization in developing countries and their integration with earlier industrialized economies. The findings suggest that financial development plays a crucial role in both accelerating industrialization and facilitating deindustrialization. Moreover, the model reveals that when developing countries integrate with economies in deindustrialization, the technological frontier in the manufacturing sector becomes relatively further ahead compared to the services sector. This discrepancy in technological proximity between sectors influences the differential productivity growth rates in manufacturing and services, driving an early shift towards the services sector. The model is calibrated to South African data from 1960 to 2010 and provides empirical support for these findings.
+</div>
 <!-- <hr style="border-top: 2px solid #8c8b8b; width:100%;"> -->
 '
 venue: 'Working Paper'
@@ -55,7 +20,7 @@ Download the paper from this <a href="http://avoumatsodo.github.io/files/Structu
 
 
 ## I. Motivation
-aa
+
 ### • Deindustrialization is occurring along different peaks of the hump-shaped path of manufacturing employment share across countries, and these peaks occur at varying income levels
 <div style="text-align: justify">
 Figure I  below illustrates the evolution of employment share in manufacturing across different levels
