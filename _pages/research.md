@@ -41,55 +41,10 @@ The primary focus of the statistical estimation results will be to project futur
 <hr style="border-top: 2px solid #8c8b8b; width:100%;">
 
 ### Innovation, International Trade, and Structural Change (December 2022)
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .abstract {
-            display: none;
-            text-align: justify;
-            margin-top: 10px;
-        }
-
-        .toggle-btn {
-            cursor: pointer;
-            color: black;
-            text-decoration: none;
-            font-size: 20px; /* Adjust the font size as needed */
-        }
-
-        .triangle {
-            display: inline-block;
-            width: 0;
-            height: 0;
-            border-style: solid;
-            border-width: 10px 0 10px 15px; /* Adjust the size of the triangle as needed */
-            border-color: transparent transparent transparent black;
-            margin-right: 10px; /* Adjust the margin as needed */
-        }
-    </style>
-</head>
-<body>
-    <div>
-        <span class="toggle-btn" onclick="toggleAbstract()">
-            <span class="triangle"></span> Toggle Abstract
-        </span>
-    </div>
-
-    <div class="abstract" id="abstract">
-        <p>This paper develops a Schumpeterian endogenous general equilibrium model of stock asset pricing, linking R&D performance in diverse industries to asset returns. The model incorporates uncertainty related to innovation shocks aiming to explore the implications of R&D policies on asset price dynamics. By considering risk-averse agents and varying R&D investments, the paper demonstrates that R&D amounts and asset risk premiums differ across industries based on productivity levels.</p>
-    </div>
-
-    <script>
-        function toggleAbstract() {
-            var abstract = document.getElementById("abstract");
-            abstract.style.display = (abstract.style.display === "none") ? "block" : "none";
-        }
-    </script>
-</body>
-</html>
+ <details>
+ <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
+Traditional theories of structural transformation fail to account for the disparities between employment and value added shares, which poses a significant puzzle. In the case of South Korea, the value added share in manufacturing does not decline during later stages of development, unlike the employment share. To address this issue, I propose a Schumpeterian framework, incorporating technological innovation and trade at the sector level. This framework makes distinct predictions regarding employment and value added shares. In a closed economy, the model establishes an equilibrium where the share of value added equals the share of labor. However, when a country opens up to trade and achieves a monopoly through innovation in a specific sector (such as manufacturing in South Korea), it reduces its reliance on imported intermediate goods in that sector. As a result, the share of value added continues to rise while the share of labor declines.
+</details>
 
 
   
