@@ -30,9 +30,11 @@ Abstract:
 <hr style="border-top: 4px solid #000;">
 
 ### [Time-Varying Sectoral Input Output Linkages and Structural Change](/sectoral-linkages-details/) (April 2023),  joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> 
-<!-- ##### Abstract: --> 
+<details>
+ <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
 <p align="justify">   We have documented a significant dynamic in input shares within all three sectors (agriculture, manufacturing, and services) for South Korea during the period from 1965 to 2014. This finding implies notable transformations in intersectoral dependencies throughout the analyzed timeframe. Such changes can be attributed to various factors, including technological advancements, shifts in production patterns, fluctuations in input prices, and evolving economic structures. By employing a three-sector, open-economy model of structural change, our objective is to elucidate how dissimilarities in input-output linkages contribute to the observed structural shifts in South Korea manufacturing employment shares. </p>
 <hr style="border-top: 2px solid #8c8b8b; width:100%;">
+</details>
 
 ### Technology Adoption, Structural Change, and Biodiversity (May 2023), joint with <a href="https://sites.google.com/view/matias-piaggio/home" target="_blank">Matías Piaggio</a> and <a href="https://scholar.google.com/citations?user=5MvX8VQAAAAJ&hl=en" target="_blank">Juha Siikamäki</a> 
 <details>
@@ -45,10 +47,5 @@ Abstract:
  <details>
  <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
 <p align="justify"> This paper develops an Schumpeterian endogenous general equilibrium model of stock asset pricing, linking R&D performance in diverse industries to asset returns. The model incorporates uncertainty related to innovation shocks aiming to explore the implications of R&D policies on asset price dynamics. By considering risk-averse agents and varying R&D investments, the paper demonstrates that R&D amounts and asset risk premiums differ across industries based on productivity levels.</p>
-</details>
-
- <details>
- <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
-
 </details>
   
