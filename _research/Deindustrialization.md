@@ -2,6 +2,8 @@
 title: "Financial Development, Globalization, and Structural Transformation in Developing Countries"
 collection: research
 permalink: /research/Industrialization
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
