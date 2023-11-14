@@ -4,7 +4,7 @@ collection: research
 permalink: /research/JMP
 excerpt: '<div style="text-align: justify">
 <b><i>Job Market Paper</i></b> 
-<br> <a href="https://www.researchsquare.com/article/rs-3235751/v1" target="_blank">Under review</a> (August 4, 2023)<br><br>
+<br> <a href="https://www.researchsquare.com/article/rs-3235751/v1" target="_blank">Under review</a> (August 4, 2023)
 <br><br><i>Presentations: 2022 Bank of Canada Graduate Student Paper Award Workshop,  2022 African Econometric Society, 56th Annual Canadian Economics Association Meetings, and  17th CIREQ Ph.D. Students’ Conference</i> 
  <details>
  <summary>&nbsp;&nbsp;&nbsp;<b>Abstract</b></summary>
