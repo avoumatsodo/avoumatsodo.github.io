@@ -46,6 +46,42 @@ Traditional theories of structural transformation fail to account for the dispar
 
 <!--
 #### The volatility of stock returns and technological innovation (Sept. 2019)
-<p align="justify"> This paper develops an Schumpeterian endogenous general equilibrium model of stock asset pricing, linking R&D performance in diverse industries to asset returns. The model incorporates uncertainty related to innovation shocks aiming to explore the implications of R&D policies on asset price dynamics. By considering risk-averse agents and varying R&D investments, the paper demonstrates that R&D amounts and asset risk premiums differ across industries based on productivity levels.  </p> -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .summary {
+            display: none;
+            text-align: justify;
+            margin-top: 10px;
+        }
+
+        .toggle-btn {
+            cursor: pointer;
+            color: black;
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <button class="toggle-btn" onclick="toggleSummary()">Toggle Summary</button>
+    </div>
+
+    <div class="summary" id="summary">
+        <p>This paper develops a Schumpeterian endogenous general equilibrium model of stock asset pricing, linking R&D performance in diverse industries to asset returns. The model incorporates uncertainty related to innovation shocks aiming to explore the implications of R&D policies on asset price dynamics. By considering risk-averse agents and varying R&D investments, the paper demonstrates that R&D amounts and asset risk premiums differ across industries based on productivity levels.</p>
+    </div>
+
+    <script>
+        function toggleSummary() {
+            var summary = document.getElementById("summary");
+            summary.style.display = (summary.style.display === "none") ? "block" : "none";
+        }
+    </script>
+</body>
+</html>
+
 
   
