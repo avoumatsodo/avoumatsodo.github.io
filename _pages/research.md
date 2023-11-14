@@ -43,7 +43,7 @@ The primary focus of the statistical estimation results will be to project futur
 ### Innovation, International Trade, and Structural Change (December 2022)
  <details>
  <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
-Traditional theories of structural transformation fail to account for the disparities between employment and value added shares, which poses a significant puzzle. In the case of South Korea, the value added share in manufacturing does not decline during later stages of development, unlike the employment share. To address this issue, I propose a Schumpeterian framework, incorporating technological innovation and trade at the sector level. This framework makes distinct predictions regarding employment and value added shares. In a closed economy, the model establishes an equilibrium where the share of value added equals the share of labor. However, when a country opens up to trade and achieves a monopoly through innovation in a specific sector (such as manufacturing in South Korea), it reduces its reliance on imported intermediate goods in that sector. As a result, the share of value added continues to rise while the share of labor declines.
+<p align="justify"> This paper develops an Schumpeterian endogenous general equilibrium model of stock asset pricing, linking R&D performance in diverse industries to asset returns. The model incorporates uncertainty related to innovation shocks aiming to explore the implications of R&D policies on asset price dynamics. By considering risk-averse agents and varying R&D investments, the paper demonstrates that R&D amounts and asset risk premiums differ across industries based on productivity levels.  </p> -->
 </details>
 
 
