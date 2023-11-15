@@ -3,7 +3,7 @@ title: "Financial Development, Technology Adoption, and Sectoral Productivity Co
 collection: research
 permalink: /research/JMP
 excerpt: '<div style="text-align: justify">
-<b><i>Job Market Paper</i></b>, <a href="https://www.researchsquare.com/article/rs-3235751/v1" target="_blank">Under review</a> (August 4, 2023)<br> 
+<b><i>Job Market Paper</i></b>
 <br><i>Presentations: 2022 Bank of Canada Graduate Student Paper Award Workshop,  2022 African Econometric Society, 56th Annual Canadian Economics Association Meetings, and  17th CIREQ Ph.D. Students’ Conference</i><br><br>  
  <details>
  <summary>&nbsp;&nbsp;&nbsp;<b>Abstract</b></summary>
@@ -15,7 +15,7 @@ I document notable differences in convergence speed across sectors and construct
 
 <!-- [Paper](http://avoumatsodo.github.io/files/Financial_Development_Technology_Adoption_Sectoral_Productivity_Convergence.pdf){: .btn} --> 
 <!-- [Slides]() -->
-<!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) --> 
+<!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) , <a href="https://www.researchsquare.com/article/rs-3235751/v1" target="_blank">Under review</a> (August 4, 2023)<br> --> 
 
 Recommended citation: Avoumatsodo, Komla (2022). "Financial Development, Technology Adoption, and Sectoral Productivity Convergence", Working Paper.
 
