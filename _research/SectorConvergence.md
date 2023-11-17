@@ -11,7 +11,7 @@ I document notable differences in convergence speed across sectors and construct
 </details> <hr style="border-top: 2px solid #8c8b8b; width:100%;"></div>'
 ---
 <a href="http://avoumatsodo.github.io/files/Financial_Development_Technology_Adoption_Sectoral_Productivity_Convergence.pdf" target="_blank" class="btn">Paper</a>
-<a href="http://avoumatsodo.github.io/files/2022_BOC_GSPA_Komla_short_slide.pdf" target="_blank" class="btn">Slides</a>
+<a href="http://avoumatsodo.github.io/files/Job_Market_Paper_slides.pdf" target="_blank" class="btn">Slides</a>
 
 <!-- [Paper](http://avoumatsodo.github.io/files/Financial_Development_Technology_Adoption_Sectoral_Productivity_Convergence.pdf){: .btn} --> 
 <!-- [Slides]() -->
