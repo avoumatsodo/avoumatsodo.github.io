@@ -20,7 +20,7 @@ To access my full Curriculum Vitae, please click <a href="http://avoumatsodo.git
 
 <hr style="border-top: 2px solid #8c8b8b; width:100%;">
 ## Non-Teaching Work Experience
-* May 2023-Nov. 2023: Research Fellow, International Union for Conservation of Nature (IUCN), Washington DC (Remote)
+* May 2023-: Research Fellow, International Union for Conservation of Nature (IUCN), Washington DC (Remote)
   * Duties included: Collaboration with a team of researchers to conduct extensive research on the topic of structural change and its implications for biodiversity conservation.
   <!-- * Supervisor: Juha Siikamäki -->
 
