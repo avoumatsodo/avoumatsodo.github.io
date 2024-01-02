@@ -9,6 +9,7 @@ author_profile: true
 # Teaching Experience
 
 <hr style="border-top: 5px solid #8c8b8b; width:100%;">
+
 ## Lecturer, National School of Public Administration, Quebec-Canada
 * International Finance, M.A., Winter 2024
 
