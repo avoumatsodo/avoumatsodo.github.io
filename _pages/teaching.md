@@ -17,6 +17,7 @@ author_profile: true
 * Macroeconomics Analysis, B.A., Winter 2019, Winter 2020, Winter 2021, Winter 2022, Winter 2023
 
 <hr style="border-top: 2px solid #8c8b8b; width:100%;">
+
 ## Teaching Assistant, University of Quebec at Montreal, Montreal-Canada
 * Advanced Microeconomics II, Ph.D. , Winter  2019, Winter 2020, Winter 2021, Winter 2022, Winter 2023
 * Quantitative Macroeconomic Methods, Ph.D.,  Fall 2018, Fall 2019, Fall 2023
