@@ -10,7 +10,7 @@ author_profile: true
 
 <hr style="border-top: 5px solid #8c8b8b; width:100%;">
 
-## Lecturer, National School of Public Administration, Quebec-Canada
+## Lecturer, National School of Public Administration, Quebec City-Canada
 * International Finance, M.A., Winter 2024
 
 ## Lecturer, University of Quebec at Montreal, Montreal-Canada
