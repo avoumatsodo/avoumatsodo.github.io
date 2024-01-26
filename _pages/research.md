@@ -44,5 +44,12 @@ Abstract:
 </details>
 
 ### Innovation, International Trade, and Structural Change (December 2022)
-
-  
+<details>
+ <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
+<p align="justify">This study addresses the disparity between employment and value-added shares during the process of structural
+transformation. I propose a Schumpeterian framework that incorporates technological innovation and
+trade at the sector level. This framework provides distinct predictions regarding employment and valueadded shares, particularly focusing on South Korea's manufacturing sector. By analyzing the impact of
+trade and innovation on sectoral linkages, I explore how changes in input-output relationships contribute
+to observed structural shifts.</p>
+<hr style="border-top: 2px solid #8c8b8b; width:100%;">
+</details>
