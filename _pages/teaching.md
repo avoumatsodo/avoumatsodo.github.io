@@ -14,7 +14,7 @@ author_profile: true
 * International Finance, M.A., Winter 2024
 
 ## Lecturer, University of Quebec at Montreal, Montreal-Canada
-* Macroeconomics Analysis, B.A., Winter 2019, Winter 2020, Winter 2021, Winter 2022, Winter 2023
+* Macroeconomics Analysis, B.A., Winter 2019, Winter 2020, Winter 2021, Winter 2022, Winter 2023, Winter 2024
 
 <hr style="border-top: 2px solid #8c8b8b; width:100%;">
 
