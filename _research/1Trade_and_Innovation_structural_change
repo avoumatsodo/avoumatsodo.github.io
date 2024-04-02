@@ -62,78 +62,7 @@ Figure II below exemplifies the impact of financial development on country' stru
 </p> 
 
 
-### • Finance and Industrialization level
-<div style="text-align: justify">
-Figure III illustrates the
-impact of financial development level on the sectoral share of consumption expenditure in manufacturing.
-If an increase in financial development occurs before the peak of the manufacturing
-sector share curve, the impact is positive. This signifies that during the industrialization phase,
-enhanced financial development will support a higher inflow of resources into the manufacturing
-sector. 
-</div>
 
-<!--
-<div style="display: flex; justify-content: center;">
-  <img src="/images/divergence.png" width="32%" alt="Trasient Divergence" />
-  <img src="/images/cond_convergence.png" width="32%" alt="Conditional Convergence" /> 
-  <img src="/images/convergence.png" width="32%" alt="Convergence" />
-</div>
--->
-<center>
-  <img src="/images/finance_manufacturing.png" width="90%" />
-</center>
- 
-<p align="center">
-  <strong>FIGURE III:</strong>  Effect of an increase in financial development at time $t_0$ on manufacturing share 
-</p> 
 
-<div style="text-align: justify">
-However, if this increase occurs after the peak, implying a deindustrialization phase, higher
-levels of financial development will instead spur the reallocation of resources from manufacturing
-to services. At the same time, it will also cause a more significant exit from the agricultural sector,
-thereby leading to a considerable influx into the manufacturing sector. The overall impact will
-thus depend on the levels of entry and exit in the manufacturing sector, which are determined by
-the differences in productivity growth rates across sectors.
-</div>
 
-## III. The model to data
-### • Model fit
-<center>
-  <img src="/images/model_fit.png" width="90%" />
-</center>
- 
-<p align="center">
-  <strong>FIGURE IV:</strong>  Data vs Model
-</p> 
-
-<div style="text-align: justify">
- Overall, the model effectively replicates the observed pattern of structural change in South Africa from 1960 to 2010, despite some deviations in the magnitude of changes in employment share across sectors
- </div>
-
-### • Effect of an increase in financial development
-<center>
-  <img src="/images/finance_structural_change_quant.png" width="90%" />
-</center>
- 
-<p align="center">
-  <strong>FIGURE V:</strong>  Impact of an incrase in the financial development on employement shares
-</p>
-
-<div style="text-align: justify">
-Data from South Africa substantiates the theoretical model’s predictions. Increasing
-the financial development level  decreases the agricultural employment share while the shares in the manufacturing and services sectors increase.
- </div>
- 
-### • Cross-country analysis
-<div style="text-align: justify">
-The cross-country analysis also shows that countries with a higher average level of financial development are those that have reached a higher peak in the manufacturing employment.
- </div>
- 
-<center>
-  <img src="/images/finance_manufacturing_cross_countries.png" width="90%" />
-</center>
- 
-<p align="center">
-  <strong>FIGURE VI:</strong>  Financial development and peak manufacturing employement share across countries
-</p>
 
