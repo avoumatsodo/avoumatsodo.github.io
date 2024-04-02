@@ -8,10 +8,8 @@ Quebec Social Sciences PhD Students Presentations.</i><br><br>
  <details>
  <summary>&nbsp;&nbsp;&nbsp;<b>Abstract</b></summary>
 Rodrik (2016) pointed out that late industrializing countries are experiencing a lower peak at lower income levels in the manufacturing employment share hump-shaped path. The present study develops a theoretical model to analyze the dynamics of industrialization and deindustrialization in developing countries and their integration with earlier industrialized economies. The findings suggest that financial development plays a crucial role in both accelerating industrialization and facilitating deindustrialization. Moreover, the model reveals that when developing countries integrate with economies in deindustrialization, the technological frontier in the manufacturing sector becomes relatively further ahead compared to the services sector. This discrepancy in technological proximity between sectors influences the differential productivity growth rates in manufacturing and services, driving an early shift towards the services sector. The model is calibrated to South African data from 1960 to 2010 and provides empirical support for these findings.
-</details>
-</div>
-<!-- <hr style="border-top: 2px solid #8c8b8b; width:100%;"> -->
-'
+</details> <hr style="border-top: 2px solid #8c8b8b; width:100%;"></div>'
+
 venue: 'Working Paper'
 # paperurl: <!-- 'http://avoumatsodo.github.io/files/paper1.pdf' -->
 # citation: 'Komla, Avoumatsodo. (2023). &quot;Financial Development, Technology Adoption, and Sectoral Productivity Convergence.&quot; <i>Working Paper</i>.'
