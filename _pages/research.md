@@ -26,15 +26,6 @@ Abstract:
   The present study develops a theoretical model to analyze the dynamics of industrialization and deindustrialization in developing countries and their integration with earlier industrialized economies. The findings suggest that financial development plays a crucial role in both accelerating industrialization and facilitating deindustrialization. Moreover, the model reveals that when developing countries integrate with economies in deindustrialization, the technological frontier in the manufacturing sector becomes relatively further ahead compared to the services sector. This discrepancy in technological proximity between sectors influences the differential productivity growth rates, driving an early shift towards the services sector. These findings contribute to a deeper understanding of premature deindustrialization in developing countries in a globalized world, while highlighting the roles of financial development and sectoral proximity to the technological frontier. 
   </p> -->
 
-  ### Innovation, International Trade, and Structural Change
-<details>
- <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
-<p align="justify">Traditional theories of structural transformation fail to account for the disparities between employment and value added shares, which poses a significant puzzle. To address this issue, I propose a Schumpeterian framework, incorporating technological innovation and trade at the sector level. This framework makes distinct predictions regarding employment and value added shares. In a closed economy, the model establishes an equilibrium where the share of value added equals the share of employment. However, when a country opens up to trade and achieves a monopoly through innovation in a specific sector, it results in higher profits and greater value added relative to employment in that sector. Consequently, the share of value added increases more rapidly than the share of labor. Conversely, in sectors where the country lacks global monopolistic control, the share of value added diminishes due to lower profits for intermediate good producers, resulting in a value added share that is lower than the employment share.</p>
-<hr style="border-top: 2px solid #8c8b8b; width:100%;">
-</details>
-## <i style="color:blue;">Work in Progress</i>
-<hr style="border-top: 4px solid #000;">
-
 ### [Time-Varying Sectoral Input Output Linkages and Structural Change](/sectoral-linkages-details/) (April 2023),  joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> 
 <details>
  <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
