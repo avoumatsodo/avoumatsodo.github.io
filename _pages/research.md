@@ -21,6 +21,8 @@ author_profile: true
 {% endfor %}
 
 ## <i style="color:blue;">Work in Progress</i>
+<hr style="border-top: 5px solid #000;">
+
 ### [Time-Varying Sectoral Input Output Linkages and Structural Change](/sectoral-linkages-details/) (April 2023),  joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> 
 <details>
  <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
