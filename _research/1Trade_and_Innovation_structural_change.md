@@ -9,11 +9,13 @@ Traditional theories of structural transformation fail to account for the dispar
 </div>'
 
 venue: 'Working Paper'
-# citation: 'Komla, Avoumatsodo. (2024). &quot;Innovation, Trade, and Structural Change.&quot; <i>Working Paper</i>.'
+# paperurl: <!-- 'http://avoumatsodo.github.io/files/paper1.pdf' -->
+# citation: 'Komla, Avoumatsodo. (2023). &quot;Financial Development, Technology Adoption, and Sectoral Productivity Convergence.&quot; <i>Working Paper</i>.'
 ---
-<a href="http://avoumatsodo.github.io/files/Trade_and_Innovation.pdf" target="_blank" class="btn">Paper</a>
+<a href="http://avoumatsodo.github.io/files/Structural_change_and_Financial_Development.pdf" target="_blank" class="btn">Paper</a>
+<!-- [Slides]() -->
 
-Recommended citation: Avoumatsodo, Komla (2024). "Innovation, Trade, and Structural Change", Working Paper.
+Recommended citation: Avoumatsodo, Komla (2023). "Financial Development, Globalization, and Structural Transformation in Developing Countries", Working Paper.
 
-Download the paper from this <a href="http://avoumatsodo.github.io/files/Trade_and_Innovation.pdf" target="_blank">link</a>
+Download the paper from this <a href="http://avoumatsodo.github.io/files/Structural_change_and_Financial_Development.pdf" target="_blank">link</a>
 
