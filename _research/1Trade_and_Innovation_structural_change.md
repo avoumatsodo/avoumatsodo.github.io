@@ -1,5 +1,5 @@
 ---
-title: "Innovation, Trade, and Structural Change"
+title: "Innovation, International Trade, and Structural Change"
 collection: research
 permalink: /research/Innovation_structural_change
 excerpt: '<div style="text-align: justify"> 
