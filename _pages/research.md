@@ -10,15 +10,6 @@ author_profile: true
 ## <i style="color:blue;">Working Papers</i>
 <hr style="border-top: 5px solid #000;">
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.research reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 ## <i style="color:blue;">Work in Progress</i>
 <hr style="border-top: 5px solid #000;">
