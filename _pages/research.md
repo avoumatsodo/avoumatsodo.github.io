@@ -37,4 +37,8 @@ author_profile: true
 </details>
 
 ### Organic Farming versus Conventional Farming: Adoption, Transition, and Profitability, joint with <a href="https://www.moustaphathiam.com/home" target="_blank">Moustapha Thiam</a>   
-
+<details>
+ <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
+<p align="justify">  The departure of Quebec farmers from the organic agriculture sector in 2023 accounted for over 46% of new entrants. This article presents a dynamic theoretical model aimed at analyzing the profitability and transition dynamics between the organic and conventional agriculture sectors. Empirical evidence suggests that the adoption of organic agriculture is positively associated with the relative price between organic and conventional products, while it shows a negative correlation with the relative yields of various crops. The model underscores the necessity of implementing subsidies for transitioning farmers, in addition to taxes on pesticide use, to facilitate the uptake of organic agriculture. Furthermore, optimal environmental taxation on conventional goods is identified, along with the optimal allocation of conventional agriculture land to mitigate potential long-term negative externalities resulting from conventional production through environmental regeneration. Additionally, the study examines farmer adoption and transition dynamics within an uncertain environment, considering the potential emergence of new pests.</p>
+<hr style="border-top: 2px solid #8c8b8b; width:100%;">
+</details>
