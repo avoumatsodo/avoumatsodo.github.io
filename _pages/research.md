@@ -22,18 +22,19 @@ author_profile: true
 ## <i style="color:blue;">Work in Progress</i>
 <hr style="border-top: 5px solid #000;">
 
-### [Time-Varying Sectoral Input Output Linkages and Structural Change](/sectoral-linkages-details/) (April 2023),  joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> 
+### [Time-Varying Sectoral Input Output Linkages and Structural Change](/sectoral-linkages-details/),  joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> 
 <details>
  <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
 <p align="justify">   We have documented a significant dynamic in input shares within all three sectors (agriculture, manufacturing, and services) for South Korea during the period from 1965 to 2014. This finding implies notable transformations in intersectoral dependencies throughout the analyzed timeframe. Such changes can be attributed to various factors, including technological advancements, shifts in production patterns, fluctuations in input prices, and evolving economic structures. By employing a three-sector, open-economy model of structural change, our objective is to elucidate how dissimilarities in input-output linkages contribute to the observed structural shifts in South Korea manufacturing employment shares. </p>
 <hr style="border-top: 2px solid #8c8b8b; width:100%;">
 </details>
 
-### Technology Adoption, Structural Change, and Biodiversity (May 2023), joint with <a href="https://scholar.google.com/citations?user=5MvX8VQAAAAJ&hl=en" target="_blank">Juha Siikamäki</a> and <a href="https://sites.google.com/view/matias-piaggio/home" target="_blank">Matías Piaggio</a>   
+### Technology Adoption, Structural Change, and Biodiversity, joint with <a href="https://scholar.google.com/citations?user=5MvX8VQAAAAJ&hl=en" target="_blank">Juha Siikamäki</a> and <a href="https://sites.google.com/view/matias-piaggio/home" target="_blank">Matías Piaggio</a>   
 <details>
  <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
 <p align="justify">  This study examines the relationship between economic growth and biodiversity threat, aiming to provide insights for public policy decisions regarding structural economic system change for nature conservation. Using panel fixed effects estimation methods, this research aims to analyze data on the changes in aggregate extinction risk across species groups, technology adoption, and economic structural change. The primary focus of the statistical estimation results will be to project future changes in the risk of species extinction, specifically in the years 2050 and 2100, considering economic and population growth, as well as the potential impact of increasing protected areas coverage to mitigate these threats. The findings of this study will contribute to a deeper understanding of the intricate relationship between economic development and biodiversity conservation, ultimately facilitating enhanced comprehension of the synergies and trade-offs involved in achieving the objectives outlined in the Sustainable Development Goals (SDGs).</p>
 <hr style="border-top: 2px solid #8c8b8b; width:100%;">
 </details>
 
+### Organic Farming versus Conventional Farming: Adoption, Transition, and Profitability, joint with <a href="https://www.moustaphathiam.com/home" target="_blank">Moustapha Thiam</a>   
 
