@@ -12,7 +12,7 @@ author_profile: true
 
 ## 2024- : Lecturer, National School of Public Administration, Quebec-City, Canada
 * International Finance, M.A. 
-* Economics of Glabalization, M.A. 
+* Economic Globalization, M.A. 
 
 ## 2019-2023 : Lecturer, University of Quebec at Montreal, Montreal-Canada
 * Intermadiate Macroeconomics, B.A.
