@@ -13,7 +13,7 @@ I am a Ph.D. Candidate in Economics at the <a href="https://uqam.ca/en/informati
 
 I am primarily interested in the field of Macroeconomics, with a specific focus on Development Economics and Growth, Technology Adoption, and Structural Transformation.
 
-I will join the School of Economics at the University of Northern British Columbia as an assistant professor in the Fall of 2024.
+I will join the <a href="https://www2.unbc.ca/economics" target="_blank">School of Economics</a> at the University of Northern British Columbia as an Assistant Professor in the Fall of 2024.
 
 ## Research Interests
 <hr style="border-top: 2px solid #000;">
