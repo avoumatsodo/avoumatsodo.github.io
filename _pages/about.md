@@ -27,6 +27,6 @@ I am primarily interested in the field of Macroeconomics, with a specific focus 
 <hr style="border-top: 2px solid #000;">
 Email: <a href="mailto:komla.avoumatsodo@unbc.ca">komla.avoumatsodo@unbc.ca</a>  
 Phone:  (250) 960-6491  
-Address :3333 University Way, Prince George, BC V2N 4Z9
+Address :3333 University Way, Prince George, BC V2N 4Z9  
 Office: 10-4558
 
