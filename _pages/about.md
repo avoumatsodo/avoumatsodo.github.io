@@ -9,11 +9,9 @@ redirect_from:
 ---
 ## Welcome to My Homepage 😊
 <hr style="border-top: 5px solid #000;">
-I am a Ph.D. Candidate in Economics at the <a href="https://uqam.ca/en/information/about/" target="_blank">University of Quebec at Montreal</a>.
+I am an Assistant Professor of Economics at <a href="https://www.unbc.ca/" target="_blank">University of Northern British Columbia</a>
 
 I am primarily interested in the field of Macroeconomics, with a specific focus on Development Economics and Growth, Technology Adoption, and Structural Transformation.
-
-I will join the <a href="https://www2.unbc.ca/economics" target="_blank">School of Economics</a> at the University of Northern British Columbia as an Assistant Professor in the Fall of 2024.
 
 ## Research Interests
 <hr style="border-top: 2px solid #000;">
@@ -27,9 +25,8 @@ I will join the <a href="https://www2.unbc.ca/economics" target="_blank">School 
 
 ## Contact
 <hr style="border-top: 2px solid #000;">
-Email: <a href="mailto:avoumatsodo.komla@uqam.ca">avoumatsodo.komla@uqam.ca</a>  
-Phone: (514)-347-1601  
-Office: De Sève Building, DS-5525  
-320 St Catherine St E  
-Montreal, QC H2X 1L7, Canada.  
+Email: <a href="mailto:komla.avoumatsodo@unbc.ca">komla.avoumatsodo@unbc.ca</a>  
+Phone:  (250) 960-6491  
+Office: 10-4558
+3333 University Way, Prince George, BC V2N 4Z9
 
