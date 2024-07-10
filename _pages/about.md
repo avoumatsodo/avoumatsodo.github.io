@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Welcome to My Homepage 😊
+## Welcome ! 😊
 <hr style="border-top: 5px solid #000;">
 I am an Assistant Professor of Economics at the <a href="https://www.unbc.ca/" target="_blank">University of Northern British Columbia</a>.
 
