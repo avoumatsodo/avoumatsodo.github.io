@@ -10,16 +10,16 @@ author_profile: true
 
 <hr style="border-top: 5px solid #8c8b8b; width:100%;">
 
-### 2024- : Lecturer, National School of Public Administration, Quebec-City, Canada
+### Jan. 2024 - June 2024 : Lecturer, National School of Public Administration, Quebec-City, Canada
 * International Finance, M.A. 
 * Economic Globalization, M.A. 
 
-### 2019-2023 : Lecturer, University of Quebec at Montreal, Montreal-Canada
+### Jan. 2019 - May 2023 : Lecturer, University of Quebec at Montreal, Montreal-Canada
 * Intermadiate Macroeconomics, B.A.
 
 <hr style="border-top: 2px solid #8c8b8b; width:100%;">
 
-### 2019-2023 : Teaching Assistant, University of Quebec at Montreal, Montreal-Canada
+### Jan. 2018- May 2023 : Teaching Assistant, University of Quebec at Montreal, Montreal-Canada
 * Advanced Microeconomics II, Ph.D. 
 * Quantitative Macroeconomic Methods, Ph.D. 
 * Econometrics of Finance, M.A. 
