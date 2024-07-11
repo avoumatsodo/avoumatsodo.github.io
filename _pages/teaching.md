@@ -12,7 +12,6 @@ author_profile: true
 
 ### Jan. 2024 - June 2024 : Lecturer, National School of Public Administration, Quebec-City, Canada
 * International Finance, M.A. 
-* Economic Globalization, M.A. 
 
 ### Jan. 2019 - May 2023 : Lecturer, University of Quebec at Montreal, Montreal-Canada
 * Intermadiate Macroeconomics, B.A.
