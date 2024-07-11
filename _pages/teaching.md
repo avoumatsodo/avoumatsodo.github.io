@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-# Teaching Experience
+## Teaching Experience
 
 <hr style="border-top: 5px solid #8c8b8b; width:100%;">
 
