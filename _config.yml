@@ -123,7 +123,6 @@ include:
   - _pages
   - files
 exclude:
-  - references.md
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -186,7 +185,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   references:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
