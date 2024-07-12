@@ -28,7 +28,7 @@ author_profile: true
 
 <a href="http://avoumatsodo.github.io/files/teaching_statement.pdf" target="_blank">Teaching Statement</a>
 
-<a href="http://avoumatsodo.github.io/files/teaching_evaluation.pdf" target="_blank">Teaching Evaluations</a>
+<!-- <a href="http://avoumatsodo.github.io/files/teaching_evaluation.pdf" target="_blank">Teaching Evaluations</a> -->
 
 
 
