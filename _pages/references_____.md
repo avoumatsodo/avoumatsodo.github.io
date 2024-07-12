@@ -1,7 +1,7 @@
 --- 
 layout: archive
 title: ""
-permalink: /references/
+permalink: /references__/
 author_profile: true
 redirect_from: 
   - /md/
