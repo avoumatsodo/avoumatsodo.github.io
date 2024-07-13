@@ -184,10 +184,7 @@ collections:
   CV:
     output: true
     permalink: /:collection/:path/
-  references:
-    output: false
-    permalink: /:collection/:path/
-
+  
 
 # Defaults
 defaults:
