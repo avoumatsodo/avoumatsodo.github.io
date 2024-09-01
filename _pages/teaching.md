@@ -9,23 +9,23 @@ author_profile: true
 # Teaching Experience
 <hr style="border-top: 5px solid #8c8b8b; width:100%;">
 
-## Current Teaching
+## <h2><u>Current Teaching</u></h2>
 * Advanced Macroeconomics
 * International Finance and Sustainability
 * Credit, Money, and Banking
 
 <hr style="border-top: 2px solid #8c8b8b; width:100%;">
 
-## Previous Teaching
-#### National School of Public Administration, Quebec-City, Canada
+## <h2><u>Previous Teaching</u></h2>
+### National School of Public Administration, Quebec-City, Canada
 * International Finance, Winter 2024
 
-#### University of Quebec at Montreal, Montreal, Canada
+### University of Quebec at Montreal, Montreal, Canada
 * Intermadiate Macroeconomics, Winter 2019-Winter 2023 
 
 <hr style="border-top: 2px solid #8c8b8b; width:100%;">
 
-#### Teaching Assistant, University of Quebec at Montreal, Montreal-Canada
+### Teaching Assistant, University of Quebec at Montreal, Montreal-Canada
 * Advanced Microeconomics II, Ph.D. 
 * Quantitative Macroeconomic Methods, Ph.D. 
 * Econometrics of Finance, M.A. 
