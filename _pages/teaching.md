@@ -9,14 +9,14 @@ author_profile: true
 # Teaching Experience
 <hr style="border-top: 5px solid #8c8b8b; width:100%;">
 
-## <h2><u>Current Teaching</u></h2>
+## <u>Current Teaching</u>
 * Advanced Macroeconomics
 * International Finance and Sustainability
 * Credit, Money, and Banking
 
 <hr style="border-top: 2px solid #8c8b8b; width:100%;">
 
-## <h2><u>Previous Teaching</u></h2>
+## <u>Previous Teaching</u>
 ### National School of Public Administration, Quebec-City, Canada
 * International Finance, Winter 2024
 
