@@ -17,7 +17,7 @@ author_profile: true
 <hr style="border-top: 2px solid #8c8b8b; width:100%;">
 
 ### Previous Teaching
-###### National School of Public Administration, Quebec-City, Canada
+#### National School of Public Administration, Quebec-City, Canada
 * International Finance, Winter 2024
 
 ###### University of Quebec at Montreal, Montreal, Canada
@@ -25,7 +25,7 @@ author_profile: true
 
 <hr style="border-top: 2px solid #8c8b8b; width:100%;">
 
-###### Teaching Assistant, University of Quebec at Montreal, Montreal-Canada
+#### Teaching Assistant, University of Quebec at Montreal, Montreal-Canada
 * Advanced Microeconomics II, Ph.D. 
 * Quantitative Macroeconomic Methods, Ph.D. 
 * Econometrics of Finance, M.A. 
