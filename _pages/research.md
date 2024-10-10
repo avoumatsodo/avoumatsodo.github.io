@@ -9,20 +9,25 @@ author_profile: true
 
 ## <i style="color:blue;">Working Papers</i>
 <hr style="border-top: 5px solid #000;">
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
+### <a href="https://avoumatsodo.github.io/files/Financial_Development_Technology_Adoption_Sectoral_Productivity_Convergence.pdf" target="_blank">Financial Development, Technology Adoption, and Sectoral Productivity Converrgence</a>  
+<details>
+ <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
+<p align="justify">   I document significant differences in the patterns of productivity convergence across key economic sectors and develop an endogenous growth model to explain these observed patterns. The model predicts that sectors with higher growth rates at the technological frontier, such as agriculture, will converge more slowly than those with lower frontier growth, like services. It also shows that the threshold level beyond which financial development no longer influences technology adoption varies by sector, with those closer to the frontier becoming unconstrained more quickly. Furthermore, the model categorizes countries into three groups based on their levels of financial development and GDP per capita, demonstrating divergent and conditional convergence for lower-income groups, and unconditional convergence for higher-income, financially developed countries. More importantly, as GDP per capita increases, leading to greater financing capacity, initially divergent sectors within a country can start to converge. </p>
+<hr style="border-top: 2px solid #8c8b8b; width:100%;">
+</details>
 
-{% for post in site.research reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+### <a href="https://avoumatsodo.github.io/files/Structural_change_and_Financial_Development.pdf" target="_blank">Financial Development, Globalization, and Structural Transformation in Developing Countries</a> ,  joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> 
+<details>
+ <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
+<p align="justify">   Rodrik (2016) pointed out that late industrializing countries are experiencing a lower peak at lower income levels in the manufacturing employment share hump-shaped path. The present study develops a theoretical model to analyze the dynamics of industrialization and deindustrialization in developing countries and their integration with earlier industrialized economies. The findings suggest that financial development plays a crucial role in both accelerating industrialization and facilitating deindustrialization. Moreover, the model reveals that when developing countries integrate with economies in deindustrialization, the technological frontier in the manufacturing sector becomes relatively further ahead compared to the services sector. This discrepancy in technological proximity between sectors influences the differential productivity growth rates in manufacturing and services, driving an early shift towards the services sector. The model is calibrated to South African data from 1960 to 2010 and provides empirical support for these findings. </p>
+<hr style="border-top: 2px solid #8c8b8b; width:100%;">
+</details>
 
 ## <i style="color:blue;">Work in Progress</i>
 <hr style="border-top: 5px solid #000;">
 
-### [Time-Varying Sectoral Input Output Linkages and Structural Change](/sectoral-linkages-details/),  joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> 
+### Time-Varying Sectoral Input Output Linkages and Structural Change,  joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> 
 <details>
  <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
 <p align="justify">   We have documented a significant dynamic in input shares within all three sectors (agriculture, manufacturing, and services) for South Korea during the period from 1965 to 2014. This finding implies notable transformations in intersectoral dependencies throughout the analyzed timeframe. Such changes can be attributed to various factors, including technological advancements, shifts in production patterns, fluctuations in input prices, and evolving economic structures. By employing a three-sector, open-economy model of structural change, our objective is to elucidate how dissimilarities in input-output linkages contribute to the observed structural shifts in South Korea manufacturing employment shares. </p>
