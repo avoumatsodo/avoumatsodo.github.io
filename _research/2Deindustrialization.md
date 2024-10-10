@@ -1,5 +1,5 @@
 ---
-title: "Financial Development, Globalization, and Structural Transformation in Developing Countries"
+title: "Financial Development, Globalization, and Structural Transformation in Developing Countries", joint with Isambert Leunga Noukwé
 collection: research
 permalink: /research/Industrialization
 excerpt: '<div style="text-align: justify"> 
