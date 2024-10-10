@@ -10,7 +10,7 @@ author_profile: true
 ## <i style="color:blue;">Working Papers</i>
 <hr style="border-top: 5px solid #000;">
 
-### <a href="https://avoumatsodo.github.io/files/Financial_Development_Technology_Adoption_Sectoral_Productivity_Convergence.pdf" target="_blank">Financial Development, Technology Adoption, and Sectoral Productivity Converrgence</a>  
+### <a href="https://avoumatsodo.github.io/files/Financial_Development_Technology_Adoption_Sectoral_Productivity_Convergence.pdf" target="_blank">Financial Development, Technology Adoption, and Sectoral Productivity Convergence</a>  
 <details>
  <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
 <p align="justify">   I document significant differences in the patterns of productivity convergence across key economic sectors and develop an endogenous growth model to explain these observed patterns. The model predicts that sectors with higher growth rates at the technological frontier, such as agriculture, will converge more slowly than those with lower frontier growth, like services. It also shows that the threshold level beyond which financial development no longer influences technology adoption varies by sector, with those closer to the frontier becoming unconstrained more quickly. Furthermore, the model categorizes countries into three groups based on their levels of financial development and GDP per capita, demonstrating divergent and conditional convergence for lower-income groups, and unconditional convergence for higher-income, financially developed countries. More importantly, as GDP per capita increases, leading to greater financing capacity, initially divergent sectors within a country can start to converge. </p>
