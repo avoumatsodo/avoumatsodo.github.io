@@ -24,7 +24,7 @@ author_profile: true
 <hr style="border-top: 2px solid #8c8b8b; width:100%;">
 </details>
 
-### <a href="https://avoumatsodo.github.io/files/Financial_development_and_structural_change.pdf" target="_blank">Innovation, Trade, and Divergence Between Sectoral Employment and Value-Added Shares</a> 
+### <a href="https://avoumatsodo.github.io/files/Trade_and_Innovation.pdf" target="_blank">Innovation, Trade, and the Employment-Value Added Disparity Across Sectors</a> 
 <details>
  <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
 <p align="justify"> 
