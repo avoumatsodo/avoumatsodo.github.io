@@ -15,15 +15,15 @@ author_profile: true
 * Credit, Money, and Banking
 
 
-### Previous Teaching
-##### National School of Public Administration, Quebec-City, Canada
+#### Previous Teaching
+##### 1. National School of Public Administration, Quebec-City, Canada
 * International Finance, Winter 2024
 
-##### University of Quebec at Montreal, Montreal, Canada
+##### 2. University of Quebec at Montreal, Montreal, Canada
 * Intermadiate Macroeconomics, Winter 2019-Winter 2023 
 
 
-##### Teaching Assistant, University of Quebec at Montreal, Montreal-Canada
+##### 3. Teaching Assistant, University of Quebec at Montreal, Montreal-Canada
 * Advanced Microeconomics II, Ph.D. 
 * Quantitative Macroeconomic Methods, Ph.D. 
 * Econometrics of Finance, M.A. 
