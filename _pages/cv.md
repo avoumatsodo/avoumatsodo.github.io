@@ -20,7 +20,7 @@ redirect_from:
  
 ###  <span style="color:blue;"> ▶ Education </span>
   
- *  <span style="font-size: 14px;" style="margin-bottom: 0;">  **Ph.D. in Economics**, <a href="https://economie.esg.uqam.ca/en/faculty/professors/" target="_blank"> <i>UQAM</i> </a>, 2024 </span>
+ *  <h3 style="font-size: 14px;" style="margin-bottom: 0;">  **Ph.D. in Economics**, <a href="https://economie.esg.uqam.ca/en/faculty/professors/" target="_blank"> <i>UQAM</i> </a>, 2024 </h3>
 
  * <span style="font-size: 14px;"> **M.A.  in Statistics and Economics**, <a href="https://ensea.ed.ci/history/?lang=en" target="_blank"> <i>ENSEA</i></a>, 2016 </span>
 
