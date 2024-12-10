@@ -26,7 +26,7 @@ I am primarily interested in the field of Macroeconomics, with a specific focus 
 * Environmental Economics
   </span>
 
-<a href="http://avoumatsodo.github.io/files/research_statement.pdf" target="_blank">Research Statement</a>
+<!-- <a href="http://avoumatsodo.github.io/files/research_statement.pdf" target="_blank">Research Statement</a> -->
 
 ### Contact
 <hr style="border-top: 2px solid #000;">
