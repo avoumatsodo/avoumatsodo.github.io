@@ -18,7 +18,7 @@ redirect_from:
 
  <hr style="border-top: 2px solid #8c8b8b; width:100%;"> 
  
-###  <span style="color:blue;">  ▶ Education </span>
+###  <span style="color:blue;"> ▶ Education </span>
   
  * <span style="font-size: 14px;">  **Ph.D. in Economics**, <a href="https://economie.esg.uqam.ca/en/faculty/professors/" target="_blank"> <i>UQAM</i> </a>, 2024 </span>
 
@@ -28,7 +28,7 @@ redirect_from:
 </span>
 <!-- <hr style="border-top: 2px solid #8c8b8b; width:100%;"> -->
 
-###  <span style="color:blue;">  ▶ Non-Teaching Work Experience </span>
+###  <span style="color:blue;"> ▶ Non-Teaching Work Experience </span>
 * <span style="font-size: 14px;"> **Research Fellow**, <a href="https://iucn.org/" target="_blank"> <i>IUCN</i></a>, Washington DC (Remote), May 2023- February 2024 </span>
  <!--   Duties included: Collaboration with a team of researchers to conduct extensive research on the topic of structural change and its implications for biodiversity conservation. -->
  
