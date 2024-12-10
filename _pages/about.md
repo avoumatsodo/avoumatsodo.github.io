@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## Welcome ! 😊
 <hr style="border-top: 5px solid #000;">
-<span style="font-size: 12px;">
+<span style="font-size: 10px;">
 I am an Assistant Professor of Economics at the <a href="https://www.unbc.ca/" target="_blank">University of Northern British Columbia</a>.
 </span>
 
