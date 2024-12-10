@@ -18,7 +18,7 @@ I am primarily interested in the field of Macroeconomics, with a specific focus 
 
 ### Research Interests
 <hr style="border-top: 2px solid #000;">
-<ul style="list-style-type: none; padding-left: 20px;">
+<ul style="padding-left: 20px; list-style-type: disc;">
   <li style="margin-bottom: 7px; font-size: 14px;"> 
     Macroeconomics
   </li>
