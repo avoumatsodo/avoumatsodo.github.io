@@ -11,9 +11,9 @@ redirect_from:
 <hr style="border-top: 5px solid #000;">
 <span style="font-size: 12px;">
 I am an Assistant Professor of Economics at the <a href="https://www.unbc.ca/" target="_blank">University of Northern British Columbia</a>.
-</span>
 
 I am primarily interested in the field of Macroeconomics, with a specific focus on Development Economics and Growth, Technology Adoption, and Structural Transformation.
+</span>
 
 ## Research Interests
 <hr style="border-top: 2px solid #000;">
