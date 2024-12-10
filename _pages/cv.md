@@ -19,7 +19,7 @@ redirect_from:
  
 ### <span style="color:blue;"> ▶ Education </span>
 
-<ul style="list-style-type: none; padding-left: 20px;">
+<ul style="padding-left: 20px;">
   <li style="margin-bottom: 7px; font-size: 14px;"> 
     <strong>Ph.D. in Economics</strong>, <a href="https://economie.esg.uqam.ca/en/faculty/professors/" target="_blank"> <i>UQAM</i> </a>, 2024 
   </li>
