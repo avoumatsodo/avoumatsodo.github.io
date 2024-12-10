@@ -9,7 +9,7 @@ author_profile: true
 ## Teaching Experience
 <!-- <hr style="border-top: 5px solid #8c8b8b; width:100%;"> -->
 
-### ▶ <i style="color:blue;">Working Papers</i>Current Teaching
+### ▶ < style="color:blue;" Current Teaching>
 * <span style="font-size: 14px;"> Advanced Macroeconomics, M.Sc. </span>
 * <span style="font-size: 14px;"> International Finance and Sustainability, M.Sc. </span>
 * <span style="font-size: 14px;">  Money, Credit, and Financial Institutions, B.A. </span>
