@@ -32,7 +32,7 @@ Traditional theories of structural transformation fail to account for the dispar
 <hr style="border-top: 2px solid #8c8b8b; width:100%;">
 </details> -->
 
-<br><br>
+<br>
 ### <i style="color:blue;">Work in Progress</i>
 <!-- <hr style="border-top: 5px solid #000;"> <!---->
 
