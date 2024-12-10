@@ -7,7 +7,7 @@ author_profile: true
 
 # Research
 
-### <i style="color:blue;">Working Papers</i>
+### ▶ <i style="color:blue;">Working Papers</i>
 <!-- <hr style="border-top: 5px solid #000;"> -->
 
 #### 1. Financial Development, Technology Adoption, and Sectoral Productivity Convergence, <a href="https://avoumatsodo.github.io/files/Financial_Development_Technology_Adoption_Sectoral_Productivity_Convergence.pdf" target="_blank"> PDF </a>
@@ -29,9 +29,9 @@ author_profile: true
 Traditional theories of structural transformation fail to account for the disparities between employment and value added shares, which poses a significant puzzle. To address this issue, I propose a Schumpeterian framework, incorporating technological innovation and trade at the sector level. This framework makes distinct predictions regarding employment and value added shares. In a closed economy, the model establishes an equilibrium where the share of value added equals the share of employment. However, when a country opens up to trade and achieves a monopoly through innovation in a specific sector, it results in higher profits and greater value added relative to employment in that sector. Consequently, the share of value added increases more rapidly than the share of labor. Conversely, in sectors where the country lacks global monopolistic control, the share of value added diminishes due to lower profits for intermediate good producers, resulting in a value added share that is lower than the employment share. </p>
 <hr style="border-top: 2px solid #8c8b8b; width:100%;">
 </details> -->
-<br> 
+<br>
 
-### <i style="color:blue;">Work in Progress</i>
+### ▶ <i style="color:blue;">Work in Progress</i>
 <!-- <hr style="border-top: 5px solid #000;"> <!---->
 
 * <span style="font-size: 14px;"> Time-Varying Sectoral Input Output Linkages and Structural Change,  joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> </span>
