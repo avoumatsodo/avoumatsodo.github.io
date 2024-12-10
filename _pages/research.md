@@ -7,7 +7,7 @@ author_profile: true
 
 # Research
 
-### ▶ <i style="color:blue;">Working Papers</i>
+### <i style="color:blue;"> ▶ Working Papers</i>
 <!-- <hr style="border-top: 5px solid #000;"> -->
 
 #### 1. Financial Development, Technology Adoption, and Sectoral Productivity Convergence, <a href="https://avoumatsodo.github.io/files/Financial_Development_Technology_Adoption_Sectoral_Productivity_Convergence.pdf" target="_blank"> PDF </a>
@@ -31,7 +31,7 @@ Traditional theories of structural transformation fail to account for the dispar
 </details> -->
 <br>
 
-### ▶ <i style="color:blue;">Work in Progress</i>
+### <i style="color:blue;"> ▶ Work in Progress</i>
 <!-- <hr style="border-top: 5px solid #000;"> <!---->
 
 * <span style="font-size: 14px;"> Time-Varying Sectoral Input Output Linkages and Structural Change,  joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> </span>
