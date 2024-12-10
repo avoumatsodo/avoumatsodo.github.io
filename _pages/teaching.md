@@ -19,11 +19,11 @@ author_profile: true
 ##### <i> 1. National School of Public Administration, Quebec-City, Canada </i>
 * <span style="font-size: 14px;"> International Finance, MPA,  Winter 2024 </span>
 
-##### <i style="color:blue;">Working Papers</i>2. University of Quebec at Montreal, Montreal, Canada
+##### <i> 2. University of Quebec at Montreal, Montreal, Canada </i>
 * <span style="font-size: 14px;"> Intermadiate Macroeconomics, B.A., Winter 2019-Winter 2023 </span>
 
 
-##### <i style="color:blue;">Working Papers</i>3. Teaching Assistant, University of Quebec at Montreal, Montreal-Canada
+##### <i> 3. Teaching Assistant, University of Quebec at Montreal, Montreal-Canada </i>
 * <span style="font-size: 14px;"> Advanced Microeconomics II, Ph.D., Winter 2018-Winter 2024 </span> 
 * <span style="font-size: 14px;"> Quantitative Macroeconomic Methods, Ph.D., Fall 2018-Fall 2023 </span>
 * <span style="font-size: 14px;"> Econometrics of Finance, M.A., Fall 2019-Winter 2022 </span>
