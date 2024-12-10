@@ -18,7 +18,7 @@ I am primarily interested in the field of Macroeconomics, with a specific focus 
 
 ### Research Interests
 <hr style="border-top: 2px solid #000;">
-* <span style="font-size: 14px;">Macroeconomics </span>
+* <span style="font-size: 14px;"> Macroeconomics </span>
 * Development Economics
 * Economic Growth
 * International Economics
