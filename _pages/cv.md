@@ -18,7 +18,7 @@ To access my full Curriculum Vitae, please click <a href="http://avoumatsodo.git
  <hr style="border-top: 2px solid #8c8b8b; width:100%;"> 
  
 ###  <span style="color:blue;"> Education </span>
- ▶ **Ph.D. in Economics**, <a href="[http://avoumatsodo.github.io/files/CV_Komla.pdf](https://economie.esg.uqam.ca/en/faculty/professors/)" target="_blank">Université du Québec à Montréal</a>, 2024
+ ▶ **Ph.D. in Economics**, <a href="https://economie.esg.uqam.ca/en/faculty/professors/" target="_blank">Université du Québec à Montréal</a>, 2024
  
  ▶ **M.A.  in Statistics and Economics**, Ecole Nationale Supérieure de Statitstiques et d'Economie Appliquée (ENSEA), 2016
  
