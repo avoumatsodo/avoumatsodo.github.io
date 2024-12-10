@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 ## Teaching Experience
-<!-- <hr style="border-top: 5px solid #8c8b8b; width:100%;"> -->
-
 ### ▶ <span style="color:blue;"> Current Teaching </span>
 * <span style="font-size: 14px;"> Advanced Macroeconomics, M.Sc. </span>
 * <span style="font-size: 14px;"> International Finance and Sustainability, M.Sc. </span>
