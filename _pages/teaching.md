@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 ## Teaching Experience
 ### <span style="color:blue;"> ▶ Current Teaching </span>
-<ul style="list-style-type: none; padding-left: 20px;">
+<ul style="padding-left: 20px; list-style-type: disc;">
   <li style="margin-bottom: 7px; font-size: 14px;"> 
     Advanced Macroeconomics, M.Sc.
   </li>
@@ -23,21 +23,21 @@ author_profile: true
 ### <span style="color:blue;"> ▶ Previous Teaching</span>
 
 ##### <i> 1. National School of Public Administration, Quebec-City, Canada </i>
-<ul style="list-style-type: none; padding-left: 20px;">
+<ul style="padding-left: 20px; list-style-type: disc;">
   <li style="margin-bottom: 7px; font-size: 14px;"> 
     International Finance, MPA, Winter 2024 
   </li>
 </ul>
 
 ##### <i> 2. University of Quebec at Montreal, Montreal, Canada </i>
-<ul style="list-style-type: none; padding-left: 20px;">
+<ul style="padding-left: 20px; list-style-type: disc;">
   <li style="margin-bottom: 7px; font-size: 14px;"> 
     Intermediate Macroeconomics, B.A., Winter 2019-Winter 2023 
   </li>
 </ul>
 
 ##### <i> 3. Teaching Assistant, University of Quebec at Montreal, Montreal-Canada </i>
-<ul style="list-style-type: none; padding-left: 20px;">
+<ul style="padding-left: 20px; list-style-type: disc;">
   <li style="margin-bottom: 7px; font-size: 14px;"> 
     Advanced Microeconomics II, Ph.D., Winter 2018-Winter 2024
   </li>
