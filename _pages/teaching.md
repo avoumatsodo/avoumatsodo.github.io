@@ -24,10 +24,10 @@ author_profile: true
 
 
 ##### 3. Teaching Assistant, University of Quebec at Montreal, Montreal-Canada
-* <span style="font-size: 14px;"> Advanced Microeconomics II, Ph.D. </span> 
-* <span style="font-size: 14px;"> Quantitative Macroeconomic Methods, Ph.D. </span>
-* <span style="font-size: 14px;"> Econometrics of Finance, M.A. </span>
-* <span style="font-size: 14px;"> Microeconomics I, B.A. </span>
+* <span style="font-size: 14px;"> Advanced Microeconomics II, Ph.D., Winter 2018-Winter 2024 </span> 
+* <span style="font-size: 14px;"> Quantitative Macroeconomic Methods, Ph.D., Fall 2018-Fall 2023 </span>
+* <span style="font-size: 14px;"> Econometrics of Finance, M.A., Fall 2019-Winter 2022 </span>
+* <span style="font-size: 14px;"> Microeconomics I, B.A., Summer 2020-Summer 2022 </span>
 
 <!-- <hr style="border-top: 2px solid #8c8b8b; width:100%;"> -->
 
