@@ -19,11 +19,17 @@ redirect_from:
  
 ### <span style="color:blue;"> ▶ Education </span>
 
-* <span style="font-size: 14px;"> **Ph.D. in Economics**, <a href="https://economie.esg.uqam.ca/en/faculty/professors/" target="_blank"> <i>UQAM</i> </a>, 2024 </span><br>
-
-* <span style="font-size: 14px;"> **M.A. in Statistics and Economics**, <a href="https://ensea.ed.ci/history/?lang=en" target="_blank"> <i>ENSEA</i></a>, 2016 </span><br>
-
-* <span style="font-size: 14px;"> **B.Sc. in Mathematics and Physics**, <a href="https://univ-lome.tg/" target="_blank"> <i>Université de Lomé</i></a>, 2012 </span>
+<ul style="padding: 0; margin: 0;">
+  <li style="margin-bottom: 0; font-size: 14px;"> 
+    **Ph.D. in Economics**, <a href="https://economie.esg.uqam.ca/en/faculty/professors/" target="_blank"> <i>UQAM</i> </a>, 2024 
+  </li>
+  <li style="margin-bottom: 0; font-size: 14px;"> 
+    **M.A. in Statistics and Economics**, <a href="https://ensea.ed.ci/history/?lang=en" target="_blank"> <i>ENSEA</i></a>, 2016 
+  </li>
+  <li style="margin-bottom: 0; font-size: 14px;"> 
+    **B.Sc. in Mathematics and Physics**, <a href="https://univ-lome.tg/" target="_blank"> <i>Université de Lomé</i></a>, 2012 
+  </li>
+</ul>
 
 
 ###  <span style="color:blue;"> ▶ Non-Teaching Work Experience </span>
