@@ -18,12 +18,13 @@ To access my full Curriculum Vitae, please click <a href="http://avoumatsodo.git
  <hr style="border-top: 2px solid #8c8b8b; width:100%;"> 
  
 ###  <span style="color:blue;"> Education </span>
+<span style="font-size: 14px;">
  ▶ **Ph.D. in Economics**, <a href="https://economie.esg.uqam.ca/en/faculty/professors/" target="_blank"> <i>Université du Québec à Montréal</i> </a>, 2024
  
  ▶ **M.A.  in Statistics and Economics**, <a href="https://ensea.ed.ci/history/?lang=en" target="_blank"> <i>Ecole Nationale Supérieure de Statitstiques et d'Economie Appliquée (ENSEA)</i></a>, 2016
  
  ▶ **B.Sc. in Mathematics and Physics**, <a href="https://univ-lome.tg/" target="_blank"> <i>Université de Lomé</i></a>, 2012
-
+</span>
 <!-- <hr style="border-top: 2px solid #8c8b8b; width:100%;"> -->
 ###  <span style="color:blue;"> Non-Teaching Work Experience </span>
 ▶ **Research Fellow**, <a href="https://iucn.org/" target="_blank"> <i>International Union for Conservation of Nature (IUCN)</i></a>, Washington DC (Remote), May 2023- February 2024
