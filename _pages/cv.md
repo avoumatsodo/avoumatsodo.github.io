@@ -16,17 +16,15 @@ redirect_from:
 <span style="font-size: 14px;"> To access my full Curriculum Vitae, please click <a href="http://avoumatsodo.github.io/files/CV_Komla.pdf" target="_blank">here</a>
 </span>
 
- <hr style="border-top: 2px solid #8c8b8b; width:100%;"> 
  
-###  <span style="color:blue;"> ▶ Education </span>
-  
- *  <span style="font-size: 14px;" >  **Ph.D. in Economics**, <a href="https://economie.esg.uqam.ca/en/faculty/professors/" target="_blank"> <i>UQAM</i> </a>, 2024 </span>
+### <span style="color:blue;"> ▶ Education </span>
 
- * <span style="font-size: 14px;"> **M.A.  in Statistics and Economics**, <a href="https://ensea.ed.ci/history/?lang=en" target="_blank"> <i>ENSEA</i></a>, 2016 </span>
+* <span style="font-size: 14px;"> **Ph.D. in Economics**, <a href="https://economie.esg.uqam.ca/en/faculty/professors/" target="_blank"> <i>UQAM</i> </a>, 2024 </span><br>
 
- * <span style="font-size: 14px;"> **B.Sc. in Mathematics and Physics**, <a href="https://univ-lome.tg/" target="_blank"> <i>Université de Lomé</i></a>, 2012
-</span>
-<!-- <hr style="border-top: 2px solid #8c8b8b; width:100%;"> -->
+* <span style="font-size: 14px;"> **M.A. in Statistics and Economics**, <a href="https://ensea.ed.ci/history/?lang=en" target="_blank"> <i>ENSEA</i></a>, 2016 </span><br>
+
+* <span style="font-size: 14px;"> **B.Sc. in Mathematics and Physics**, <a href="https://univ-lome.tg/" target="_blank"> <i>Université de Lomé</i></a>, 2012 </span>
+
 
 ###  <span style="color:blue;"> ▶ Non-Teaching Work Experience </span>
 * <span style="font-size: 14px;"> **Research Fellow**, <a href="https://iucn.org/" target="_blank"> <i>IUCN</i></a>, Washington DC (Remote), May 2023- February 2024 </span>
