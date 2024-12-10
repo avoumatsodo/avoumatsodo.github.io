@@ -15,7 +15,7 @@ author_profile: true
 * <span style="font-size: 14px;">  Money, Credit, and Financial Institutions, B.A. </span>
 
 
-### <i style="color:blue;">Working Papers</i>▶ Previous Teaching
+### ▶ <span style="color:blue;">Previous Teaching</span>
 ##### <i> 1. National School of Public Administration, Quebec-City, Canada </i>
 * <span style="font-size: 14px;"> International Finance, MPA,  Winter 2024 </span>
 
