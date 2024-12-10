@@ -10,17 +10,17 @@ author_profile: true
 <!-- <hr style="border-top: 5px solid #8c8b8b; width:100%;"> -->
 
 ### ▶ Current Teaching
-* <span style="font-size: 14px;"> Advanced Macroeconomics </span>
-* <span style="font-size: 14px;"> International Finance and Sustainability </span>
-* <span style="font-size: 14px;"> Credit, Money, and Banking </span>
+* <span style="font-size: 14px;"> Advanced Macroeconomics, M.Sc. </span>
+* <span style="font-size: 14px;"> International Finance and Sustainability, M.Sc. </span>
+* <span style="font-size: 14px;">  Money, Credit, and Financial Institutions, B.A. </span>
 
 
 ### ▶ Previous Teaching
 ##### 1. National School of Public Administration, Quebec-City, Canada
-* <span style="font-size: 14px;"> International Finance, Winter 2024 </span>
+* <span style="font-size: 14px;"> International Finance, MPA,  Winter 2024 </span>
 
 ##### 2. University of Quebec at Montreal, Montreal, Canada
-* <span style="font-size: 14px;"> Intermadiate Macroeconomics, Winter 2019-Winter 2023 </span>
+* <span style="font-size: 14px;"> Intermadiate Macroeconomics, B.A., Winter 2019-Winter 2023 </span>
 
 
 ##### 3. Teaching Assistant, University of Quebec at Montreal, Montreal-Canada
