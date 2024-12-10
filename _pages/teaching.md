@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 ## Teaching Experience
-<hr style="border-top: 5px solid #8c8b8b; width:100%;">
+<!-- <hr style="border-top: 5px solid #8c8b8b; width:100%;"> -->
 
 ### ▶ Current Teaching
 * <span style="font-size: 14px;"> Advanced Macroeconomics </span>
