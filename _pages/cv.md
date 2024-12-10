@@ -16,6 +16,7 @@ redirect_from:
 To access my full Curriculum Vitae, please click <a href="http://avoumatsodo.github.io/files/CV_Komla.pdf" target="_blank">here</a>
 
  <hr style="border-top: 2px solid #8c8b8b; width:100%;"> 
+ 
 ### Education
 * Ph.D. in Economics, Université du Québec à Montréal, 2024
 * M.A.  in Statistics and Economics, Ecole Nationale Supérieure de Statitstiques et d'Economie Appliquée (ENSEA), 2016
