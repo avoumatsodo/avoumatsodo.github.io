@@ -18,11 +18,21 @@ I am primarily interested in the field of Macroeconomics, with a specific focus 
 
 ### Research Interests
 <hr style="border-top: 2px solid #000;">
-* <span style="font-size: 14px;"> Macroeconomics </span>
-* <span style="font-size: 14px;"> Economic Growth </span>
-* <span style="font-size: 14px;"> International Economics </span>
-* <span style="font-size: 14px;"> Environmental Economics </span>
-  
+<ul style="padding: 0; margin: 0;">
+  <li style="margin-bottom: 7px; font-size: 14px;"> 
+    Macroeconomics
+  </li>
+  <li style="margin-bottom: 7px; font-size: 14px;"> 
+    Economic Growth
+  </li>
+  <li style="margin-bottom: 7px; font-size: 14px;"> 
+    International Economics
+  </li>
+  <li style="margin-bottom: 7px; font-size: 14px;"> 
+    Environmental Economics
+  </li>
+</ul>
+
 
 <!-- <a href="http://avoumatsodo.github.io/files/research_statement.pdf" target="_blank">Research Statement</a> -->
 
