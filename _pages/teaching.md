@@ -16,7 +16,7 @@ author_profile: true
 
 
 ### <i style="color:blue;">Working Papers</i>▶ Previous Teaching
-##### <i 1. National School of Public Administration, Quebec-City,  </i>
+##### <i> 1. National School of Public Administration, Quebec-City, Canada </i>
 * <span style="font-size: 14px;"> International Finance, MPA,  Winter 2024 </span>
 
 ##### <i style="color:blue;">Working Papers</i>2. University of Quebec at Montreal, Montreal, Canada
