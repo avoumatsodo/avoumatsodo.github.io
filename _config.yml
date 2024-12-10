@@ -300,3 +300,7 @@ compress_html:
   ignore:
     envs: development
 googleanalytics: G-P2DQGB7FS1
+
+# Numérotation
+plugins:
+  - jekyll-toc
