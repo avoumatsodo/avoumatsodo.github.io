@@ -10,7 +10,7 @@ author_profile: true
 ### <i style="color:blue;">Working Papers</i>
 <!-- <hr style="border-top: 5px solid #000;"> -->
 
-#### 1. Financial Development, Technology Adoption, and Sectoral Productivity Convergence, <u> <a href="https://avoumatsodo.github.io/files/Financial_Development_Technology_Adoption_Sectoral_Productivity_Convergence.pdf" target="_blank"> PDF </a>  </u>
+#### 1. Financial Development, Technology Adoption, and Sectoral Productivity Convergence, <a href="https://avoumatsodo.github.io/files/Financial_Development_Technology_Adoption_Sectoral_Productivity_Convergence.pdf" target="_blank"> PDF </a>
 <!-- <details>
  <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
 <p align="justify">   This paper documents  differences in productivity convergence patterns across key economic sectors and introduces an endogenous growth model to explain them. The model predicts that sectors with higher technological frontier growth, like agriculture, will converge more slowly than those with lower frontier growth, such as services. It also shows that aggregate divergence may transition to convergence as sectors catch up. As GDP per capita rises, even amid divergence, financial constraints ease, enabling lagging sectors to adopt more intensively technologies and accelerate productivity growth, reinforcing aggregate wealth and creating a positive feedback loop. </p>
@@ -37,10 +37,10 @@ Traditional theories of structural transformation fail to account for the dispar
 ### <i style="color:blue;">Work in Progress</i>
 <!-- <hr style="border-top: 5px solid #000;"> <!---->
 
-* Time-Varying Sectoral Input Output Linkages and Structural Change,  joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a>
+** Time-Varying Sectoral Input Output Linkages and Structural Change,  joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a>
 
-* Technology Adoption, Structural Change, and Biodiversity, joint with <a href="https://scholar.google.com/citations?user=5MvX8VQAAAAJ&hl=en" target="_blank">Juha Siikamäki</a> and <a href="https://sites.google.com/view/matias-piaggio/home" target="_blank">Matías Piaggio</a>
+** Technology Adoption, Structural Change, and Biodiversity, joint with <a href="https://scholar.google.com/citations?user=5MvX8VQAAAAJ&hl=en" target="_blank">Juha Siikamäki</a> and <a href="https://sites.google.com/view/matias-piaggio/home" target="_blank">Matías Piaggio</a>
 
-* Organic Farming versus Conventional Farming: Adoption, Transition, and Profitability, joint with <a href="https://www.moustaphathiam.com/home" target="_blank">Moustapha Thiam</a>
+** Organic Farming versus Conventional Farming: Adoption, Transition, and Profitability, joint with <a href="https://www.moustaphathiam.com/home" target="_blank">Moustapha Thiam</a>
   
  
