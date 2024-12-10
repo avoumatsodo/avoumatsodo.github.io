@@ -38,9 +38,7 @@ Traditional theories of structural transformation fail to account for the dispar
 <!-- <hr style="border-top: 5px solid #000;"> <!---->
 
 * <span style="font-size: 14px;"> Time-Varying Sectoral Input Output Linkages and Structural Change,  joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> </span>
-
 * <span style="font-size: 14px;"> Technology Adoption, Structural Change, and Biodiversity, joint with <a href="https://scholar.google.com/citations?user=5MvX8VQAAAAJ&hl=en" target="_blank">Juha Siikamäki</a> and <a href="https://sites.google.com/view/matias-piaggio/home" target="_blank">Matías Piaggio</a> </span>
-
 * <span style="font-size: 14px;"> Organic Farming versus Conventional Farming: Adoption, Transition, and Profitability, joint with <a href="https://www.moustaphathiam.com/home" target="_blank">Moustapha Thiam </a> 
   
  
