@@ -17,7 +17,7 @@ To access my full Curriculum Vitae, please click <a href="http://avoumatsodo.git
 
  <hr style="border-top: 2px solid #8c8b8b; width:100%;"> 
  
-### Education
+### ▶ <span style="color:blue;"> Education </span>
 * Ph.D. in Economics, Université du Québec à Montréal, 2024
 * M.A.  in Statistics and Economics, Ecole Nationale Supérieure de Statitstiques et d'Economie Appliquée (ENSEA), 2016
 * B.Sc. in Mathematics and Physics, Université de Lomé, 2012
