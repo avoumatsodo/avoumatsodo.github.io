@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 ## Teaching Experience
-### ▶ <span style="color:blue;"> Current Teaching </span>
+### <span style="color:blue;"> ▶ Current Teaching </span>
 <ul style="list-style-type: none; padding-left: 20px;">
   <li style="margin-bottom: 7px; font-size: 14px;"> 
     Advanced Macroeconomics, M.Sc.
@@ -20,7 +20,7 @@ author_profile: true
   </li>
 </ul>
 
-### ▶ <span style="color:blue;">Previous Teaching</span>
+### <span style="color:blue;"> ▶ Previous Teaching</span>
 
 ##### <i> 1. National School of Public Administration, Quebec-City, Canada </i>
 <ul style="list-style-type: none; padding-left: 20px;">
