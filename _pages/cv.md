@@ -19,7 +19,7 @@ redirect_from:
  
 ### <span style="color:blue;"> ▶ Education </span>
 
-<ul style="padding: 0; margin: 0;">
+<ul style="list-style-type: none; padding-left: 20px;">
   <li style="margin-bottom: 7px; font-size: 14px;"> 
     <strong>Ph.D. in Economics</strong>, <a href="https://economie.esg.uqam.ca/en/faculty/professors/" target="_blank"> <i>UQAM</i> </a>, 2024 
   </li>
@@ -38,7 +38,7 @@ redirect_from:
 
 ### <span style="color:blue;"> ▶ Non-Teaching Work Experience </span>
 
-<ul style="padding: 0; margin: 0;">
+<ul style="list-style-type: none; padding-left: 20px;">
   <li style="margin-bottom: 7px; font-size: 14px;"> 
     <strong>Research Fellow</strong>, <a href="https://iucn.org/" target="_blank"> <i>IUCN</i></a>, Washington DC (Remote), May 2023- February 2024 
   </li>
