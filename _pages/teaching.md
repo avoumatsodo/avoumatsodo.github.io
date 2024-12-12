@@ -16,7 +16,7 @@ author_profile: true
     International Finance and Sustainability, M.Sc.
   </li>
   <li style="margin-bottom: 7px; font-size: 14px;"> 
-    Money, Credit, and Financial Institutions, B.A.
+    Money, Banking, and Financial Institutions, B.A.
   </li>
 </ul>
 
