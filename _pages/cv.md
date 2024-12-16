@@ -21,7 +21,7 @@ redirect_from:
 
 <ul style="padding-left: 20px;">
   <li style="margin-bottom: 7px; font-size: 14px;"> 
-    <strong>Ph.D. in Economics</strong>, <a href="https://economie.esg.uqam.ca/en/faculty/professors/" target="_blank"> <i>UQAM</i> </a>, 2024 
+    <strong>Ph.D. in Economics</strong>, <a href="https://economie.esg.uqam.ca/en/faculty/professors/" target="_blank"> <i>Université du Québec à Montréal</i> </a>, 2024 
   </li>
 
   <li style="margin-bottom: 7px; font-size: 14px;"> 
