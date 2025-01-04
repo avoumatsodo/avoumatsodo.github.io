@@ -18,11 +18,13 @@ author_profile: true
   <li style="margin-bottom: 7px; font-size: 14px;"> 
     ECON 317- Money, Banking, and Financial Institutions.
   </li>
-  <li style="margin-bottom: 7px; font-size: 14px;"> 
-  <i> Information and course material are available on this [webpage](/econ-317-details/) </i>
+  <li style="margin-bottom: 7px; font-size: 12px;"> 
+<i>Information and course material are available on this 
+<a href="https://avoumatsodo.github.io/pages/econ-317-details/" target="_blank">webpage</a>.</i>
   </li>
 
 </ul>
+
 
 ### <span style="color:blue;"> ▶ Previous Teaching</span>
 
