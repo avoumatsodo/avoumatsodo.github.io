@@ -9,7 +9,7 @@ author_profile: true
 ## Teaching Experience
 ### <span style="color:blue;"> ▶ Current Teaching </span>
 <ul style="padding-left: 20px; list-style-type: disc;">
-  <li style="margin-bottom: 7px; font-size: 14px;"> 
+  <li style="margin-bottom: 10px; font-size: 14px;"> 
     ECON 710- Advanced Macroeconomics.
   </li>
   <li style="margin-bottom: 7px; font-size: 14px;"> 
@@ -18,7 +18,10 @@ author_profile: true
   <li style="margin-bottom: 7px; font-size: 14px;"> 
     ECON 317- Money, Banking, and Financial Institutions.
   </li>
+  <li style="margin-bottom: 7px; font-size: 14px;"> 
   <i> Information and course material are available on this [webpage](/econ-317-details/) </i>
+  </li>
+
 </ul>
 
 ### <span style="color:blue;"> ▶ Previous Teaching</span>
