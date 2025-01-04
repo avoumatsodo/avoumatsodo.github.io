@@ -18,6 +18,7 @@ author_profile: true
   <li style="margin-bottom: 7px; font-size: 14px;"> 
     ECON 317- Money, Banking, and Financial Institutions.
   </li>
+  Information and course material are available on this [webpage](/econ-317-details/)
 </ul>
 
 ### <span style="color:blue;"> ▶ Previous Teaching</span>
