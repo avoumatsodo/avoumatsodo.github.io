@@ -10,13 +10,13 @@ author_profile: true
 ### <span style="color:blue;"> ▶ Current Teaching </span>
 <ul style="padding-left: 20px; list-style-type: disc;">
   <li style="margin-bottom: 7px; font-size: 14px;"> 
-    Advanced Macroeconomics, M.Sc.
+    ECON 710- Advanced Macroeconomics.
   </li>
   <li style="margin-bottom: 7px; font-size: 14px;"> 
-    International Finance and Sustainability, M.Sc.
+    ECON 698- International Finance and Sustainability.
   </li>
   <li style="margin-bottom: 7px; font-size: 14px;"> 
-    Money, Banking, and Financial Institutions, B.A.
+    ECON 317- Money, Banking, and Financial Institutions.
   </li>
 </ul>
 
