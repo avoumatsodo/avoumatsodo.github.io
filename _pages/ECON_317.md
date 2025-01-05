@@ -11,20 +11,18 @@ permalink: /pages/econ-317-details/
 
 ##### <i> Chapter 1. Introduction </i>
 <ul style="padding-left: 20px; list-style-type: disc;">
-  <li style="margin-bottom: 7px; font-size: 14px;"> <a href="https://avoumatsodo.github.io/files/Syllabus_econ317.pdf" target="_blank"> Slides </a>
+  <li style="margin-bottom: 7px; font-size: 14px;"> <a href="https://avoumatsodo.github.io/files/Slides1_econ317.pdf" target="_blank"> Slides </a>
   </li>
 </ul>
 
 ##### <i> Chapter 2. Money and Payment Systems </i>
 <ul style="padding-left: 20px; list-style-type: disc;">
-  <li style="margin-bottom: 7px; font-size: 14px;"> 
-    Intermediate Macroeconomics, B.A., Winter 2019-Winter 2023 
+  <li style="margin-bottom: 7px; font-size: 14px;"> <a href="https://avoumatsodo.github.io/files/Slides2_econ317.pdf" target="_blank"> Slides </a>
   </li>
 </ul>
 
 ##### <i> Chapter 3. Money Supply Process </i>
 <ul style="padding-left: 20px; list-style-type: disc;">
-  <li style="margin-bottom: 7px; font-size: 14px;"> 
-    Advanced Microeconomics II, Ph.D., Winter 2018-Winter 2024
+  <li style="margin-bottom: 7px; font-size: 14px;"> <a href="https://avoumatsodo.github.io/files/Slides3_econ317.pdf" target="_blank"> Slides </a>
   </li>
 </ul>
