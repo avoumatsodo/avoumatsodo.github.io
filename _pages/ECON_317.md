@@ -11,8 +11,7 @@ permalink: /pages/econ-317-details/
 
 ##### <i> Chapter 1. Introduction </i>
 <ul style="padding-left: 20px; list-style-type: disc;">
-  <li style="margin-bottom: 7px; font-size: 14px;"> 
-    International Finance, MPA, Winter 2024 
+  <li style="margin-bottom: 7px; font-size: 14px;"> <a href="https://avoumatsodo.github.io/files/Syllabus_econ317.pdf" target="_blank"> Slides </a>
   </li>
 </ul>
 
