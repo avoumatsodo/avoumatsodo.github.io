@@ -15,7 +15,7 @@ author_profile: true
   <li style="margin-bottom: 20px; font-size: 14px;"> 
     ECON 698- International Finance and Sustainability.
   </li>
-  <li style="margin-bottom: 7px; font-size: 14px;"> 
+  <li style="margin-bottom: 2px; font-size: 14px;"> 
     ECON 317- Money, Banking, and Financial Institutions.
   </li>
   <i style="margin-bottom: 7px; font-size: 13px;"> 
