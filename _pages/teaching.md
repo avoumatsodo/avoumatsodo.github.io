@@ -17,6 +17,7 @@ author_profile: true
 Information and course material are available on this 
 <a href="https://avoumatsodo.github.io/pages/econ-710-details/" target="_blank">webpage</a>. 
   </li>
+  </ul>
   
   <li style="margin-bottom: 20px; font-size: 14px;"> 
     ECON 698- International Finance and Sustainability.
