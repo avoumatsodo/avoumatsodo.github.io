@@ -10,7 +10,7 @@ author_profile: true
 ### <span style="color:blue;"> ▶ Current Teaching </span>
 <ul style="padding-left: 20px; list-style-type: disc;">
   <li style="margin-bottom: 1px; font-size: 14px;"> 
-    _ECON 710- Advanced Macroeconomics._ 
+    <strong> ECON 710- Advanced Macroeconomics.</strong> 
   </li>
   <ul style="padding-left: 40px; list-style-type: disc;">
     <li style="margin-bottom: 20px; font-size: 13px;"> 
