@@ -45,7 +45,7 @@ permalink: /pages/econ-317-details/
   </li>
 </ul>
 
-##### <i> Chapter 7. AD-AS and Policies Transmissions </i>
+##### <i> Chapter 7. AD-AS, Fiscal and Monetary Policies Transmissions </i>
 <ul style="padding-left: 20px; list-style-type: disc;">
   <li style="margin-bottom: 7px; font-size: 14px;"> <a href="https://avoumatsodo.github.io/files/Slides7_econ317.pdf" target="_blank"> Slides 7 </a>
   </li>
