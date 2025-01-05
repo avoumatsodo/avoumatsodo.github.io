@@ -10,7 +10,11 @@ author_profile: true
 ### <span style="color:blue;"> ▶ Current Teaching </span>
 <ul style="padding-left: 20px; list-style-type: disc;">
   <li style="margin-bottom: 20px; font-size: 14px;"> 
-    ECON 710- Advanced Macroeconomics.
+    ECON 710- Advanced Macroeconomics. 
+  <i style="margin-bottom: 7px; font-size: 13px;"> 
+Information and course material are available on this 
+<a href="https://avoumatsodo.github.io/pages/econ-710-details/" target="_blank">webpage</a>. 
+  </i>
   </li>
   <li style="margin-bottom: 20px; font-size: 14px;"> 
     ECON 698- International Finance and Sustainability.
