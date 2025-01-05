@@ -7,6 +7,5 @@ permalink: /pages/econ-317-details/
 <ul style="padding-left: 20px; list-style-type: disc;">
   <li style="margin-bottom: 20px; font-size: 14px;"> 
 <a href="https://avoumatsodo.github.io/files/Syllabus_econ317.pdf" target="_blank"> Syllabus </a> (Winter 2025)  </li>
-  <li style="margin-bottom: 20px; font-size: 14px;"> 
 </ul>
 
