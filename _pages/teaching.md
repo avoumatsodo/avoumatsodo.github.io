@@ -14,7 +14,7 @@ author_profile: true
   </li>
   <ul style="padding-left: 40px; list-style-type: disc;">
     <li style="margin-bottom: 20px; font-size: 13px;"> 
-<i Information and course material are available on this 
+<i> Information and course material are available on this 
 <a href="https://avoumatsodo.github.io/pages/econ-710-details/" target="_blank">webpage</a>.  </i>
  
   </li>
