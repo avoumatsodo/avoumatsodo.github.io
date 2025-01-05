@@ -9,13 +9,14 @@ author_profile: true
 ## Teaching Experience
 ### <span style="color:blue;"> ▶ Current Teaching </span>
 <ul style="padding-left: 20px; list-style-type: disc;">
-  <li style="margin-bottom: 2px; font-size: 14px;"> 
+  <li style="margin-bottom: 1px; font-size: 14px;"> 
     ECON 710- Advanced Macroeconomics. 
   </li>
   <ul style="padding-left: 40px; list-style-type: disc;">
     <li style="margin-bottom: 20px; font-size: 13px;"> 
-Information and course material are available on this 
-<a href="https://avoumatsodo.github.io/pages/econ-710-details/" target="_blank">webpage</a>. 
+<i Information and course material are available on this 
+<a href="https://avoumatsodo.github.io/pages/econ-710-details/" target="_blank">webpage</a>.  </i>
+ 
   </li>
   </ul>
   
