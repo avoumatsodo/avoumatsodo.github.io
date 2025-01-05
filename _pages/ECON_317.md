@@ -1,6 +1,6 @@
 ---
 title: "ECON-317 Money, Banking, and Financial Institutions"
-permalink: /econ-317-details/
+permalink: /pages/econ-317-details/
 ---
 
 # Research
