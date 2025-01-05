@@ -12,16 +12,16 @@ author_profile: true
   <li style="margin-bottom: 20px; font-size: 14px;"> 
     ECON 710- Advanced Macroeconomics.
   </li>
-  <li style="margin-bottom: 7px; font-size: 14px;"> 
+  <li style="margin-bottom: 20px; font-size: 14px;"> 
     ECON 698- International Finance and Sustainability.
   </li>
-  <li style="margin-bottom: 7px; font-size: 14px;"> 
+  <li style="margin-bottom: 20px; font-size: 14px;"> 
     ECON 317- Money, Banking, and Financial Institutions.
   </li>
-  <li style="margin-bottom: 7px; font-size: 12px;"> 
-<i>Information and course material are available on this 
-<a href="https://avoumatsodo.github.io/pages/econ-317-details/" target="_blank">webpage</a>.</i>
-  </li>
+  <i style="margin-bottom: 7px; font-size: 12px;"> 
+Information and course material are available on this 
+<a href="https://avoumatsodo.github.io/pages/econ-317-details/" target="_blank">webpage</a>. 
+  </i>
 
 </ul>
 
