@@ -27,7 +27,7 @@ permalink: /pages/econ-710-details/
   </li>
 </ul>
 
-#### <i> Chapter 4. Competitive and Recursive Equilibrium </i>
+#### <i> Chapter 4.   Recursive and Competitive Equilibria in Dynamic Models </i>
 <ul style="padding-left: 20px; list-style-type: disc;">
   <li style="margin-bottom: 7px; font-size: 13px;"> <a href="https://avoumatsodo.github.io/files/Slides4_econ710.pdf" target="_blank"> Slides 4 </a>, <a href="https://avoumatsodo.github.io/files/neoclassic.pdf" target="_blank"> Lecture Notes </a>
   </li>
