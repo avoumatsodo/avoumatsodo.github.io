@@ -55,7 +55,7 @@ author_profile: true
 ##### <i> 3. Teaching Assistant, University of Quebec at Montreal, Montreal-Canada </i>
 <ul style="padding-left: 20px; list-style-type: disc;">
   <li style="margin-bottom: 7px; font-size: 14px;"> 
-    Advanced Microeconomics II, Ph.D., Winter 2018-Winter 2024
+    Advanced Microeconomics II, Ph.D., Winter 2019-Winter 2024
   </li>
   <li style="margin-bottom: 7px; font-size: 14px;"> 
     Quantitative Macroeconomic Methods, Ph.D., Fall 2018-Fall 2023
