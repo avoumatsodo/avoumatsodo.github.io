@@ -25,7 +25,7 @@ redirect_from:
   </li>
 
   <li style="margin-bottom: 7px; font-size: 14px;"> 
-    <strong>M.A. in Statistics and Economics</strong>, <a href="https://ensea.ed.ci/history/?lang=en" target="_blank"> <i>ENSEA</i></a>, 2016 
+    <strong>M.Sc. in Statistics and Economics</strong>, <a href="https://ensea.ed.ci/history/?lang=en" target="_blank"> <i>ENSEA</i></a>, 2016 
   </li>
 
   <li style="margin-bottom: 7px; font-size: 14px;"> 
