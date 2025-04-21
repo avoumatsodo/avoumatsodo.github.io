@@ -32,7 +32,7 @@ Traditional theories of structural transformation fail to account for the dispar
 <hr style="border-top: 2px solid #8c8b8b; width:100%;">
 </details> -->
 
-#### 4. Time-Varying Intermediate Input Use and Structural Change,  <a href="https://avoumatsodo.github.io/files/Time_varying_structural%20change.pdf" target="_blank">PDF</a>, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> 
+#### 4. Time-Varying Sectoral Linkages and Structural Change,  <a href="https://avoumatsodo.github.io/files/Time_varying_structural%20change.pdf" target="_blank">PDF</a>, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> 
 
 
 
