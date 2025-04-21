@@ -36,9 +36,13 @@ redirect_from:
 
 
 
-### <span style="color:blue;"> ▶ Non-Teaching Work Experience </span>
+### <span style="color:blue;"> ▶ Work Experience </span>
 
 <ul style="padding-left: 20px;">
+  <li style="margin-bottom: 7px; font-size: 14px;"> 
+    <strong>Assistant Professor</strong>, <a href="https://www.unbc.ca/" target="_blank"> <i>University of Northern British Columbia</i></a>, Prince George, July 2024- present 
+  </li>
+  
   <li style="margin-bottom: 7px; font-size: 14px;"> 
     <strong>Research Fellow</strong>, <a href="https://iucn.org/" target="_blank"> <i>IUCN</i></a>, Washington D.C., May 2023- February 2024 
   </li>
