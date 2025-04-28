@@ -22,6 +22,11 @@ author_profile: true
   <li style="margin-bottom: 20px; font-size: 14px;"> 
     <strong> ECON 698- International Finance and Sustainability.</strong>
   </li>
+
+   <li style="margin-bottom: 20px; font-size: 14px;"> 
+    <strong> ECON 608- Managerial Economics.</strong>
+  </li>
+  
   <li style="margin-bottom: 2px; font-size: 14px;"> 
     <strong>ECON 317- Money, Banking, and Financial Institutions.</strong>
   </li>
