@@ -20,15 +20,15 @@ author_profile: true
   </ul>
 
   <li style="margin-bottom: 20px; font-size: 14px;"> 
-    <strong> ECON 698- International Finance and Sustainability.</strong>
+    <strong> ECON 698- International Finance and Sustainability.</strong>, Fall 2024
   </li>
 
    <li style="margin-bottom: 20px; font-size: 14px;"> 
-    <strong> ECON 608- Managerial Economics.</strong>
+    <strong> ECON 608- Managerial Economics.</strong>, Spring 2025
   </li>
   
   <li style="margin-bottom: 2px; font-size: 14px;"> 
-    <strong>ECON 317- Money, Banking, and Financial Institutions.</strong>
+    <strong>ECON 317- Money, Banking, and Financial Institutions.</strong>, Winter 2025
   </li>
   
   <ul style="padding-left: 40px; list-style-type: disc;">
