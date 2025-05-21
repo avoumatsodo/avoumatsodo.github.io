@@ -17,7 +17,7 @@ author_profile: true
 <hr style="border-top: 2px solid #8c8b8b; width:100%;">
 </details> -->
 
-#### 2. Time-Varying Sectoral Linkages and Structural Change,  <a href="https://avoumatsodo.github.io/files/Time_varying_structural%20change.pdf" target="_blank">PDF</a>, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> 
+#### 2. Time-Varying Sectoral Linkages and Structural Change,  <a href="https://avoumatsodo.github.io/files/Time_Varying_Sectoral_Linkages_and_Structural_Change.pdf" target="_blank">PDF</a>, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> 
 
 
 #### 3. Financial Development, Technology Adoption, and Structural Transformation in Developing Countries,  <a href="https://avoumatsodo.github.io/files/Financial_development_and_structural_change.pdf" target="_blank">PDF</a>, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> 
