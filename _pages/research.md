@@ -20,14 +20,17 @@ author_profile: true
 #### 2. Time-Varying Sectoral Linkages and Structural Change,  <a href="https://avoumatsodo.github.io/files/Time_Varying_Sectoral_Linkages_and_Structural_Change.pdf" target="_blank">PDF</a>, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> 
 
 
-#### 3. Financial Development, Technology Adoption, and Structural Transformation in Developing Countries,  <a href="https://avoumatsodo.github.io/files/Financial_development_and_structural_change.pdf" target="_blank">PDF</a>, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> 
+#### 3.  Heterogeneous Evolution of Sectoral Input Intensities,  <a href="https://avoumatsodo.github.io/files/heteregeneous_evolution_of_input_use.pdf" target="_blank">PDF</a>, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> 
+
+
+#### 4. Financial Development, Technology Adoption, and Structural Transformation in Developing Countries,  <a href="https://avoumatsodo.github.io/files/Financial_development_and_structural_change.pdf" target="_blank">PDF</a>, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> 
 <!-- <details>
  <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
 <p align="justify">   Rodrik (2016) pointed out that late industrializing countries are experiencing a lower peak at lower income levels in the manufacturing employment share hump-shaped path. The present study develops a theoretical model to analyze the dynamics of industrialization and deindustrialization in developing countries and their integration with earlier industrialized economies. The findings suggest that financial development plays a crucial role in both accelerating industrialization and facilitating deindustrialization. Moreover, the model reveals that when developing countries integrate with economies in deindustrialization phase, the technological frontier in the manufacturing sector becomes relatively further ahead compared to the services sector. This discrepancy in technological proximity between sectors influences the differential productivity growth rates in manufacturing and services, driving an early shift towards the services sector. The model is calibrated to South African data from 1960 to 2010 and provides empirical support for these findings. </p>
 <hr style="border-top: 2px solid #8c8b8b; width:100%;">
 </details> -->
 
-#### 4. Innovation, Trade, and Structural Change, <a href="https://avoumatsodo.github.io/files/Trade_and_Innovation.pdf" target="_blank"> PDF</a>  
+#### 5. Innovation, Trade, and Structural Change, <a href="https://avoumatsodo.github.io/files/Trade_and_Innovation.pdf" target="_blank"> PDF</a>  
 <!-- <details>
  <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
 <p align="justify"> 
