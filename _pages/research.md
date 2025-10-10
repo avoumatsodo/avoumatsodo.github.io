@@ -50,6 +50,7 @@ Traditional theories of structural transformation fail to account for the dispar
 * <span style="font-size: 14px;"> Organic Farming versus Conventional Farming: Adoption, Transition, and Profitability, joint with <a href="https://www.moustaphathiam.com/home" target="_blank">Moustapha Thiam </a>
 * <span style="font-size: 14px;"> An Endogenous Growth Model of Premature Deindustrialization , joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> and <a href="https://sites.google.com/site/kochwilfrieduqam/wilfried-koch-homepage?authuser=0" target="_blank">Wilfried Koch</a>
 
-
+<!--
  ### <i style="color:blue;"> ▶ Other Publication</i>
 * <span style="font-size: 14px;"> <a href="https://journals.sagepub.com/doi/epub/10.1177/13872877251385197" target="_blank"> Is it time to rethink how we measure the quality of life in young-onset dementia?</a>  </span>, <i> Journal of Alzheimer’s Disease </i>, joint with Aderonke Agboji and Darryn DiFrancesco 
+-->
