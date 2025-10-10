@@ -52,5 +52,5 @@ Traditional theories of structural transformation fail to account for the dispar
 
 
  ### <i style="color:blue;"> ▶ Other Publication</i>
-* <span style="font-size: 14px;"> <a href="https://journals.sagepub.com/doi/epub/10.1177/13872877251385197" target="_blank"> Is it time to rethink how we measure the quality of life in young-onset dementia?</a>  </span>, <i> Journal of Alzheimer’s Disease </i>, joint with Aderonke Agboji and Darryn DiFrancesco
+* <span style="font-size: 14px;">  href="https://journals.sagepub.com/doi/epub/10.1177/13872877251385197" target="_blank"> Is it time to rethink how we measure the quality of life in young-onset dementia?  </span>, <i> Journal of Alzheimer’s Disease </i>, joint with Aderonke Agboji and Darryn DiFrancesco
  
