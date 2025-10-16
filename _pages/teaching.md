@@ -19,6 +19,10 @@ author_profile: true
   </li>
   </ul>
 
+ <li style="margin-bottom: 2px; font-size: 14px;"> 
+    <strong>ECON 205- Statistics for Business and Social Sciences</strong>, Fall 2025
+  </li>
+  
   <li style="margin-bottom: 20px; font-size: 14px;"> 
     <strong> ECON 698- International Finance and Sustainability</strong>, Fall 2024
   </li>
@@ -28,7 +32,7 @@ author_profile: true
   </li>
   
   <li style="margin-bottom: 2px; font-size: 14px;"> 
-    <strong>ECON 317- Money, Banking, and Financial Institutions</strong>, Winter 2025
+    <strong>ECON 317- Money, Banking, and Financial Institutions</strong>, Winter 2025, Fall 2025
   </li>
   
   <ul style="padding-left: 40px; list-style-type: disc;">
