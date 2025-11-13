@@ -43,6 +43,7 @@ Traditional theories of structural transformation fail to account for the dispar
 * <span style="font-weight: normal;">Financial Development, Technology Adoption, and Structural Transformation in Developing Countries,  <a href="https://avoumatsodo.github.io/files/Financial_development_and_structural_change.pdf" target="_blank">PDF</a>, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> </span>
 * <span style="font-size: 14px;"> Economic Transformation and Biodiversity, joint with <a href="https://scholar.google.com/citations?user=5MvX8VQAAAAJ&hl=en" target="_blank">Juha Siikamäki</a> and <a href="https://sites.google.com/view/matias-piaggio/home" target="_blank">Matías Piaggio</a> </span>
 * <span style="font-size: 14px;"> An Endogenous Growth Model of Premature Deindustrialization , joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> and <a href="https://sites.google.com/site/kochwilfrieduqam/wilfried-koch-homepage?authuser=0" target="_blank">Wilfried Koch</a> </span>
+
 <!--
 * <span style="font-size: 14px;"> Exit Dynamics in Quebec’s Organic Farming, joint with <a href="https://www.moustaphathiam.com/home" target="_blank">Moustapha Thiam </a>
 
