@@ -40,6 +40,7 @@ Traditional theories of structural transformation fail to account for the dispar
 </details> -->
 
 
+#### <span style="font-weight: normal;">6. Exit Dynamics in Quebec’s Organic Farming, <a href="https://avoumatsodo.github.io/files/Exit_Dynamics_in_Quebec_Organic_Farming.pdf" target="_blank">PDF</a>, joint with <a href="https://www.moustaphathiam.com/home" target="_blank">Moustapha Thiam </a> </span>  
 
 
 
@@ -48,10 +49,12 @@ Traditional theories of structural transformation fail to account for the dispar
 ### <i style="color:blue;"> ▶ Selected Works in Progress</i>
 <!-- <hr style="border-top: 5px solid #000;"> <!---->
 * <span style="font-size: 14px;"> Economic Transformation and Biodiversity, joint with <a href="https://scholar.google.com/citations?user=5MvX8VQAAAAJ&hl=en" target="_blank">Juha Siikamäki</a> and <a href="https://sites.google.com/view/matias-piaggio/home" target="_blank">Matías Piaggio</a> </span>
-* <span style="font-size: 14px;"> Exit Dynamics in Quebec’s Organic Farming, joint with <a href="https://www.moustaphathiam.com/home" target="_blank">Moustapha Thiam </a>
 * <span style="font-size: 14px;"> An Endogenous Growth Model of Premature Deindustrialization , joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> and <a href="https://sites.google.com/site/kochwilfrieduqam/wilfried-koch-homepage?authuser=0" target="_blank">Wilfried Koch</a> </span>
 
 <!--
+* <span style="font-size: 14px;"> Exit Dynamics in Quebec’s Organic Farming, joint with <a href="https://www.moustaphathiam.com/home" target="_blank">Moustapha Thiam </a>
+
+
  ### <i style="color:blue;"> ▶ Other Publication</i>
 * <span style="font-size: 14px;"> <a href="https://journals.sagepub.com/doi/epub/10.1177/13872877251385197" target="_blank"> Is it time to rethink how we measure the quality of life in young-onset dementia?</a>, <i> Journal of Alzheimer’s Disease </i>, joint with Aderonke Agboji and Darryn DiFrancesco. </span>
 -->
