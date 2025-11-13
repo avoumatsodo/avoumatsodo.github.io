@@ -22,15 +22,7 @@ author_profile: true
 
 #### <span style="font-weight: normal;">3.  Dynamic Input Intensities and Productivity Measurement,  <a href="https://avoumatsodo.github.io/files/heteregeneous_evolution_of_input_use.pdf" target="_blank">PDF</a>, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> </span>
 
-
-#### <span style="font-weight: normal;">4. Financial Development, Technology Adoption, and Structural Transformation in Developing Countries,  <a href="https://avoumatsodo.github.io/files/Financial_development_and_structural_change.pdf" target="_blank">PDF</a>, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> </span>
-<!-- <details>
- <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
-<p align="justify">   Rodrik (2016) pointed out that late industrializing countries are experiencing a lower peak at lower income levels in the manufacturing employment share hump-shaped path. The present study develops a theoretical model to analyze the dynamics of industrialization and deindustrialization in developing countries and their integration with earlier industrialized economies. The findings suggest that financial development plays a crucial role in both accelerating industrialization and facilitating deindustrialization. Moreover, the model reveals that when developing countries integrate with economies in deindustrialization phase, the technological frontier in the manufacturing sector becomes relatively further ahead compared to the services sector. This discrepancy in technological proximity between sectors influences the differential productivity growth rates in manufacturing and services, driving an early shift towards the services sector. The model is calibrated to South African data from 1960 to 2010 and provides empirical support for these findings. </p>
-<hr style="border-top: 2px solid #8c8b8b; width:100%;">
-</details> -->
-
-#### <span style="font-weight: normal;">5. Innovation, Trade, and Structural Change, <a href="https://avoumatsodo.github.io/files/Trade_and_Innovation.pdf" target="_blank">PDF</a>, </span> <i>Rej.&R at Journal of Mathematical Economics.</i>
+#### <span style="font-weight: normal;">4. Innovation, Trade, and Structural Change, <a href="https://avoumatsodo.github.io/files/Trade_and_Innovation.pdf" target="_blank">PDF</a>, </span> <i>Rej.&R at Journal of Mathematical Economics.</i>
 
 <!-- <details>
  <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
@@ -40,7 +32,7 @@ Traditional theories of structural transformation fail to account for the dispar
 </details> -->
 
 
-#### <span style="font-weight: normal;">6. Exit Dynamics in Quebec’s Organic Farming, <a href="https://avoumatsodo.github.io/files/Exit_Dynamics_in_Quebec_Organic_Farming.pdf" target="_blank">PDF</a>, joint with <a href="https://www.moustaphathiam.com/home" target="_blank">Moustapha Thiam </a> </span>  
+#### <span style="font-weight: normal;">5. Exit Dynamics in Quebec’s Organic Farming, <a href="https://avoumatsodo.github.io/files/Exit_Dynamics_in_Quebec_Organic_Farming.pdf" target="_blank">PDF</a>, joint with <a href="https://www.moustaphathiam.com/home" target="_blank">Moustapha Thiam </a> </span>  
 
 
 
@@ -50,7 +42,7 @@ Traditional theories of structural transformation fail to account for the dispar
 <!-- <hr style="border-top: 5px solid #000;"> <!---->
 * <span style="font-size: 14px;"> Economic Transformation and Biodiversity, joint with <a href="https://scholar.google.com/citations?user=5MvX8VQAAAAJ&hl=en" target="_blank">Juha Siikamäki</a> and <a href="https://sites.google.com/view/matias-piaggio/home" target="_blank">Matías Piaggio</a> </span>
 * <span style="font-size: 14px;"> An Endogenous Growth Model of Premature Deindustrialization , joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> and <a href="https://sites.google.com/site/kochwilfrieduqam/wilfried-koch-homepage?authuser=0" target="_blank">Wilfried Koch</a> </span>
-
+* <span style="font-weight: normal;">4. Financial Development, Technology Adoption, and Structural Transformation in Developing Countries,  <a href="https://avoumatsodo.github.io/files/Financial_development_and_structural_change.pdf" target="_blank">PDF</a>, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> </span>
 <!--
 * <span style="font-size: 14px;"> Exit Dynamics in Quebec’s Organic Farming, joint with <a href="https://www.moustaphathiam.com/home" target="_blank">Moustapha Thiam </a>
 
