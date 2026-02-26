@@ -32,7 +32,7 @@ Traditional theories of structural transformation fail to account for the dispar
 </details> -->
 
 
-#### <span style="font-weight: normal;">5. Exit Dynamics in Quebec’s Organic Farming, <a href="https://avoumatsodo.github.io/files/Exit_Dynamics_in_Quebec_Organic_Farming.pdf" target="_blank">PDF</a>, joint with <a href="https://www.moustaphathiam.com/home" target="_blank">Moustapha Thiam </a>>, </span> <i>R&R at Canadian Journal of Agricultural Economics.</i>
+#### <span style="font-weight: normal;">5. Exit Dynamics in Quebec’s Organic Farming, <a href="https://avoumatsodo.github.io/files/Exit_Dynamics_in_Quebec_Organic_Farming.pdf" target="_blank">PDF</a>, joint with <a href="https://www.moustaphathiam.com/home" target="_blank">Moustapha Thiam </a>, </span> <i> R&R at Canadian Journal of Agricultural Economics.</i>
 
 
 
