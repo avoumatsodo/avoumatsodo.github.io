@@ -20,7 +20,7 @@ author_profile: true
 #### <span style="font-weight: normal;">2. Time-Varying Input-Output Linkages and Structural Change,  <a href="https://avoumatsodo.github.io/files/Time_Varying_Sectoral_Linkages_and_Structural_Change.pdf" target="_blank">PDF</a>, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> </span>
 
 
-#### <span style="font-weight: normal;">3.  Dynamic Input Intensities and Productivity Measurement,  <a href="https://avoumatsodo.github.io/files/heteregeneous_evolution_of_input_use.pdf" target="_blank">PDF</a>, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> </span>
+#### <span style="font-weight: normal;">3.  Growth Accounting with Time-Varying Input Intensities,  <a href="https://avoumatsodo.github.io/files/heteregeneous_evolution_of_input_use.pdf" target="_blank">PDF</a>, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> </span>
 
 #### <span style="font-weight: normal;">4. Innovation, Trade, and Structural Change, <a href="https://avoumatsodo.github.io/files/Trade_and_Innovation.pdf" target="_blank">PDF</a>, </span> <i>Rej.&R at Journal of Mathematical Economics.</i>
 
