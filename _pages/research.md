@@ -34,6 +34,7 @@ Traditional theories of structural transformation fail to account for the dispar
 
 #### <span style="font-weight: normal;">5. Exit Dynamics in Quebec’s Organic Farming, <a href="https://avoumatsodo.github.io/files/Exit_Dynamics_in_Quebec_Organic_Farming.pdf" target="_blank">PDF</a>, joint with <a href="https://www.moustaphathiam.com/home" target="_blank">Moustapha Thiam</a>, </span> <i> Rev.&R at Canadian Journal of Agricultural Economics.</i>
 
+#### <span style="font-size: 14px;">6. Economic Transformation and Biodiversity, <a href="https://avoumatsodo.github.io/files/Biodiversity_and_Economic_Transformation.pdf" target="_blank">PDF</a>, joint with <a href="https://scholar.google.com/citations?user=5MvX8VQAAAAJ&hl=en" target="_blank">Juha Siikamäki</a> and <a href="https://sites.google.com/view/matias-piaggio/home" target="_blank">Matías Piaggio</a> </span>
 
 
 <br>
@@ -41,7 +42,6 @@ Traditional theories of structural transformation fail to account for the dispar
 ### <i style="color:blue;"> ▶ Selected Works in Progress</i>
 <!-- <hr style="border-top: 5px solid #000;"> <!---->
 * <span style="font-size: 14px;"> Financial Development, Technology Adoption, and Structural Transformation in Developing Countries, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> </span>
-* <span style="font-size: 14px;"> Economic Transformation and Biodiversity, <a href="https://avoumatsodo.github.io/files/Biodiversity_and_Economic_Transformation.pdf" target="_blank">PDF</a>, joint with <a href="https://scholar.google.com/citations?user=5MvX8VQAAAAJ&hl=en" target="_blank">Juha Siikamäki</a> and <a href="https://sites.google.com/view/matias-piaggio/home" target="_blank">Matías Piaggio</a> </span>
 * <span style="font-size: 14px;"> An Endogenous Growth Model of Premature Deindustrialization , joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> and <a href="https://sites.google.com/site/kochwilfrieduqam/wilfried-koch-homepage?authuser=0" target="_blank">Wilfried Koch</a> </span>
 
 <!--
