@@ -44,7 +44,7 @@ Traditional theories of structural transformation fail to account for the dispar
 * <span style="font-size: 14px;"> Financial Development, Technology Adoption, and Structural Transformation in Developing Countries, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> </span>
 * <span style="font-size: 14px;"> An Endogenous Growth Model of Premature Deindustrialization , joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> and <a href="https://sites.google.com/site/kochwilfrieduqam/wilfried-koch-homepage?authuser=0" target="_blank">Wilfried Koch</a> </span>
 * <span style="font-size: 14px;"> Agricultural Aid and Farm‑Level Productivity, joint with <a href="https://sites.google.com/view/ablam-estel-apeti/home?authuser=0" target="_blank">Estel Ablam Apeti</a> and Arafate Affo </span>
-* <span style="font-size: 14px;"> Do Prescription Mandates Reduce Pesticide Risk? Evidence from Quebec's 2018 Agronomic Reform, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a>, <a href="https://www.moustaphathiam.com/" target="_blank">Moustapha Thiam</a>, and <a> Charles Séguin</a> </span>
+* <span style="font-size: 14px;"> The Impact of Pesticide Prescription Mandates in Quebec, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a>, <a href="https://www.moustaphathiam.com/" target="_blank">Moustapha Thiam</a>, and <a> Charles Séguin</a> </span>
 
 <!--
 * <span style="font-size: 14px;"> Exit Dynamics in Quebec’s Organic Farming, joint with <a href="https://www.moustaphathiam.com/home" target="_blank">Moustapha Thiam </a> 
