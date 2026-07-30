@@ -5,6 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 
+<style>
+/* The theme sets headings in its sans-serif face ($header-font-family), which
+   is why the paper entries did not match the body text. Both lists on this
+   page are level-4 headings, so this puts them back in the body serif. */
+.page__content h4 { font-family: 'Times New Roman', Times, serif; }
+</style>
+
 # Research
 
 ### <i style="color:blue;"> ▶ Working Papers</i>
