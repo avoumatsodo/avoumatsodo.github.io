@@ -8,7 +8,9 @@ author_profile: true
 <style>
 /* The theme sets headings in its sans-serif face ($header-font-family), which
    is why the paper entries did not match the body text. Both lists on this
-   page are level-4 headings, so this puts them back in the body serif. */
+   page are level-4 headings. This layout is `archive`, so the content sits in
+   div.archive; .page__content is listed too in case the layout changes. */
+.archive h4,
 .page__content h4 { font-family: 'Times New Roman', Times, serif; }
 </style>
 
