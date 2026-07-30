@@ -8,6 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Komla Avoumatsodo | Homepage"
+masthead_title           : "Komla A. | Homepage" # short title for the navigation bar; `title` above stays the full name used for the browser tab and SEO
 title_separator          : "-"
 name                     : &name "Komla Avoumatsodo"
 description              : &description "personal description"

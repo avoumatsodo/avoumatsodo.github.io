@@ -1,0 +1,145 @@
+/* ==========================================================================
+   Mobile navigation fixes
+   ==========================================================================
+
+   Problem this file solves
+   ------------------------
+   The greedy-nav script moves menu items out of `.visible-links` and into
+   `.hidden-links` until the remaining items fit on one line. On phones
+   (viewports narrower than about 400px) it ends up moving *every* item out,
+   including the site title. `.greedy-nav` is then left with no in-flow
+   content, so its height collapses to 0. Because the toggle button is
+   `position: absolute; height: 100%`, the button collapses with it: the
+   masthead becomes an empty white bar and the menu cannot be opened at all.
+
+   Fix
+   ---
+   1. The nav and its button always keep a real height, so the button can
+      never disappear, whatever the greedy script decides.
+   2. Below 640px a standalone brand link is shown. It sits outside the list
+      the script manipulates, so it is always visible. Space is reserved for
+      it with `padding-left` on the nav: jQuery's `.width()` returns the
+      content box, so the greedy script automatically accounts for it and
+      stops pushing links past the right edge.
+   3. The button gets a visible "Menu" / "Close" label, and the dropdown gets
+      comfortable touch targets.
+
+   Screens 640px and wider are left exactly as they were.
+   ========================================================================== */
+
+/* The nav bar can never collapse, at any width. */
+.greedy-nav {
+  min-height: 2.75em;
+
+  button {
+    top: 0;
+    height: 2.75em;
+    border-radius: 4px;
+  }
+}
+
+/* Shown on small screens only; see the media query below.
+   Selector kept at two classes so it outweighs the theme's
+   `.greedy-nav a { display: block }`. */
+.greedy-nav .masthead__brand {
+  display: none;
+}
+
+@media screen and (max-width: 39.9375em) {
+  .masthead__inner-wrap {
+    padding-top: 0.75em;
+    padding-bottom: 0.75em;
+  }
+
+  .greedy-nav {
+    position: relative;
+    /* Room reserved for .masthead__brand. Because jQuery .width() measures
+       the content box, the greedy script sees the real space left for links. */
+    padding-left: 11em;
+  }
+
+  .greedy-nav .masthead__brand {
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    max-width: 10.5em;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    color: #494e52;
+    font-weight: 700;
+    font-size: 1em;
+    line-height: 1.3;
+    text-decoration: none;
+
+    &:hover,
+    &:focus {
+      color: #000;
+    }
+  }
+
+  /* The site title still travels through the list the script manages. Hide it
+     there so it never shows twice next to .masthead__brand, and so the
+     dropdown lists actual pages only. Three classes are needed to outweigh
+     the theme's `.greedy-nav .visible-links li { display: table-cell }`. */
+  .greedy-nav .visible-links .masthead__menu-item--lg,
+  .greedy-nav .hidden-links .masthead__menu-item--lg {
+    display: none;
+  }
+
+  /* Toggle button: always visible, labelled, and large enough to tap. */
+  .greedy-nav button {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    height: 2.75em;
+    padding: 0 0.75em;
+
+    .navicon {
+      margin: 0 0.5em 0 0;
+    }
+
+    &:after {
+      content: "Menu";
+      color: #fff;
+      font-size: 0.75em;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+
+    &.close:after {
+      content: "Close";
+    }
+  }
+
+  /* The script adds .hidden to the button when the dropdown is empty. That
+     rule is a single class, so it has to be restated here to outweigh the
+     `display: flex` above. */
+  .greedy-nav button.hidden {
+    display: none;
+  }
+
+  /* Dropdown: wider, with comfortable touch targets. */
+  .greedy-nav .hidden-links {
+    right: 0;
+    min-width: 11em;
+    margin-top: 0.75em;
+
+    a {
+      padding: 0.85em 1.25em;
+      font-size: 1em;
+    }
+
+    &:before,
+    &:after {
+      right: 1.5em;
+    }
+  }
+}
