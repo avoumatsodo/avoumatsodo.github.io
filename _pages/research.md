@@ -28,7 +28,7 @@ author_profile: true
 
 #### <span style="font-weight: normal;">2. Time-Varying Input-Output Linkages and Structural Change,  <a href="https://avoumatsodo.github.io/files/Time_Varying_Sectoral_Linkages_and_Structural_Change.pdf" target="_blank">PDF</a>, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> </span>  
 
-#### <span style="font-weight: normal;">3.  Growth Accounting with Time-Varying Input Intensities,  <a href="https://avoumatsodo.github.io/files/heteregeneous_evolution_of_input_use.pdf" target="_blank">PDF</a>, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a>, </span> <i> Rev.&R at Economic Modelling.</i>
+#### <span style="font-weight: normal;">3.  Growth Accounting with Time-Varying Input Intensities,  <a href="https://avoumatsodo.github.io/files/heteregeneous_evolution_of_input_use.pdf" target="_blank">PDF</a>, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a>, </span> <i> Conditionally accepted at Economic Modelling.</i>
 
 #### <span style="font-weight: normal;">4. Innovation, Trade, and Structural Change, <a href="https://avoumatsodo.github.io/files/Trade_and_Innovation.pdf" target="_blank">PDF</a>, </span> <i>Rej.&R at Journal of Mathematical Economics.</i>
 
@@ -40,7 +40,7 @@ Traditional theories of structural transformation fail to account for the dispar
 </details> -->
 
 
-#### <span style="font-weight: normal;">5. Exit Dynamics in Quebec’s Organic Farming, <a href="https://avoumatsodo.github.io/files/Exit_Dynamics_in_Quebec_Organic_Farming.pdf" target="_blank">PDF</a>, joint with <a href="https://moustaphathiam.com/" target="_blank">Moustapha Thiam</a>, </span> <i> Rev.&R at Canadian Journal of Agricultural Economics.</i>
+#### <span style="font-weight: normal;">5. Exit Dynamics in Quebec’s Organic Farming, <a href="https://avoumatsodo.github.io/files/Exit_Dynamics_in_Quebec_Organic_Farming.pdf" target="_blank">PDF</a>, joint with <a href="https://moustaphathiam.com/" target="_blank">Moustapha Thiam</a>, </span> <i> Conditionally accepted at Canadian Journal of Agricultural Economics.</i>
 
 <!--
 #### <span style="font-weight: normal;">6. Outsourcing Extinction: Economic Complexity and the Geography of Biodiversity Loss, <a href="https://avoumatsodo.github.io/files/Biodiversity_and_Economic_Transformation.pdf" target="_blank">PDF</a>, joint with <a href="https://scholar.google.com/citations?user=5MvX8VQAAAAJ&hl=en" target="_blank">Juha Siikamäki</a> and <a href="https://sites.google.com/view/matias-piaggio/home" target="_blank">Matías Piaggio</a> </span>
