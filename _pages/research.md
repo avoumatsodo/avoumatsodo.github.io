@@ -24,7 +24,7 @@ author_profile: true
   /* Same theme default (2em top margin) applied to the section headings
      (Publications, Working Papers, ...); the <br> tags previously used
      between sections added further space on top of that. */
-  margin-top: 1em;
+  margin-top: 1.5em;
   margin-bottom: 0.4em;
 }
 </style>
