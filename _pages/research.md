@@ -38,7 +38,7 @@ Traditional theories of structural transformation fail to account for the dispar
 
 #### <span style="font-weight: normal;">2. Time-Varying Input-Output Linkages and Structural Change,  <a href="https://avoumatsodo.github.io/files/Time_Varying_Sectoral_Linkages_and_Structural_Change.pdf" target="_blank">PDF</a>, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> </span>  
 
-#### <span style="font-weight: normal;">3. Financial Constraints, Technology Adoption, and Convergence, <a href="https://avoumatsodo.github.io/files/Financial_Development_Technology_Adoption_Sectoral_Productivity_Convergence.pdf" target="_blank"> PDF</a>,</span> 
+#### <span style="font-weight: normal;">3. Financial Constraints, Technology Adoption, and Convergence, <a href="https://avoumatsodo.github.io/files/Financial_Development_Technology_Adoption_Sectoral_Productivity_Convergence.pdf" target="_blank"> PDF</a></span> 
 <!-- <details>
  <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
 <p align="justify">   This paper documents  differences in productivity convergence patterns across key economic sectors and introduces an endogenous growth model to explain them. The model predicts that sectors with higher technological frontier growth, like agriculture, will converge more slowly than those with lower frontier growth, such as services. It also shows that aggregate divergence may transition to convergence as sectors catch up. As GDP per capita rises, even amid divergence, financial constraints ease, enabling lagging sectors to adopt more intensively technologies and accelerate productivity growth, reinforcing aggregate wealth and creating a positive feedback loop. </p>
