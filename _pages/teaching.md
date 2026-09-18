@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 ## Teaching Experience
-### <span style="color:blue;"> ▶ Current Teaching </span>
+### <span style="color:#52adc8;"> ▶ Current Teaching </span>
 <ul style="padding-left: 20px; list-style-type: disc;">
   <li style="margin-bottom: 1px; font-size: 14px;"> 
     <strong> ECON 710- Advanced Macroeconomics</strong>, Winter 2025 
@@ -45,7 +45,7 @@ author_profile: true
 </ul>
 
 
-### <span style="color:blue;"> ▶ Previous Teaching</span>
+### <span style="color:#52adc8;"> ▶ Previous Teaching</span>
 
 ##### <i> 1. National School of Public Administration, Quebec-City, Canada </i>
 <ul style="padding-left: 20px; list-style-type: disc;">

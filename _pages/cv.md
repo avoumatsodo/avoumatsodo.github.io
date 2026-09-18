@@ -17,7 +17,7 @@ redirect_from:
 </span>
 
  
-### <span style="color:blue;"> ▶ Education </span>
+### <span style="color:#52adc8;"> ▶ Education </span>
 
 <ul style="padding-left: 20px;">
   <li style="margin-bottom: 7px; font-size: 14px;"> 
@@ -36,7 +36,7 @@ redirect_from:
 
 
 
-### <span style="color:blue;"> ▶ Work Experience </span>
+### <span style="color:#52adc8;"> ▶ Work Experience </span>
 
 <ul style="padding-left: 20px;">
   <li style="margin-bottom: 7px; font-size: 14px;"> 

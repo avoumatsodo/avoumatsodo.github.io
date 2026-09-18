@@ -16,7 +16,7 @@ author_profile: true
 
 # Research
 
-### <i style="color:blue;"> ▶ Publications</i>
+### <i style="color:#52adc8;"> ▶ Publications</i>
 
 #### <span style="font-weight: normal;">1. Growth Accounting with Time-Varying Input Intensities, <a href="https://avoumatsodo.github.io/files/heteregeneous_evolution_of_input_use.pdf" target="_blank">PDF</a>, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a>, </span> <i>Forthcoming at Economic Modelling.</i>
 
@@ -24,19 +24,10 @@ author_profile: true
 
 <br>
 
-### <i style="color:blue;"> ▶ Working Papers</i>
+### <i style="color:#52adc8;"> ▶ Working Papers</i>
 <!-- <hr style="border-top: 5px solid #000;"> -->
 
-#### <span style="font-weight: normal;">1. Financial Constraints, Technology Adoption, and Convergence, <a href="https://avoumatsodo.github.io/files/Financial_Development_Technology_Adoption_Sectoral_Productivity_Convergence.pdf" target="_blank"> PDF</a>,</span> 
-<!-- <details>
- <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
-<p align="justify">   This paper documents  differences in productivity convergence patterns across key economic sectors and introduces an endogenous growth model to explain them. The model predicts that sectors with higher technological frontier growth, like agriculture, will converge more slowly than those with lower frontier growth, such as services. It also shows that aggregate divergence may transition to convergence as sectors catch up. As GDP per capita rises, even amid divergence, financial constraints ease, enabling lagging sectors to adopt more intensively technologies and accelerate productivity growth, reinforcing aggregate wealth and creating a positive feedback loop. </p>
-<hr style="border-top: 2px solid #8c8b8b; width:100%;">
-</details> -->
-
-#### <span style="font-weight: normal;">2. Time-Varying Input-Output Linkages and Structural Change,  <a href="https://avoumatsodo.github.io/files/Time_Varying_Sectoral_Linkages_and_Structural_Change.pdf" target="_blank">PDF</a>, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> </span>  
-
-#### <span style="font-weight: normal;">3. Innovation, Trade, and Structural Change, <a href="https://avoumatsodo.github.io/files/Trade_and_Innovation.pdf" target="_blank">PDF</a>, </span> <i>Rej.&R at Journal of Mathematical Economics.</i>
+#### <span style="font-weight: normal;">1. Innovation, Trade, and Structural Change, <a href="https://avoumatsodo.github.io/files/Trade_and_Innovation.pdf" target="_blank">PDF</a>, </span> <i>Rej.&R at Journal of Mathematical Economics.</i>
 
 <!-- <details>
  <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
@@ -45,10 +36,18 @@ Traditional theories of structural transformation fail to account for the dispar
 <hr style="border-top: 2px solid #8c8b8b; width:100%;">
 </details> -->
 
+#### <span style="font-weight: normal;">2. Time-Varying Input-Output Linkages and Structural Change,  <a href="https://avoumatsodo.github.io/files/Time_Varying_Sectoral_Linkages_and_Structural_Change.pdf" target="_blank">PDF</a>, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> </span>  
 
-#### <span style="font-weight: normal;">4. Where Has Degrowth's Centre of Gravity Moved? Mapping the Intellectual Evolution of Degrowth Research, <a href="https://avoumatsodo.github.io/files/Mapping_the_Intellectual_Evolution_of_Degrowth.pdf" target="_blank">PDF</a>, joint with Elisabet Garriga Cots </span>
+#### <span style="font-weight: normal;">3. Financial Constraints, Technology Adoption, and Convergence, <a href="https://avoumatsodo.github.io/files/Financial_Development_Technology_Adoption_Sectoral_Productivity_Convergence.pdf" target="_blank"> PDF</a>,</span> 
+<!-- <details>
+ <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
+<p align="justify">   This paper documents  differences in productivity convergence patterns across key economic sectors and introduces an endogenous growth model to explain them. The model predicts that sectors with higher technological frontier growth, like agriculture, will converge more slowly than those with lower frontier growth, such as services. It also shows that aggregate divergence may transition to convergence as sectors catch up. As GDP per capita rises, even amid divergence, financial constraints ease, enabling lagging sectors to adopt more intensively technologies and accelerate productivity growth, reinforcing aggregate wealth and creating a positive feedback loop. </p>
+<hr style="border-top: 2px solid #8c8b8b; width:100%;">
+</details> -->
 
-#### <span style="font-weight: normal;">5. Do Agronomic Prescription Mandates Reduce Pesticide Use?, <a href="https://avoumatsodo.github.io/files/Pesticide_prescription.pdf" target="_blank">PDF</a>, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a>, <a href="https://moustaphathiam.com/" target="_blank">Moustapha Thiam</a>, and Charles Séguin </span>
+#### <span style="font-weight: normal;">4. Do Agronomic Prescription Mandates Reduce Pesticide Use?, <a href="https://avoumatsodo.github.io/files/Pesticide_prescription.pdf" target="_blank">PDF</a>, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a>, <a href="https://moustaphathiam.com/" target="_blank">Moustapha Thiam</a>, and Charles Séguin </span>
+
+#### <span style="font-weight: normal;">5. Where Has Degrowth's Centre of Gravity Moved? Mapping the Intellectual Evolution of Degrowth Research, <a href="https://avoumatsodo.github.io/files/Mapping_the_Intellectual_Evolution_of_Degrowth.pdf" target="_blank">PDF</a>, joint with Elisabet Garriga Cots </span>
 <!-- <details>
  <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
 <p align="justify">Degrowth has become one of the fastest-growing fields of social research, yet its long-run intellectual evolution from early ecological-economic foundations to its contemporary research agenda has never been systematically mapped. Using a corpus of 2,780 peer-reviewed publications published between 1968 and 2025, we combine co-citation, co-word, and bibliographic coupling analyses to map the field's knowledge base, conceptual evolution, and emerging research front. Our analysis reveals that the intellectual centre of gravity of degrowth has shifted from articulating the theoretical foundations of degrowth toward empirically contesting green growth. The field's knowledge base is organised around three interconnected traditions—ecological economics, political ecology and post-development, and applied post-growth research paired with the critique of green growth—with the latter becoming the dominant intellectual hub in recent years. At the same time, the conceptual space of degrowth has expanded from a relatively concentrated critique of economic growth into a broad interdisciplinary research programme encompassing energy transitions, environmental justice, urban transformation, post-development, and alternative economic institutions. The emerging research front has likewise diversified toward post-growth macroeconomic modelling, decolonial perspectives, post-growth business, tourism, and sector-specific applications. By providing the first full bibliometric reconstruction of the field, this study offers a quantitative account of how degrowth has evolved and identifies promising directions for future research.</p>
@@ -61,7 +60,7 @@ Traditional theories of structural transformation fail to account for the dispar
 
 <br>
 
-### <i style="color:blue;"> ▶ Selected Works in Progress</i>
+### <i style="color:#52adc8;"> ▶ Selected Works in Progress</i>
 <!-- <hr style="border-top: 5px solid #000;"> <!---->
 #### <span style="font-weight: normal;">1. Financial Development, Technology Adoption, and Structural Transformation in Developing Countries, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> </span>
 
@@ -71,6 +70,6 @@ Traditional theories of structural transformation fail to account for the dispar
 
 <!--
 * <span style="font-size: 14px;"> Exit Dynamics in Quebec’s Organic Farming, joint with <a href="https://moustaphathiam.com/" target="_blank">Moustapha Thiam </a> 
- ### <i style="color:blue;"> ▶ Other Publication</i>
+ ### <i style="color:#52adc8;"> ▶ Other Publication</i>
 * <span style="font-size: 14px;"> <a href="https://journals.sagepub.com/doi/epub/10.1177/13872877251385197" target="_blank"> Is it time to rethink how we measure the quality of life in young-onset dementia?</a>, <i> Journal of Alzheimer’s Disease </i>, joint with Aderonke Agboji and Darryn DiFrancesco. </span>
 -->
