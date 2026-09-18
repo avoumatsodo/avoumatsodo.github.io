@@ -19,6 +19,14 @@ author_profile: true
   margin-top: 0.6em;
   margin-bottom: 0.3em;
 }
+.archive h3,
+.page__content h3 {
+  /* Same theme default (2em top margin) applied to the section headings
+     (Publications, Working Papers, ...); the <br> tags previously used
+     between sections added further space on top of that. */
+  margin-top: 1em;
+  margin-bottom: 0.4em;
+}
 </style>
 
 # Research
@@ -28,8 +36,6 @@ author_profile: true
 #### <span style="font-weight: normal;">1. Growth Accounting with Time-Varying Input Intensities, <a href="https://avoumatsodo.github.io/files/heteregeneous_evolution_of_input_use.pdf" target="_blank">PDF</a>, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a>, </span> <i>Accepted at Economic Modelling.</i>
 
 #### <span style="font-weight: normal;">2. Exit Dynamics in Quebec's Organic Farming, <a href="https://avoumatsodo.github.io/files/Exit_Dynamics_in_Quebec_Organic_Farming.pdf" target="_blank">PDF</a>, joint with <a href="https://moustaphathiam.com/" target="_blank">Moustapha Thiam</a>, </span> <i>Accepted at Canadian Journal of Agricultural Economics.</i>
-
-<br>
 
 ### <i style="color:#52adc8;"> ▶ Working Papers</i>
 <!-- <hr style="border-top: 5px solid #000;"> -->
@@ -65,8 +71,6 @@ Traditional theories of structural transformation fail to account for the dispar
 #### <span style="font-weight: normal;">6. Outsourcing Extinction: Economic Complexity and the Geography of Biodiversity Loss, <a href="https://avoumatsodo.github.io/files/Biodiversity_and_Economic_Transformation.pdf" target="_blank">PDF</a>, joint with <a href="https://scholar.google.com/citations?user=5MvX8VQAAAAJ&hl=en" target="_blank">Juha Siikamäki</a> and <a href="https://sites.google.com/view/matias-piaggio/home" target="_blank">Matías Piaggio</a> </span>
 -->
 
-<br>
-
 ### <i style="color:#52adc8;"> ▶ Selected Works in Progress</i>
 <!-- <hr style="border-top: 5px solid #000;"> <!---->
 #### <span style="font-weight: normal;">1. Financial Development, Technology Adoption, and Structural Transformation in Developing Countries, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> </span>
@@ -74,8 +78,6 @@ Traditional theories of structural transformation fail to account for the dispar
 #### <span style="font-weight: normal;">2. An Endogenous Growth Model of Premature Deindustrialization, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> and <a href="https://sites.google.com/site/kochwilfrieduqam/wilfried-koch-homepage?authuser=0" target="_blank">Wilfried Koch</a> </span>
 
 #### <span style="font-weight: normal;">3. Agricultural Aid and Farm‑Level Productivity, joint with <a href="https://sites.google.com/view/ablam-estel-apeti/home?authuser=0" target="_blank">Estel Ablam Apeti</a> and Arafate Affo </span>
-
-<br>
 
 ### <i style="color:#52adc8;"> ▶ Other Publications & Reports</i>
 
