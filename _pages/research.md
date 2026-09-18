@@ -68,8 +68,10 @@ Traditional theories of structural transformation fail to account for the dispar
 
 #### <span style="font-weight: normal;">3. Agricultural Aid and Farm‑Level Productivity, joint with <a href="https://sites.google.com/view/ablam-estel-apeti/home?authuser=0" target="_blank">Estel Ablam Apeti</a> and Arafate Affo </span>
 
-<!--
-* <span style="font-size: 14px;"> Exit Dynamics in Quebec’s Organic Farming, joint with <a href="https://moustaphathiam.com/" target="_blank">Moustapha Thiam </a> 
- ### <i style="color:#52adc8;"> ▶ Other Publication</i>
-* <span style="font-size: 14px;"> <a href="https://journals.sagepub.com/doi/epub/10.1177/13872877251385197" target="_blank"> Is it time to rethink how we measure the quality of life in young-onset dementia?</a>, <i> Journal of Alzheimer’s Disease </i>, joint with Aderonke Agboji and Darryn DiFrancesco. </span>
--->
+<br>
+
+### <i style="color:#52adc8;"> ▶ Other Publications & Reports</i>
+
+#### <span style="font-weight: normal;">1. The Impact of British Columbia's Provincial Sales Tax on Industrial Investment, <a href="https://avoumatsodo.github.io/files/report_final.pdf" target="_blank">PDF</a>, joint with Karima Fredj, Theophilus Amaning, and Abel Ocheng, </span> <i>Policy report prepared for the Greater Vancouver Board of Trade, February 2026.</i>
+
+#### <span style="font-weight: normal;">2. Is it time to rethink how we measure the quality of life in young-onset dementia?, <a href="https://journals.sagepub.com/doi/epub/10.1177/13872877251385197" target="_blank">PDF</a>, joint with Aderonke Agboji and Darryn DiFrancesco, </span> <i>Journal of Alzheimer's Disease.</i>
