@@ -28,9 +28,7 @@ author_profile: true
 
 #### <span style="font-weight: normal;">2. Time-Varying Input-Output Linkages and Structural Change,  <a href="https://avoumatsodo.github.io/files/Time_Varying_Sectoral_Linkages_and_Structural_Change.pdf" target="_blank">PDF</a>, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> </span>  
 
-#### <span style="font-weight: normal;">3.  Growth Accounting with Time-Varying Input Intensities,  <a href="https://avoumatsodo.github.io/files/heteregeneous_evolution_of_input_use.pdf" target="_blank">PDF</a>, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a>, </span> <i> Conditionally accepted at Economic Modelling.</i>
-
-#### <span style="font-weight: normal;">4. Innovation, Trade, and Structural Change, <a href="https://avoumatsodo.github.io/files/Trade_and_Innovation.pdf" target="_blank">PDF</a>, </span> <i>Rej.&R at Journal of Mathematical Economics.</i>
+#### <span style="font-weight: normal;">3. Innovation, Trade, and Structural Change, <a href="https://avoumatsodo.github.io/files/Trade_and_Innovation.pdf" target="_blank">PDF</a>, </span> <i>Rej.&R at Journal of Mathematical Economics.</i>
 
 <!-- <details>
  <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
@@ -40,9 +38,9 @@ Traditional theories of structural transformation fail to account for the dispar
 </details> -->
 
 
-#### <span style="font-weight: normal;">5. Exit Dynamics in Quebec’s Organic Farming, <a href="https://avoumatsodo.github.io/files/Exit_Dynamics_in_Quebec_Organic_Farming.pdf" target="_blank">PDF</a>, joint with <a href="https://moustaphathiam.com/" target="_blank">Moustapha Thiam</a>, </span> <i> Conditionally accepted at Canadian Journal of Agricultural Economics.</i>
+#### <span style="font-weight: normal;">4. Where Has Degrowth's Centre of Gravity Moved? Mapping the Intellectual Evolution of Degrowth Research, <a href="https://avoumatsodo.github.io/files/Mapping_the_Intellectual_Evolution_of_Degrowth.pdf" target="_blank">PDF</a>, joint with Elisabet Garriga Cots </span>
 
-#### <span style="font-weight: normal;">6. Where Has Degrowth's Centre of Gravity Moved? Mapping the Intellectual Evolution of Degrowth Research, <a href="https://avoumatsodo.github.io/files/Mapping_the_Intellectual_Evolution_of_Degrowth.pdf" target="_blank">PDF</a>, joint with Elisabet Garriga Cots </span>
+#### <span style="font-weight: normal;">5. Do Agronomic Prescription Mandates Reduce Pesticide Use?, <a href="https://avoumatsodo.github.io/files/Pesticide_prescription.pdf" target="_blank">PDF</a>, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a>, <a href="https://moustaphathiam.com/" target="_blank">Moustapha Thiam</a>, and Charles Séguin </span>
 <!-- <details>
  <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
 <p align="justify">Degrowth has become one of the fastest-growing fields of social research, yet its long-run intellectual evolution from early ecological-economic foundations to its contemporary research agenda has never been systematically mapped. Using a corpus of 2,780 peer-reviewed publications published between 1968 and 2025, we combine co-citation, co-word, and bibliographic coupling analyses to map the field's knowledge base, conceptual evolution, and emerging research front. Our analysis reveals that the intellectual centre of gravity of degrowth has shifted from articulating the theoretical foundations of degrowth toward empirically contesting green growth. The field's knowledge base is organised around three interconnected traditions—ecological economics, political ecology and post-development, and applied post-growth research paired with the critique of green growth—with the latter becoming the dominant intellectual hub in recent years. At the same time, the conceptual space of degrowth has expanded from a relatively concentrated critique of economic growth into a broad interdisciplinary research programme encompassing energy transitions, environmental justice, urban transformation, post-development, and alternative economic institutions. The emerging research front has likewise diversified toward post-growth macroeconomic modelling, decolonial perspectives, post-growth business, tourism, and sector-specific applications. By providing the first full bibliometric reconstruction of the field, this study offers a quantitative account of how degrowth has evolved and identifies promising directions for future research.</p>
@@ -62,8 +60,6 @@ Traditional theories of structural transformation fail to account for the dispar
 #### <span style="font-weight: normal;">2. An Endogenous Growth Model of Premature Deindustrialization, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a> and <a href="https://sites.google.com/site/kochwilfrieduqam/wilfried-koch-homepage?authuser=0" target="_blank">Wilfried Koch</a> </span>
 
 #### <span style="font-weight: normal;">3. Agricultural Aid and Farm‑Level Productivity, joint with <a href="https://sites.google.com/view/ablam-estel-apeti/home?authuser=0" target="_blank">Estel Ablam Apeti</a> and Arafate Affo </span>
-
-#### <span style="font-weight: normal;">4. The Impact of Pesticide Prescription Mandates in Quebec, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a>, <a href="https://moustaphathiam.com/" target="_blank">Moustapha Thiam</a>, and <a> Charles Séguin</a> </span>
 
 <!--
 * <span style="font-size: 14px;"> Exit Dynamics in Quebec’s Organic Farming, joint with <a href="https://moustaphathiam.com/" target="_blank">Moustapha Thiam </a> 
