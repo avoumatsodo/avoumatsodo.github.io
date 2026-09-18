@@ -11,7 +11,14 @@ author_profile: true
    page are level-4 headings. This layout is `archive`, so the content sits in
    div.archive; .page__content is listed too in case the layout changes. */
 .archive h4,
-.page__content h4 { font-family: 'Times New Roman', Times, serif; }
+.page__content h4 {
+  font-family: 'Times New Roman', Times, serif;
+  /* Theme default is `margin: 2em 0 0.5em`, which reads as a large gap above
+     each paper entry since every entry is its own h4. Tighten just this
+     page's paper list without touching h4 spacing site-wide. */
+  margin-top: 0.6em;
+  margin-bottom: 0.3em;
+}
 </style>
 
 # Research
