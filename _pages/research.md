@@ -40,7 +40,7 @@ author_profile: true
 ### <i style="color:#52adc8;"> ▶ Working Papers</i>
 <!-- <hr style="border-top: 5px solid #000;"> -->
 
-#### <span style="font-weight: normal;">1. Innovation, Trade, and Structural Change, <a href="https://avoumatsodo.github.io/files/Trade_and_Innovation.pdf" target="_blank">PDF</a>, </span> <i>Rej.&R at Journal of Mathematical Economics.</i>
+#### <span style="font-weight: normal;">1. Innovation, Trade, and Structural Change, <a href="https://avoumatsodo.github.io/files/Trade_and_Innovation.pdf" target="_blank">PDF</a>, </span>  <!-- <i>Rej.&R at Journal of Mathematical Economics.</i> -->
 
 <!-- <details>
  <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
