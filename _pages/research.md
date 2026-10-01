@@ -33,7 +33,7 @@ author_profile: true
 
 ### <i style="color:#52adc8;"> ▶ Publications</i>
 
-#### <span style="font-weight: normal;">1. Growth Accounting with Time-Varying Input Intensities (2026), <a href="https://avoumatsodo.github.io/files/heteregeneous_evolution_of_input_use.pdf" target="_blank">PDF</a>, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a>, </span> <i> Economic Modelling.</i>
+#### <span style="font-weight: normal;">1. Growth Accounting with Time-Varying Input Intensities (2026), <a href="https://avoumatsodo.github.io/files/heteregeneous_evolution_of_input_use.pdf" target="_blank">PDF</a>, joint with <a href="https://sites.google.com/view/isambertleunga/home" target="_blank">Isambert Leunga Noukwé</a>, Forthcoming, </span> <i> Economic Modelling.</i>
 
 #### <span style="font-weight: normal;">2. Exit Dynamics in Quebec's Organic Farming (2026), <a href="https://avoumatsodo.github.io/files/Exit_Dynamics_in_Quebec_Organic_Farming.pdf" target="_blank">PDF</a>, joint with <a href="https://moustaphathiam.com/" target="_blank">Moustapha Thiam</a>, </span> <i>Canadian Journal of Agricultural Economics.</i> <a href=" https://onlinelibrary.wiley.com/doi/epdf/10.1111/cjag.70029" target="_blank">https://onlinelibrary.wiley.com/doi/epdf/10.1111/cjag.70029</a>
 
