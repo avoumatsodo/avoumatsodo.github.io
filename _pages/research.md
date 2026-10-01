@@ -68,7 +68,7 @@ Traditional theories of structural transformation fail to account for the dispar
 <hr style="border-top: 2px solid #8c8b8b; width:100%;">
 </details> -->
 
-
+<!--
 #### <span style="font-weight: normal;">6. Outsourcing Extinction: Economic Complexity and the Geography of Biodiversity Loss, <a href="https://avoumatsodo.github.io/files/Biodiversity_and_Economic_Transformation.pdf" target="_blank">PDF</a>, joint with <a href="https://scholar.google.com/citations?user=5MvX8VQAAAAJ&hl=en" target="_blank">Juha Siikamäki</a> and <a href="https://sites.google.com/view/matias-piaggio/home" target="_blank">Matías Piaggio</a> </span>
 -->
 
