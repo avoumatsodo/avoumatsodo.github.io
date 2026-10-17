@@ -40,7 +40,7 @@ author_profile: true
 ### <i style="color:#52adc8;"> ▶ Working Papers</i>
 <!-- <hr style="border-top: 5px solid #000;"> -->
 
-#### <span style="font-weight: normal;">1. Cross-Border Producer Price Transmission in North American Manufacturing: Evidence from Canada&ndash;United States Industry Networks, <a href="https://avoumatsodo.github.io/files/CA_US_Producer_Price_Connectedness.pdf" target="_blank">PDF</a>, joint with Adam Tour&eacute;, Martin Tr&eacute;panier, and Thierry Warin </span>, <i>R&amp;R at Canadian Journal of Economics.</i>
+#### <span style="font-weight: normal;">1. Cross-Border Producer Price Transmission in North American Manufacturing Networks, <a href="https://avoumatsodo.github.io/files/CA_US_Producer_Price_Connectedness.pdf" target="_blank">PDF</a>, joint with Adam Tour&eacute;, Martin Tr&eacute;panier, and Thierry Warin </span>, <i>R&amp;R at Canadian Journal of Economics.</i>
 
 #### <span style="font-weight: normal;">2. Innovation, International Trade, and Structural Change, <a href="https://avoumatsodo.github.io/files/Innovation_and_Structural_Change.pdf" target="_blank">PDF</a> </span>, <i>Rej.&R at Journal of Mathematical Economics.</i> 
 
