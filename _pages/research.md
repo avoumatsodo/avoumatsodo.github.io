@@ -40,7 +40,9 @@ author_profile: true
 ### <i style="color:#52adc8;"> ▶ Working Papers</i>
 <!-- <hr style="border-top: 5px solid #000;"> -->
 
-#### <span style="font-weight: normal;">1. Innovation, International Trade, and Structural Change, <a href="https://avoumatsodo.github.io/files/Innovation_and_Structural_Change.pdf" target="_blank">PDF</a> </span>, <i>Rej.&R at Journal of Mathematical Economics.</i> 
+#### <span style="font-weight: normal;">1. Cross-Border Producer Price Transmission in North American Manufacturing: Evidence from Canada&ndash;United States Industry Networks, <a href="https://avoumatsodo.github.io/files/CA_US_Producer_Price_Connectedness.pdf" target="_blank">PDF</a>, joint with Adam Tour&eacute;, Martin Tr&eacute;panier, and Thierry Warin </span>, <i>R&amp;R at Canadian Journal of Economics.</i>
+
+#### <span style="font-weight: normal;">2. Innovation, International Trade, and Structural Change, <a href="https://avoumatsodo.github.io/files/Innovation_and_Structural_Change.pdf" target="_blank">PDF</a> </span>, <i>Rej.&R at Journal of Mathematical Economics.</i> 
 
 <!-- <details>
  <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
@@ -49,9 +51,9 @@ Traditional theories of structural transformation fail to account for the dispar
 <hr style="border-top: 2px solid #8c8b8b; width:100%;">
 </details> -->
 
-#### <span style="font-weight: normal;">2. Time-Varying Input-Output Linkages and Structural Change,  <a href="https://avoumatsodo.github.io/files/Time_Varying_Sectoral_Linkages_and_Structural_Change.pdf" target="_blank">PDF</a>, joint with <a href="https://isambert.github.io/" target="_blank">Isambert Leunga Noukwé</a> </span>  
+#### <span style="font-weight: normal;">3. Time-Varying Input-Output Linkages and Structural Change,  <a href="https://avoumatsodo.github.io/files/Time_Varying_Sectoral_Linkages_and_Structural_Change.pdf" target="_blank">PDF</a>, joint with <a href="https://isambert.github.io/" target="_blank">Isambert Leunga Noukwé</a> </span>  
 
-#### <span style="font-weight: normal;">3. Financial Constraints, Technology Adoption, and Convergence, <a href="https://avoumatsodo.github.io/files/Financial_Development_Technology_Adoption_Sectoral_Productivity_Convergence.pdf" target="_blank"> PDF</a></span> 
+#### <span style="font-weight: normal;">4. Financial Constraints, Technology Adoption, and Convergence, <a href="https://avoumatsodo.github.io/files/Financial_Development_Technology_Adoption_Sectoral_Productivity_Convergence.pdf" target="_blank"> PDF</a></span> 
 <!-- <details>
  <summary>&nbsp;&nbsp;&nbsp;Abstract</summary>
 <p align="justify">   This paper documents  differences in productivity convergence patterns across key economic sectors and introduces an endogenous growth model to explain them. The model predicts that sectors with higher technological frontier growth, like agriculture, will converge more slowly than those with lower frontier growth, such as services. It also shows that aggregate divergence may transition to convergence as sectors catch up. As GDP per capita rises, even amid divergence, financial constraints ease, enabling lagging sectors to adopt more intensively technologies and accelerate productivity growth, reinforcing aggregate wealth and creating a positive feedback loop. </p>
