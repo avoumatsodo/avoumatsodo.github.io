@@ -58,8 +58,6 @@ Traditional theories of structural transformation fail to account for the dispar
 <hr style="border-top: 2px solid #8c8b8b; width:100%;">
 </details> -->
 
-#### <span style="font-weight: normal;">4. Do Agronomic Prescription Mandates Reduce Pesticide Use?, <a href="https://avoumatsodo.github.io/files/Pesticide_prescription.pdf" target="_blank">PDF</a>, joint with <a href="https://isambert.github.io/" target="_blank">Isambert Leunga Noukwé</a>, <a href="https://moustaphathiam.com/" target="_blank">Moustapha Thiam</a>, and Charles Séguin </span>
-
 <!--
 #### <span style="font-weight: normal;">5. Where Has Degrowth's Centre of Gravity Moved? Mapping the Intellectual Evolution of Degrowth Research, <a href="https://avoumatsodo.github.io/files/Mapping_the_Intellectual_Evolution_of_Degrowth.pdf" target="_blank">PDF</a>, joint with Elisabet Garriga Cots </span>
 <!-- <details>
