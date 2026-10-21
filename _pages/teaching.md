@@ -8,9 +8,34 @@ author_profile: true
 {% include base_path %}
 ## Teaching Experience
 ### <span style="color:#52adc8;"> ▶ Current Teaching </span>
+
+##### <i> University of Northern British Columbia, Prince George, Canada </i>
 <ul style="padding-left: 20px; list-style-type: disc;">
+  <li style="margin-bottom: 2px; font-size: 14px;"> 
+    <strong>ECON 205- Statistics for Business and Social Science</strong>, B.A., Fall 2025
+  </li>
+  <ul style="padding-left: 40px; list-style-type: disc;">
+    <li style="margin-bottom: 20px; font-size: 13px;"> 
+<i> Redesigned in 2025 around reproducible data analysis in R (visualization, hypothesis testing, and regression). </i>
+  </li>
+  </ul>
+
+  <li style="margin-bottom: 2px; font-size: 14px;"> 
+    <strong>ECON 317- Money, Banking, and Financial Institutions</strong>, B.A., Winter 2025, Fall 2025
+  </li>
+  <ul style="padding-left: 40px; list-style-type: disc;">
+    <li style="margin-bottom: 20px; font-size: 13px;"> 
+<i> Information and course material are available on this 
+<a href="https://avoumatsodo.github.io/pages/econ-317-details/" target="_blank">webpage</a>.  </i>
+  </li>
+  </ul>
+
+  <li style="margin-bottom: 20px; font-size: 14px;"> 
+    <strong>ECON 608- Managerial Economics</strong>, MBA, Spring 2025
+  </li>
+
   <li style="margin-bottom: 1px; font-size: 14px;"> 
-    <strong> ECON 710- Advanced Macroeconomics</strong>, Winter 2025 
+    <strong>ECON 710- Advanced Macroeconomics</strong>, M.A., Winter 2025 
   </li>
   <ul style="padding-left: 40px; list-style-type: disc;">
     <li style="margin-bottom: 20px; font-size: 13px;"> 
@@ -19,29 +44,40 @@ author_profile: true
   </li>
   </ul>
 
- <li style="margin-bottom: 2px; font-size: 14px;"> 
-    <strong>ECON 205- Statistics for Business and Social Sciences</strong>, Fall 2025
-  </li>
-  
   <li style="margin-bottom: 20px; font-size: 14px;"> 
-    <strong> ECON 698- International Finance and Sustainability</strong>, Fall 2024
+    <strong>ECON 698- International Finance and Sustainability</strong>, Graduate, Fall 2024
   </li>
+</ul>
 
-   <li style="margin-bottom: 20px; font-size: 14px;"> 
-    <strong> ECON 608- Managerial Economics</strong>, Spring 2025
+
+### <span style="color:#52adc8;"> ▶ Graduate Supervision</span>
+<ul style="padding-left: 20px; list-style-type: disc;">
+  <li style="margin-bottom: 7px; font-size: 14px;"> 
+    Theophilus Amaning (M.A. thesis, supervisor): <i>Firms' Reallocation in Response to Carbon Tax: Evidence from Canada</i>
   </li>
-  
-  <li style="margin-bottom: 2px; font-size: 14px;"> 
-    <strong>ECON 317- Money, Banking, and Financial Institutions</strong>, Winter 2025, Fall 2025
+  <li style="margin-bottom: 7px; font-size: 14px;"> 
+    Abel Ocheng (M.A. project, supervisor): <i>The Impact of PST on Industrial Investment in BC</i>
   </li>
-  
-  <ul style="padding-left: 40px; list-style-type: disc;">
-    <li style="margin-bottom: 20px; font-size: 13px;"> 
-<i> Information and course material are available on this 
-<a href="https://avoumatsodo.github.io/pages/econ-317-details/" target="_blank">webpage</a>.  </i>
+  <li style="margin-bottom: 7px; font-size: 14px;"> 
+    Gabriel N. Teye-Ali (M.A. thesis, committee member): <i>ESG, the 2008 Global Financial Crisis and Access to External Credit by Canadian Manufacturing Firms</i>
   </li>
-  </ul>
-  
+  <li style="margin-bottom: 7px; font-size: 14px;"> 
+    Ricardon Thomas (Ph.D. thesis, supervisor): <i>Financial Literacy and the Governance of Savings and Credit Cooperatives: An Analysis of the Financial and Social Performance of SCCs in the South-East of Haiti</i>
+  </li>
+  <li style="margin-bottom: 7px; font-size: 14px;"> 
+    Jacob Eliezer Jean-François (Ph.D. thesis, supervisor): <i>Monetary Policy in the Caribbean: A Comparison Between Haiti and Other Caribbean Countries</i>
+  </li>
+</ul>
+
+
+### <span style="color:#52adc8;"> ▶ Guest Lectures</span>
+<ul style="padding-left: 20px; list-style-type: disc;">
+  <li style="margin-bottom: 7px; font-size: 14px;"> 
+    "Understanding Economic Development," COMM 760, School of Business, UNBC, October 2025
+  </li>
+  <li style="margin-bottom: 7px; font-size: 14px;"> 
+    "What is Economics?," École primaire Franco-Nord, Prince George, February 2025
+  </li>
 </ul>
 
 
