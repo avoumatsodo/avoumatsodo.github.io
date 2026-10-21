@@ -70,17 +70,6 @@ author_profile: true
 </ul>
 
 
-### <span style="color:#52adc8;"> ▶ Guest Lectures</span>
-<ul style="padding-left: 20px; list-style-type: disc;">
-  <li style="margin-bottom: 7px; font-size: 14px;"> 
-    "Understanding Economic Development," COMM 760, School of Business, UNBC, October 2025
-  </li>
-  <li style="margin-bottom: 7px; font-size: 14px;"> 
-    "What is Economics?," École primaire Franco-Nord, Prince George, February 2025
-  </li>
-</ul>
-
-
 ### <span style="color:#52adc8;"> ▶ Previous Teaching</span>
 
 ##### <i> 1. National School of Public Administration, Quebec-City, Canada </i>
