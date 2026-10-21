@@ -11,6 +11,14 @@ author_profile: true
 
 ##### <i> University of Northern British Columbia, Prince George, Canada </i>
 <ul style="padding-left: 20px; list-style-type: disc;">
+  <li style="margin-bottom: 20px; font-size: 14px;"> 
+    <strong>ECON 312- Introduction to Econometrics</strong>, B.A., Fall 2026
+  </li>
+
+  <li style="margin-bottom: 20px; font-size: 14px;"> 
+    <strong>ECON 322- Public Finance</strong>, B.A., Winter 2026
+  </li>
+
   <li style="margin-bottom: 2px; font-size: 14px;"> 
     <strong>ECON 205- Statistics for Business and Social Science</strong>, B.A., Fall 2025
   </li>
@@ -21,7 +29,7 @@ author_profile: true
   </ul>
 
   <li style="margin-bottom: 2px; font-size: 14px;"> 
-    <strong>ECON 317- Money, Banking, and Financial Institutions</strong>, B.A., Winter 2025, Fall 2025
+    <strong>ECON 317- Money, Banking, and Financial Institutions</strong>, B.A., Winter 2025, Fall 2025, Fall 2026
   </li>
   <ul style="padding-left: 40px; list-style-type: disc;">
     <li style="margin-bottom: 20px; font-size: 13px;"> 
@@ -31,11 +39,11 @@ author_profile: true
   </ul>
 
   <li style="margin-bottom: 20px; font-size: 14px;"> 
-    <strong>ECON 608- Managerial Economics</strong>, MBA, Spring 2025
+    <strong>ECON 608- Managerial Economics</strong>, MBA, Spring 2025, Spring 2026
   </li>
 
   <li style="margin-bottom: 1px; font-size: 14px;"> 
-    <strong>ECON 710- Advanced Macroeconomics</strong>, M.A., Winter 2025 
+    <strong>ECON 710- Advanced Macroeconomics</strong>, M.A., Winter 2025, Winter 2026
   </li>
   <ul style="padding-left: 40px; list-style-type: disc;">
     <li style="margin-bottom: 20px; font-size: 13px;"> 
