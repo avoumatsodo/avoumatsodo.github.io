@@ -20,7 +20,7 @@ author_profile: true
   </li>
 
   <li style="margin-bottom: 2px; font-size: 14px;"> 
-    <strong>ECON 205- Statistics for Business and Social Science</strong>, B.A., Fall 2025
+    <strong>ECON 205- Statistics for Business and Social Science</strong>, B.A., Fall 2025, Winter 2026, Fall 2026
   </li>
   <ul style="padding-left: 40px; list-style-type: disc;">
     <li style="margin-bottom: 20px; font-size: 13px;"> 
